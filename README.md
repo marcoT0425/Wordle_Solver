@@ -61,3 +61,5 @@ You can download the `full tree` for reference, here is an example:
 | `canst`       | 3.459   | 8004  | 0       | 59      | **1174**| 1042    | 38      | 1       | 0    |
 | `rated`       | 3.490   | 8075  | 0       | 68      | 1090    |**1111** | 45      | 0       | 0    |
 | `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
+
+Should you have any problems, please contact me by mankotoa@gmail.com or to open an issue.
