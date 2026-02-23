@@ -24,3 +24,26 @@ answer=`chase` input=`slate` colouring=`y_g_g`
 answer=`fever` input=`eerie` colouring=`ygy__`
 
 answer=`speed` input=`tribe` colouring=`__y__`
+
+# Checking the next word
+The solver is NOT using hard mode. The rule is that the AI has to check a word with the most pairs and with the smallest "biggest pair", e.g. `slate` = `g_g_g`, the best word is `chirp`, with 9 pairs and the largest group is 4. Check the remaining words first, and then the full word list.
+
+You can download the `full tree` for reference, here is an example:
+
+`aback 1/2315`
+
+`2315 words remaining`
+
+`slate __g__`
+
+`48 words remaining`
+
+`churn y____`
+
+`1 words remaining`
+
+`aback ggggg`
+
+`solved`
+
+...
