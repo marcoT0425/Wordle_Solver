@@ -50,6 +50,8 @@ You can download the `full tree` for reference, here is an example:
 
 # Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group")
 
+After testing some of the starting words, the results are similar to 3B1B. The best is "`SLATE`".
+
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
 | `slate`       | 3.428   | 7932  | 1       | 67      | **1245**| 945     | 54      | 2       | 0    |
@@ -61,5 +63,13 @@ You can download the `full tree` for reference, here is an example:
 | `canst`       | 3.459   | 8004  | 0       | 59      | **1174**| 1042    | 38      | 1       | 0    |
 | `rated`       | 3.490   | 8075  | 0       | 68      | 1090    |**1111** | 45      | 0       | 0    |
 | `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
+
+# Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group")
+
+Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `bound`, `sound`, `round`, `mound`, `found`, `pound` etc.
+
+| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
+| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+| `slate`       | 3.530   | 8168  | 1       | 120     | **1081**| 926     | 148     | 27      | 11   |
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
