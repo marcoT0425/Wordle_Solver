@@ -48,7 +48,7 @@ You can download the `full tree` for reference, here is an example:
 
 ...
 
-# Status (for some starting words) (in Easy Mode)
+# Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group")
 
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
