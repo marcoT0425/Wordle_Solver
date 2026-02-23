@@ -71,5 +71,11 @@ Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `boun
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
 | `slate`       | 3.530   | 8168  | 1       | 120     | **1081**| 926     | 148     | 27      | 11   |
+| `least`       | 3.531   | 8171  | 1       | 115     | **1075**| 943     | 147     | 24      | 9    |
+| `crane`       | 3.538   | 8187  | 1       | 117     | **1059**| 950     | 154     | 27      | 6    |
+| `plate`       | 3.547   | 8207  | 1       | 111     | **1047**| 970     | 152     | 28      | 5    |
+| `dealt`       | 3.552   | 8220  | 1       | 102     | **1061**| 960     | 158     | 24      | 8    |
+| `plant`       | 3.554   | 8223  | 1       | 102     | 1015    | **1034**| 140     | 18      | 4    |
+| `trope`       | 3.568   | 8256  | 1       | 109     | 1005    | **1008**| 163     | 21      | 7    |
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
