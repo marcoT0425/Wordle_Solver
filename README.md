@@ -91,7 +91,7 @@ Other starting words (I'll do it later):
 * AUDIO
 * SOARE
 * ROATE
-* STARE
+* STARE (✓)
 * QAJAQ
 * SUSUS
 * XYLYL
@@ -106,5 +106,7 @@ Other starting words (I'll do it later):
 * RAISE
 * OUIJA
 * IMMIX
+* EERIE
+* SAUCE
 
 (Whole processing: about 30 minutes or even hours for each word)
