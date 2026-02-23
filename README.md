@@ -54,6 +54,7 @@ After testing some of the starting words, the results are similar to 3B1B. The b
 
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+| `salet`       | 3.427   | 7929  | 0       | 79      | **1213**| 980     | 40      | 2       | 0    |
 | `slate`       | 3.428   | 7932  | 1       | 67      | **1245**| 945     | 54      | 2       | 0    |
 | `trace`       | 3.430   | 7938  | 1       | 73      | **1237**| 937     | 64      | 2       | 0    |
 | `crane`       | 3.431   | 7940  | 1       | 70      | **1237**| 946     | 56      | 4       | 0    |
@@ -72,6 +73,7 @@ Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `boun
 
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+| `salet`       | 3.521   | 8147  | 1       | 121     | **1078**| 943     | 142     | 22      | 8   |
 | `slate`       | 3.530   | 8168  | 1       | 120     | **1081**| 926     | 148     | 27      | 11   |
 | `least`       | 3.531   | 8171  | 1       | 115     | **1075**| 943     | 147     | 24      | 9    |
 | `crate`       | 3.537   | 8185  | 1       | 124     | **1075**| 910     | 164     | 30      | 10   |
@@ -97,7 +99,7 @@ Other starting words (I'll do it later):
 * XYLYL
 * SHINE
 * CLASP
-* SALET
+* SALET (✓)
 * CLAST
 * REAST
 * SLANE
