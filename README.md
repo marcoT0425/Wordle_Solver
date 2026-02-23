@@ -82,3 +82,18 @@ Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `boun
 | `cramp`       | 3.608   | 8350  | 1       | 79      | 930     | **1132**| 159     | 13      | 0    |
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
+
+Other starting words (I'll do it later):
+
+* ADIEU
+* AUDIO
+* SOARE
+* ROATE
+* STARE
+* QAJAQ
+* SUSUS
+* XYLYL
+* SHINE
+* CLASP
+
+(Whole processing: about 30 minutes or even hours for each word)
