@@ -9,13 +9,18 @@ This is an example of my Wordle solver. The user must type the starting word, an
 This is a very common mistake. For the double letters, I've used a "`letter frequency`" rule to count all the occurrences of each letter in the word. Next, calculate the green tiles, if the target word is "`slate`" and the user types "chase", the "`a`" and "`e`" are in the same position, so -1 for each letter's occurrences, i.e. checking greens only for answer=`chase` while target=slate is `__g_g`. 
 
 # Examples of my letter frequency rule:
+
 `apple`: `a`:1 `p`:2 `l`:1 `e`:1
+
 `eerie`: `e`:3 `r`:1 `i`:1 
 
 # Checking the yellow (how to get grey or yellow?)
 This is the hardest procedure. I've told you that each occurrence of green will be duducted by 1 of the letter. If the letter frequency is 0, it shows grey because there are no more occurrences. Scan from the first to the last letter, and if the letter is not `g`, scan it, if the frequency of the letter is greater than 0, hit yellow. Otherwise, if there are no more occurrences, hit grey.
 
 # Examples of my double letter rule
+
 answer=`chase` input=`slate` colouring=`y_g_g`
+
 answer=`fever` input=`eerie` colouring=`ygy__`
+
 answer=`speed` input=`tribe` colouring=`__y__`
