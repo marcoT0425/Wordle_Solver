@@ -63,10 +63,11 @@ After testing some of the starting words, the results are similar to 3B1B. The b
 | `canst`       | 3.459   | 8004  | 0       | 59      | **1174**| 1042    | 38      | 1       | 0    |
 | `rated`       | 3.490   | 8075  | 0       | 68      | 1090    |**1111** | 45      | 0       | 0    |
 | `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
+| `cramp`       | 3.543   | 8199  | 1       | 58      | 1003    |**1187** | 65      | 0       | 0    |
 
 # Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group")
 
-Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `bound`, `sound`, `round`, `mound`, `found`, `pound` etc.
+Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `bound`, `sound`, `round`, `mound`, `found`, `pound` etc. "Cramp" is the only word with no fails.
 
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
@@ -78,5 +79,6 @@ Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `boun
 | `dealt`       | 3.552   | 8220  | 1       | 102     | **1061**| 960     | 158     | 24      | 8    |
 | `plant`       | 3.554   | 8223  | 1       | 102     | 1015    | **1034**| 140     | 18      | 4    |
 | `trope`       | 3.568   | 8256  | 1       | 109     | 1005    | **1008**| 163     | 21      | 7    |
+| `cramp`       | 3.608   | 8350  | 1       | 79      | 930     | **1132**| 159     | 13      | 0    |
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
