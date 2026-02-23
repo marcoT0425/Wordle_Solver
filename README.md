@@ -103,7 +103,7 @@ Other starting words (I'll do it later):
 * CLASP
 * SALET (✓)
 * CLAST
-* REAST
+* REAST (✓)
 * SLANE
 * TRIPE
 * TRICE
@@ -112,5 +112,6 @@ Other starting words (I'll do it later):
 * IMMIX
 * EERIE
 * SAUCE
+* TRANS
 
 (Whole processing: about 30 minutes or even hours for each word)
