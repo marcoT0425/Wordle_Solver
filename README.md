@@ -67,6 +67,7 @@ After testing some of the starting words, the results are similar to 3B1B. The b
 | `trans`       | 3.462   | 8010  | 0       | 49      | **1190**| 1033    | 42      | 0       | 0    |
 | `raise`       | 3.468   | 8024  | 1       | 57      | **1186**| 1001    | 67      | 2       | 0    |
 | `rated`       | 3.490   | 8075  | 0       | 68      | 1090    |**1111** | 45      | 0       | 0    |
+| `rated`       | 3.505   | 8111  | 1       | 57      | 1095    |**1096** | 63      | 2       | 0    |
 | `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
 | `cramp`       | 3.543   | 8199  | 1       | 58      | 1003    |**1187** | 65      | 0       | 0    |
 
@@ -108,10 +109,10 @@ Most common traps included:
 
 # Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 guessable list)
 
-(unfinished) I'll be doing SALET, SLATE, CRANE, CRATE, QAJAQ, CRAMP, TRACE
+(unfinished) I'll be doing SALET, CRANE, CRATE, QAJAQ, CRAMP, TRACE
 
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
-| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+| `slate`       | 3.431   | 7939  | 1       | 68      | **1237**| 951     | 55      | 2       | 0    |
 
 # Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable & answer list)
 
