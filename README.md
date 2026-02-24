@@ -48,7 +48,7 @@ You can download the `full tree` for reference, here is an example:
 
 ...
 
-# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group")
+# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 list)
 
 After testing some of the starting words, the results are similar to 3B1B. The best is "`SLATE`".
 
@@ -70,7 +70,7 @@ After testing some of the starting words, the results are similar to 3B1B. The b
 | `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
 | `cramp`       | 3.543   | 8199  | 1       | 58      | 1003    |**1187** | 65      | 0       | 0    |
 
-# Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group")
+# Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 list)
 
 Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `bound`, `sound`, `round`, `mound`, `found`, `pound` etc. "Cramp" is the only word with no fails.
 
