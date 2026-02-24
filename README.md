@@ -65,6 +65,7 @@ After testing some of the starting words, the results are similar to 3B1B. The b
 | `trade`       | 3.454   | 7993  | 1       | 71      | **1177**| 1008    | 55      | 2       | 0    |
 | `canst`       | 3.459   | 8004  | 0       | 59      | **1174**| 1042    | 38      | 1       | 0    |
 | `trans`       | 3.462   | 8010  | 0       | 49      | **1190**| 1033    | 42      | 0       | 0    |
+| `raise`       | 3.468   | 8024  | 1       | 57      | **1186**| 1001    | 67      | 2       | 0    |
 | `rated`       | 3.490   | 8075  | 0       | 68      | 1090    |**1111** | 45      | 0       | 0    |
 | `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
 | `cramp`       | 3.543   | 8199  | 1       | 58      | 1003    |**1187** | 65      | 0       | 0    |
@@ -95,6 +96,7 @@ Most common traps included:
 | `plant`       | 3.554   | 8223  | 1       | 102     | 1015    | **1034**| 140     | 18      | 4    |
 | `stare`       | 3.557   | 8231  | 1       | 110     | **1045**| 967     | 152     | 28      | 11   |
 | `trope`       | 3.568   | 8256  | 1       | 109     | 1005    | **1008**| 163     | 21      | 7    |
+| `raise`       | 3.588   | 8303  | 1       | 114     | **1032**| 925     | 192     | 35      | 15   |
 | `cramp`       | 3.608   | 8350  | 1       | 79      | 930     | **1132**| 159     | 13      | 0    |
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
@@ -117,7 +119,7 @@ Other starting words (I'll do it later):
 * SLANE
 * TRIPE
 * TRICE
-* RAISE
+* RAISE (✓)
 * OUIJA
 * IMMIX
 * EERIE
