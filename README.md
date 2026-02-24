@@ -120,6 +120,20 @@ Most common traps included:
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
 
+# Wordle Status (for some starting words) (in Easy Mode) (with the method "prioritise smallest biggest group") (with the NYT pre-2023 guessable list)
+
+(unfinished) I'll be doing SLATE, TRANS, CRANE
+
+| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
+| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+
+# Wordle Status (for some starting words) (in Easy Mode) (with the method "prioritise smallest biggest group") (with the NYT 2023 guessable list)
+
+(unfinished) I'll be doing SLATE, TRANS, CRANE
+
+| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
+| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
 
 Other starting words (I'll do it later):
