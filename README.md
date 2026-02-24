@@ -48,7 +48,7 @@ You can download the `full tree` for reference, here is an example:
 
 ...
 
-# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 list)
+# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
 
 After testing some of the starting words, the results are similar to 3B1B. The best is "`SLATE`".
 
@@ -70,7 +70,7 @@ After testing some of the starting words, the results are similar to 3B1B. The b
 | `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
 | `cramp`       | 3.543   | 8199  | 1       | 58      | 1003    |**1187** | 65      | 0       | 0    |
 
-# Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 list)
+# Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 guessable list)
 
 Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `bound`, `sound`, `round`, `mound`, `found`, `pound` etc. "Cramp" is the only word with no fails.
 
@@ -99,6 +99,27 @@ Most common traps included:
 | `raise`       | 3.588   | 8303  | 1       | 114     | **1032**| 925     | 192     | 35      | 15   |
 | `cramp`       | 3.608   | 8350  | 1       | 79      | 930     | **1132**| 159     | 13      | 0    |
 
+# Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
+
+(unfinished) I'll be doing SALET, SLATE, CRANE, CRATE, QAJAQ, CRAMP, TRACE, TRAPE, TARSE
+
+| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
+| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+
+# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 guessable list)
+
+(unfinished) I'll be doing SALET, SLATE, CRANE, CRATE, QAJAQ, CRAMP, TRACE
+
+| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
+| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+
+# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable & answer list)
+
+(unfinished) I'll be doing SLATE, CRANE, CRUMP
+
+| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
+| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
 
 Other starting words (I'll do it later):
@@ -117,7 +138,9 @@ Other starting words (I'll do it later):
 * CLAST
 * REAST (✓)
 * SLANE
+* TARSE
 * TRIPE
+* TRINE
 * TRICE
 * RAISE (✓)
 * OUIJA
