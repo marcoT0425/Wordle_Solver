@@ -100,19 +100,20 @@ Most common traps included:
 | `raise`       | 3.588   | 8303  | 1       | 114     | **1032**| 925     | 192     | 35      | 15   |
 | `cramp`       | 3.608   | 8350  | 1       | 79      | 930     | **1132**| 159     | 13      | 0    |
 
+# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 guessable list)
+
+(unfinished) I'll be doing SALET, CRANE, CRATE, QAJAQ, CRAMP, TRACE
+
+| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
+| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+| `slate`       | 3.431   | 7939  | 1       | 68      | **1237**| 951     | 55      | 2       | 0    |
+
 # Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
 
 (unfinished) I'll be doing SALET, SLATE, CRANE, CRATE, QAJAQ, CRAMP, TRACE, TRAPE, TARSE
 
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
-
-# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 guessable list)
-
-(unfinished) I'll be doing SALET, CRANE, CRATE, QAJAQ, CRAMP, TRACE
-
-| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
-| `slate`       | 3.431   | 7939  | 1       | 68      | **1237**| 951     | 55      | 2       | 0    |
 
 # Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable & answer list)
 
