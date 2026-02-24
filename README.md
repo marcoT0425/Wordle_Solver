@@ -73,6 +73,14 @@ After testing some of the starting words, the results are similar to 3B1B. The b
 
 Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `bound`, `sound`, `round`, `mound`, `found`, `pound` etc. "Cramp" is the only word with no fails.
 
+Most common traps included:
+
+* `_IGHT` (eight, fight, light, might, sight, tight, wight, right)
+* `_OUND` (bound, found, hound, mound, pound, round, sound, wound)
+* `_A_ER` (paper, baker, waver, cater, laser, parer, gazer, gayer, maker etc.)
+* `_O_ER` **(most severe)** (power, voter, rover, rower, joker, loser, mower, corer, hover etc.)
+* `_ILLY` (billy, filly, hilly, silly, willy)
+
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
 | `salet`       | 3.521   | 8147  | 1       | 121     | **1078**| 943     | 142     | 22      | 8    |
