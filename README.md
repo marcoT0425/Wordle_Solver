@@ -50,6 +50,8 @@ You can download the `full tree` for reference, here is an example:
 
 # Running the code
 
+(The codes have no relation to Python, JavaScript or CSS. These are just the text expression of the Scratch blocks using different symbols. Copying the code itself is highly discouraged.)
+
 You have to download `Wordle Bot Solver.sb3` and run it in Scratch or Turbowarp.
 
 * List: `proper word` (meaning the answer list) (remember always remove the space at the last item whenever possible) (you can update it)
@@ -87,6 +89,8 @@ set {ans} to (join {best word} (join ( )[colourboard]))
 
 <img width="280" height="397" alt="Screenshot 2026-02-25 at 6 01 44 PM" src="https://github.com/user-attachments/assets/01f4c174-11f5-4728-ab82-49be836a24df" />
 
+# Word lists
+
 For the word lists, there are two lists, which are:
 * `proper word` (the answer word list)
 * `word list` (two words) (the guessable word list)
@@ -98,6 +102,65 @@ Word lists:
 
 * By using the lists, you **must** delete the last item with a space to avoid causing errors.
 
+# Toggling hard mode
+
+By toggling the hard mode, you have to do something, which are:
+
+1. The hard mode block
+<img width="294" height="452" alt="Screenshot 2026-02-25 at 6 41 39 PM" src="https://github.com/user-attachments/assets/5caa0b5e-02d1-4928-a2b1-2e944bef6449" />
+
+2. For the "`find the best choice`" block, you **must** change something, which is:
+ 
+**Easy mode (Original)** (Some of the variable names have no relation to the meaning. Therefore it might be an unknown word or a typo.)
+
+`{variable}` `(text)` `[list]` `<boolean>` 
+
+* Note: greater-than is >, while less-than is <, to avoid confusion.
+
+```
+define find the best choice 
+...
+repeat (length of [cc])
+if <[item {crnae} of cc] greater-than {aaaaa}>
+set {aaaaaa} to [item {crnae} of cc]
+_
+change {crnae} by 1
+if <([length of crane] + (() - ({aaaaaa} / 1000))) greater-than {best group}>
+...
+```
+<img width="298" height="248" alt="Screenshot 2026-02-25 at 7 00 23 PM" src="https://github.com/user-attachments/assets/c57a265b-e3f3-4089-af11-f9dcb5b53191" />
+
+**Hard mode (If toggled)** (Some of the variable names have no relation to the meaning. Therefore it might be an unknown word or a typo.)
+
+`{variable}` `(text)` `[list]` `<boolean>` 
+
+* Note: greater-than is >, while less-than is <, to avoid confusion. The word "hard" is a customised block.
+
+```
+define find the best choice 
+...
+repeat (length of [cc])
+if <[item {crnae} of cc] greater-than {aaaaa}>
+set {aaaaaa} to [item {crnae} of cc]
+_
+hard
+change {crnae} by 1
+if <<([length of crane] + (() - ({aaaaaa} / 1000))) greater-than {best group}> and <{prob} = 0>>
+...
+```
+<img width="305" height="217" alt="Screenshot 2026-02-25 at 7 05 22 PM" src="https://github.com/user-attachments/assets/429d57ee-cf2c-45b4-a3ee-8d2cd93d13b9" />
+
+# Critical notes when running the .sb3 file
+
+1. The user must turn on the Turbo Mode.
+2. The user must turn on the 60 FPS Mode. (TurboWarp only) 
+3. If the user is using TurboWarp, they are recommended to turn on the High Quality Pen and Warp Timer mode)
+
+# The .sb3 File
+
+https://github.com/marcoT0425/Wordle_Solver/blob/main/Wordle%20Bot%20(Use).sb3
+
+The user must use this file instead of the others.
 
 
 # Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
