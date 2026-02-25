@@ -50,6 +50,45 @@ You can download the `full tree` for reference, here is an example:
 
 # Running the code
 
+You have to download `Wordle Bot Solver.sb3` and run it in Scratch or Turbowarp.
+
+* List: `proper word` (meaning the answer list) (remember always remove the space at the last item whenever possible) (you can update it)
+* List: `word list` (meaning the guessable words) (remember always remove the space at the last item whenever possible) (you can update it)
+* List: `full tree` (meaning the statistics) (do not update)
+* List: `answer tree` (meaning the statistics without "words remaining") (you can update like)
+
+Method 1 (e.g. `trans __g__ clime y____ aahed gy___ aback ggggg`)
+
+`{variable}` `(text)` `[list]` `<boolean>`
+
+```...
+if <{best word} = [item {secret} of proper word]>
+add (join(join {best word} (join ()[colourboard]))( )) to [_tree]
+else
+add (join(join {best word} (join ()[colourboard]))( )) to [_tree]
+set {ans} to (join {best word} (join ( )[colourboard]))
+...
+```
+
+or
+
+Method 2 (e.g. `trans,clime,aahed,aback`)
+
+`{variable}` `(text)` `[list]` `<boolean>`
+
+```...
+if <{best word} = [item {secret} of proper word]>
+add {best word} to [_tree]
+else
+add (join{best word}(,)) to [_tree]
+set {ans} to (join {best word} (join ( )[colourboard]))
+...
+```
+
+<img width="280" height="397" alt="Screenshot 2026-02-25 at 6 01 44 PM" src="https://github.com/user-attachments/assets/01f4c174-11f5-4728-ab82-49be836a24df" />
+
+
+
 # Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
 
 After testing some of the starting words, the results are similar to 3B1B. The best is "`SLATE`".
