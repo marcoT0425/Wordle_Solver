@@ -48,6 +48,8 @@ You can download the `full tree` for reference, here is an example:
 
 ...
 
+# Running the code
+
 # Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
 
 After testing some of the starting words, the results are similar to 3B1B. The best is "`SLATE`".
@@ -122,9 +124,6 @@ Most common traps included:
 | Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
 | ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
 
-
-Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
-
 Other starting words (I'll do it later):
 
 * ADIEU
@@ -153,3 +152,5 @@ Other starting words (I'll do it later):
 * TRANS (✓)
 
 (Whole processing: about 30 minutes or even hours for each word)
+
+Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
