@@ -154,7 +154,7 @@ if <<([length of crane] + (() - ({aaaaaa} / 1000))) greater-than {best group}> a
 
 1. The user must turn on the Turbo Mode.
 2. The user must turn on the 60 FPS Mode. (TurboWarp only) 
-3. If the user is using TurboWarp, they are recommended to turn on the High Quality Pen and Warp Timer mode)
+3. If the user is using TurboWarp, they are recommended to turn on the High Quality Pen and Warp Timer mode.
 
 # The .sb3 File
 
