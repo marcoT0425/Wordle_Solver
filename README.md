@@ -87,6 +87,17 @@ set {ans} to (join {best word} (join ( )[colourboard]))
 
 <img width="280" height="397" alt="Screenshot 2026-02-25 at 6 01 44 PM" src="https://github.com/user-attachments/assets/01f4c174-11f5-4728-ab82-49be836a24df" />
 
+For the word lists, there are two lists, which are:
+* `proper word` (the answer word list)
+* `word list` (two words) (the guessable word list)
+(by finding the word lists, please go to https://github.com/alex1770/wordle)
+
+Word lists:
+* (For `proper word`) use https://github.com/alex1770/wordle/blob/main/wordlist_nyt20230701_hidden (post-2023) or https://github.com/marcoT0425/Wordle_Solver/blob/main/proper%20word.txt (pre-2023)
+* (For `word list`) use [https://github.com/alex1770/wordle/blob/main/wordlist_nyt20230701_hidden (post-2023) or https://github.com/marcoT0425/Wordle_Solver/blob/main/proper%20word.txt (pre-2023)](https://github.com/marcoT0425/Wordle_Solver/blob/main/nyt%20pre-2023.txt) (pre-NYT) or https://github.com/alex1770/wordle/blob/main/wordlist_nyt20220830_all.
+
+* By using the lists, you **must** delete the last item with a space to avoid causing errors.
+
 
 
 # Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
