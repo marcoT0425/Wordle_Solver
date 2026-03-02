@@ -1,6 +1,8 @@
 # Wordle_Solver
 A Wordle solver created by me (Turbowarp)
 
+https://docs.google.com/document/d/1HsSndPdj18PqUPx67PppcufmEn9fEXdVQoeagGPAMt8/edit?usp=sharing
+
 <img width="746" height="365" alt="Screenshot 2026-02-23 at 11 57 42 AM" src="https://github.com/user-attachments/assets/3d041d03-4b5f-4a2f-997d-d149bda21b7a" />
 
 This is an example of my Wordle solver. The user must type the starting word, and the AI will automatically calculate the second word. After that, the AI starts to run all 2,315 words in the list. 
@@ -218,9 +220,47 @@ Most common traps included:
 
 (unfinished) I'll be doing SALET, REAST, CRATE, TRACE, SLATE, CRANE, CARLE, SLANE, CRATE, TORSE, CRAMP, CRUMP, CHOMP, WHOMP, CLASP, SLANT, PLANT, QAJAQ, XYLYL, PZAZZ
 
-| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
-| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
-| `slate`       | 3.431   | 7939  | 1       | 68      | **1237**| 951     | 55      | 2       | 0    |
+Rank  (Best starting words in Wordle) (Top 10) (Estimation):
+SALET 3.427
+SLATE 3.431
+REAST 3.432
+CRATE 3.432
+TRACE 3.433
+CRANE 3.433
+CARLE 3.436
+SLANE 3.437
+TORSE 3.442
+CARTE 3.442
+
+Rank (Other starting words)
+SLANT 3.439
+TRINE 3.446
+STALE 3.448
+TRAIN 3.449
+SLART 3.450
+PLATE 3.459
+PARSE 3.459
+CANST 3.459
+SOARE 3.462
+ROATE 3.463
+TRIPE 3.465
+TARES 3.466
+AROSE 3.466
+RAISE 3.468
+PLANT 3.475
+IRATE 3.476
+HEART 3.485
+LATER 3.489
+STEAL 3.501
+GREAT 3.509
+HOUSE 3.580
+CHOMP 3.618
+ADIEU 3.623
+AUDIO 3.637
+AYAYA 4.000
+QAJAQ 4.114
+
+
 
 # Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
 
