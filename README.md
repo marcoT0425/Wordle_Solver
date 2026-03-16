@@ -167,28 +167,27 @@ The user must use this file instead of the others.
 
 # Wordle Status (leaderboard)
 Easy mode: 12972 words, 2315 answers:
-
-* 1.  `salet`: 3.427 Avg.
-* 2.  `slate`: 3.431 Avg.
-* =3. `reast`: 3.432 Avg.
-* =3. `crate`: 3.432 Avg.
-* =5. `trace`: 3.433 Avg.
-* =5. `crane`: 3.433 Avg.
-* 7.  `carle`: 3.436 Avg.
-* 8.  `slane`: 3.437 Avg.
-* 9.  `slant`: 3.439 Avg.
-* =10.`carte`: 3.442 Avg.
-* =10.`torse`: 3.442 Avg.
+1.  `salet`: 3.427 Avg.
+2.  `slate`: 3.431 Avg.
+3. `reast`: 3.432 Avg.
+4. `crate`: 3.432 Avg.
+5. `trace`: 3.433 Avg.
+6. `crane`: 3.433 Avg.
+7.  `carle`: 3.436 Avg.
+8.  `slane`: 3.437 Avg.
+9.  `slant`: 3.439 Avg.
+10.`carte`: 3.442 Avg.
+11.`torse`: 3.442 Avg.
 
 Easy mode 14855 words, 2315 answers:
 
-* 1.  `tarse`: 3.426 Avg.
-* 2.  `salet`: 3.427 Avg.
-* 3.  `slate`: 3.428 Avg.
-* 4.  `trace`: 3.430 Avg.
-* =5. `crane`: 3.431 Avg.
-* =5. `reast`: 3.431 Avg.
-* 6.  `crate`: 3.432 Avg.
+1.  `tarse`: 3.426 Avg.
+2.  `salet`: 3.427 Avg.
+3.  `slate`: 3.428 Avg.
+4.  `trace`: 3.430 Avg.
+5. `crane`: 3.431 Avg.
+6. `reast`: 3.431 Avg.
+7.  `crate`: 3.432 Avg.
 
 (Whole processing: about 30 minutes or even hours for each word)
 
