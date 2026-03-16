@@ -165,143 +165,30 @@ https://github.com/marcoT0425/Wordle_Solver/blob/main/Wordle%20Bot%20(Use).sb3
 The user must use this file instead of the others.
 
 
-# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
+# Wordle Status (leaderboard)
+Easy mode: 12972 words, 2315 answers:
 
-After testing some of the starting words, the results are similar to 3B1B. The best is "`SLATE`".
+* 1.  `salet`: 3.427 Avg.
+* 2.  `slate`: 3.431 Avg.
+* =3. `reast`: 3.432 Avg.
+* =3. `crate`: 3.432 Avg.
+* =5. `trace`: 3.433 Avg.
+* =5. `crane`: 3.433 Avg.
+* 7.  `carle`: 3.436 Avg.
+* 8.  `slane`: 3.437 Avg.
+* 9.  `slant`: 3.439 Avg.
+* =10.`carte`: 3.442 Avg.
+* =10.`torse`: 3.442 Avg.
 
-| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
-| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
-| `salet`       | 3.427   | 7929  | 0       | 79      | **1213**| 980     | 40      | 2       | 0    |
-| `slate`       | 3.428   | 7932  | 1       | 67      | **1245**| 945     | 54      | 2       | 0    |
-| `trace`       | 3.430   | 7938  | 1       | 73      | **1237**| 937     | 64      | 2       | 0    |
-| `crane`       | 3.431   | 7940  | 1       | 70      | **1237**| 946     | 56      | 4       | 0    |
-| `reast`       | 3.431   | 7940  | 0       | 68      | **1233**| 960     | 53      | 0       | 0    |
-| `crate`       | 3.432   | 7941  | 1       | 82      | **1215**| 951     | 63      | 2       | 0    |
-| `trone`       | 3.450   | 7984  | 0       | 58      | **1224**| 964     | 68      | 0       | 0    |
-| `stare`       | 3.453   | 7991  | 1       | 48      | **1237**| 958     | 69      | 1       | 0    |
-| `trade`       | 3.454   | 7993  | 1       | 71      | **1177**| 1008    | 55      | 2       | 0    |
-| `canst`       | 3.459   | 8004  | 0       | 59      | **1174**| 1042    | 38      | 1       | 0    |
-| `trans`       | 3.462   | 8010  | 0       | 49      | **1190**| 1033    | 42      | 0       | 0    |
-| `raise`       | 3.468   | 8024  | 1       | 57      | **1186**| 1001    | 67      | 2       | 0    |
-| `rated`       | 3.490   | 8075  | 0       | 68      | 1090    |**1111** | 45      | 0       | 0    |
-| `craft`       | 3.510   | 8133  | 1       | 67      | 1054    |**1124** | 68      | 0       | 0    |
-| `cramp`       | 3.543   | 8199  | 1       | 58      | 1003    |**1187** | 65      | 0       | 0    |
+Easy mode 14855 words, 2315 answers:
 
-# Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups only") (with the NYT pre-2023 guessable list)
-
-Some of the puzzles is failed because of the traps, e.g. `wound`, `found`, `bound`, `sound`, `round`, `mound`, `found`, `pound` etc. "Cramp" is the only word with no fails.
-
-Most common traps included:
-
-* `_IGHT` (eight, fight, light, might, sight, tight, wight, right)
-* `_OUND` (bound, found, hound, mound, pound, round, sound, wound)
-* `_A_ER` (paper, baker, waver, cater, laser, parer, gazer, gayer, maker etc.)
-* `_O_ER` **(most severe)** (power, voter, rover, rower, joker, loser, mower, corer, hover etc.)
-* `_ILLY` (billy, filly, hilly, silly, willy)
-
-| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
-| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
-| `salet`       | 3.521   | 8147  | 1       | 121     | **1078**| 943     | 142     | 22      | 8    |
-| `slate`       | 3.530   | 8168  | 1       | 120     | **1081**| 926     | 148     | 27      | 11   |
-| `least`       | 3.531   | 8171  | 1       | 115     | **1075**| 943     | 147     | 24      | 9    |
-| `reast`       | 3.532   | 8174  | 0       | 121     | **1070**| 940     | 148     | 25      | 10   |
-| `crate`       | 3.537   | 8185  | 1       | 124     | **1075**| 910     | 164     | 30      | 10   |
-| `crane`       | 3.538   | 8187  | 1       | 117     | **1059**| 950     | 154     | 27      | 6    |
-| `plate`       | 3.547   | 8207  | 1       | 111     | **1047**| 970     | 152     | 28      | 5    |
-| `dealt`       | 3.552   | 8220  | 1       | 102     | **1061**| 960     | 158     | 24      | 8    |
-| `trans`       | 3.553   | 8221  | 0       | 92      | **1060**| 985     | 149     | 24      | 4    |
-| `plant`       | 3.554   | 8223  | 1       | 102     | 1015    | **1034**| 140     | 18      | 4    |
-| `stare`       | 3.557   | 8231  | 1       | 110     | **1045**| 967     | 152     | 28      | 11   |
-| `trope`       | 3.568   | 8256  | 1       | 109     | 1005    | **1008**| 163     | 21      | 7    |
-| `raise`       | 3.588   | 8303  | 1       | 114     | **1032**| 925     | 192     | 35      | 15   |
-| `cramp`       | 3.608   | 8350  | 1       | 79      | 930     | **1132**| 159     | 13      | 0    |
-
-# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT pre-2023 guessable list)
-
-(unfinished) I'll be doing SALET, REAST, CRATE, TRACE, SLATE, CRANE, CARLE, SLANE, CRATE, TORSE, CRAMP, CRUMP, CHOMP, WHOMP, CLASP, SLANT, PLANT, QAJAQ, XYLYL, PZAZZ
-
-Rank  (Best starting words in Wordle) (Top 10) (Estimation):
-SALET 3.427
-SLATE 3.431
-REAST 3.432
-CRATE 3.432
-TRACE 3.433
-CRANE 3.433
-CARLE 3.436
-SLANE 3.437
-TORSE 3.442
-CARTE 3.442
-
-Rank (Other starting words)
-SLANT 3.439
-TRINE 3.446
-STALE 3.448
-TRAIN 3.449
-SLART 3.450
-PLATE 3.459
-PARSE 3.459
-CANST 3.459
-SOARE 3.462
-ROATE 3.463
-TRIPE 3.465
-TARES 3.466
-AROSE 3.466
-RAISE 3.468
-PLANT 3.475
-IRATE 3.476
-HEART 3.485
-LATER 3.489
-STEAL 3.501
-GREAT 3.509
-HOUSE 3.580
-CHOMP 3.618
-ADIEU 3.623
-AUDIO 3.637
-AYAYA 4.000
-QAJAQ 4.114
-
-
-
-# Wordle Status (for some starting words) (in Hard Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable list)
-
-(unfinished) I'll be doing SALET, REAST, CRATE, TRACE, SLATE, CRANE, CARLE, SLANE, CRATE, TORSE, CRAMP, CRUMP, CHOMP, WHOMP, CLASP, SLANT, PLANT, QAJAQ, XYLYL, PZAZZ
-
-| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
-| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
-
-# Wordle Status (for some starting words) (in Easy Mode) (with the method "most groups, smallest biggest group") (with the NYT 2023 guessable & answer list)
-
-(unfinished) I'll be doing SLATE, CRANE, CRUMP
-
-| Starting word | average | total | 1-guess | 2-guess | 3-guess | 4-guess | 5-guess | 6-guess | fail |
-| ------------- | ------- | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
-
-Other starting words (I'll do it later):
-
-* ADIEU
-* AUDIO
-* SOARE
-* ROATE
-* STARE (✓)
-* QAJAQ
-* SUSUS
-* XYLYL
-* SHINE
-* CLASP
-* SALET (✓)
-* CLAST
-* REAST (✓)
-* SLANE
-* TARSE
-* TRIPE
-* TRINE
-* TRICE
-* RAISE (✓)
-* OUIJA
-* IMMIX
-* EERIE
-* SAUCE
-* TRANS (✓)
+* 1.  `tarse`: 3.426 Avg.
+* 2.  `salet`: 3.427 Avg.
+* 3.  `slate`: 3.428 Avg.
+* 4.  `trace`: 3.430 Avg.
+* =5. `crane`: 3.431 Avg.
+* =5. `reast`: 3.431 Avg.
+* 6.  `crate`: 3.432 Avg.
 
 (Whole processing: about 30 minutes or even hours for each word)
 
