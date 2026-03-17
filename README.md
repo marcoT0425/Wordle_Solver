@@ -179,7 +179,7 @@ Easy mode: 12972 words, 2315 answers:
 10. `carte`: 3.442 Avg.
 11. `torse`: 3.442 Avg.
 
-# Other best openers (not fully tested):
+# Other best openers (not fully tested, but I've been working with other best openers):
 * `prate`: 3.445 Avg.
 * `trine`: 3.446 Avg.
 * `trice`: 3.447 Avg.
@@ -189,6 +189,20 @@ Easy mode: 12972 words, 2315 answers:
 * `roast`: 3.450 Avg.
 * `carse`: 3.451 Avg.
 * `trape`: 3.453 Avg.
+* `saint`: 3.456 Avg.
+* `plate`: 3.459 Avg.
+* `parse`: 3.459 Avg.
+* `canst`: 3.459 Avg.
+* `soare`: 3.462 Avg.
+
+# The hall of shame (not fully tested, but I've been working with other best openers):
+* `qajaq`: 4.114 Avg.
+* `immix`: 4.022 Avg.
+* `ayaya`: 4.000 Avg.
+* `quiff`: 3.960 Avg.
+* `akkas`: 3.898 Avg.
+* `whiff`: 3.866 Avg.
+* `ouija`: 3.802 Avg.
 
 Easy mode 14855 words, 2315 answers:
 
