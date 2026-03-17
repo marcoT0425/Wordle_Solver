@@ -179,6 +179,17 @@ Easy mode: 12972 words, 2315 answers:
 10. `carte`: 3.442 Avg.
 11. `torse`: 3.442 Avg.
 
+# Other best openers (not fully tested):
+* `prate`: 3.445 Avg.
+* `trine`: 3.446 Avg.
+* `trice`: 3.447 Avg.
+* `stale`: 3.448 Avg.
+* `train`: 3.449 Avg.
+* `slart`: 3.450 Avg.
+* `roast`: 3.450 Avg.
+* `carse`: 3.451 Avg.
+* `trape`: 3.453 Avg.
+
 Easy mode 14855 words, 2315 answers:
 
 1.  `tarse`: 3.426 Avg. (Difference: —) (New word)
