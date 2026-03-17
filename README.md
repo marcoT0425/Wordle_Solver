@@ -204,6 +204,16 @@ Easy mode: 12972 words, 2315 answers:
 * `whiff`: 3.866 Avg.
 * `ouija`: 3.802 Avg.
 
+# Player's favourite (from NYT) (not fully tested, but I've been working with other best openers):
+* `soare`: 3.462 Avg.
+* `arose`: 3.466 Avg.
+* `raise`: 3.468 Avg.
+* `great`: 3.509 Avg.
+* `dream`: 3.536 Avg.
+* `house`: 3.580 Avg.
+* `adieu`: 3.623 Avg.
+* `audio`: 3.637 Avg.
+
 Easy mode 14855 words, 2315 answers:
 
 1.  `tarse`: 3.426 Avg. (Difference: —) (New word)
