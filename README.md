@@ -198,6 +198,7 @@ Easy mode: 12972 words, 2315 answers:
 # The hall of shame (not fully tested, but I've been working with other best openers):
 * `qajaq`: 4.114 Avg.
 * `immix`: 4.022 Avg.
+* `xylyl`: 4.012 Avg.
 * `ayaya`: 4.000 Avg.
 * `quiff`: 3.960 Avg.
 * `akkas`: 3.898 Avg.
@@ -211,6 +212,7 @@ Easy mode: 12972 words, 2315 answers:
 * `great`: 3.509 Avg.
 * `dream`: 3.536 Avg.
 * `house`: 3.580 Avg.
+* `scowl`: 3.592 Avg.
 * `adieu`: 3.623 Avg.
 * `audio`: 3.637 Avg.
 
