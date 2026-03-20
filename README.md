@@ -1,4 +1,8 @@
 # Wordle_Solver
+
+**(!) NSFW WARNING: This repository contains sexually explicit language and profanity intended for use with the game Lewdle. Content is for technical/gaming purposes only.
+**
+
 A Wordle solver created by me (Turbowarp)
 
 https://docs.google.com/document/d/1HsSndPdj18PqUPx67PppcufmEn9fEXdVQoeagGPAMt8/edit?usp=sharing
@@ -232,6 +236,17 @@ Repeatle (https://repeatle.netlify.app/)
 * `saree`: 3.325 Avg.
 * `eerie`: 3.572 Avg.
 * `qajaq`: 3.953 Avg.
+
+Lewdle (Note: I won't show you the list of words due to sensitive context)
+
+<details>
+<summary><b>Click to show NSFW Word List</b></summary>
+
+* `traps`: 3.082 Avg.
+* `penis`: 3.115 Avg.
+* `farts`: 3.138 Avg.
+
+</details>
 
 (Whole processing: about 30 minutes or even hours for each word)
 
