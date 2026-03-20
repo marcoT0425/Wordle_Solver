@@ -269,11 +269,11 @@ Lewdle (5-letter) (Note: I won't show you the list of words due to sensitive con
 * `fucks`: 3.266 Avg.
 * `jizzy`: 3.686 Avg.
 
+</details>
+
 Easy mode (not fully tested) (4-letter words, based on hello wordl's word lists) Note: It is impossible to guarantee every puzzle to solve within 6 guesses, though the solve rate is very high, which is 99.4%. File: `Wordle Bot (Use) (customised4-letter)
 
 1. `tela`: 4.267 Avg. (99.4% Solve rate)
-
-</details>
 
 (Whole processing: about 30 minutes or even hours for each word)
 
