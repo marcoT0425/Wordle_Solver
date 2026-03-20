@@ -250,6 +250,10 @@ Lewdle (5-letter) (Note: I won't show you the list of words due to sensitive con
 * `boner`: 3.140 Avg.
 * `moist`: 3.157 Avg.
 * `spank`: 3.172 Avg.
+* `arsed`: 3.176 Avg.
+* `ahole`: 3.216 Avg.
+* `shits`: 3.231 Avg.
+* `fucks`: 3.266 Avg.
 
 </details>
 
