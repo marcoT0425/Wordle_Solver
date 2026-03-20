@@ -276,6 +276,10 @@ Easy mode (not fully tested) (4-letter words, based on hello wordl's word lists)
 1. `tela`: 4.267 Avg. (99.4% Solve rate)
 2. `lean`: 4.284 Avg. (99.3% Solve rate)
 
+Easy mode (6-letter words)
+
+1. `salter`: 3.178 Avg. (5-guess: 23/4562, 6-guess: 0/4562)
+
 (Whole processing: about 30 minutes or even hours for each word)
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
