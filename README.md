@@ -242,15 +242,15 @@ Lewdle (5-letter) (Note: I won't show you the list of words due to sensitive con
 <details>
 <summary><b>Click to show NSFW Word List</b></summary>
 
-* `traps`: 3.082 Avg.
-* `cunts`: 3.113 Avg.
-* `penis`: 3.115 Avg.
-* `train`: 3.115 Avg.
-* `loins`: 3.117 Avg.
-* `shart`: 3.130 Avg.
-* `clits`: 3.130 Avg.
-* `barse`: 3.132 Avg.
-* `carse`: 3.136 Avg.
+* `traps`: 3.082 Avg. / 3.099 Avg. (Hard mode)
+* `cunts`: 3.113 Avg. / 3.141 Avg. (Hard mode)
+* `penis`: 3.115 Avg. / 3.134 Avg. (Hard mode)
+* `train`: 3.115 Avg. / 3.119 Avg. (Hard mode)
+* `loins`: 3.117 Avg. / 3.145 Avg. (Hard mode)
+* `shart`: 3.130 Avg. / 3.145 Avg. (Hard mode)
+* `clits`: 3.130 Avg. / 3.161 Avg. (Hard mode)
+* `barse`: 3.132 Avg. / 3.141 Avg. (Hard mode)
+* `carse`: 3.136 Avg. / 3.147 Avg. (Hard mode)
 * `farts`: 3.138 Avg.
 * `boner`: 3.140 Avg.
 * `score`: 3.147 Avg.
