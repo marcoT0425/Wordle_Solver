@@ -226,6 +226,11 @@ Easy mode 14855 words, 2315 answers:
 6. `reast`: 3.431 Avg. (Difference: -0.001)
 7.  `crate`: 3.432 Avg. (Difference: ±0)
 
+Repeatle (https://repeatle.netlify.app/) 
+
+* `terse`: 3.305 Avg.
+* `qajaq`: 3.953 Avg.
+
 (Whole processing: about 30 minutes or even hours for each word)
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
