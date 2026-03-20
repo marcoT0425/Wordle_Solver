@@ -229,6 +229,7 @@ Easy mode 14855 words, 2315 answers:
 Repeatle (https://repeatle.netlify.app/) 
 
 * `terse`: 3.305 Avg.
+* `eerie`: 3.572 Avg.
 * `qajaq`: 3.953 Avg.
 
 (Whole processing: about 30 minutes or even hours for each word)
