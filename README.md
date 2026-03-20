@@ -237,23 +237,33 @@ Repeatle (https://repeatle.netlify.app/)
 * `eerie`: 3.572 Avg.
 * `qajaq`: 3.953 Avg.
 
-Lewdle (5-letter) (Note: I won't show you the list of words due to sensitive context)
+Lewdle (5-letter) (Note: I won't show you the list of words due to sensitive context, you MUSTN'T click it!!)
 
 <details>
 <summary><b>Click to show NSFW Word List</b></summary>
 
 * `traps`: 3.082 Avg.
+* `cunts`: 3.113 Avg.
 * `penis`: 3.115 Avg.
+* `train`: 3.115 Avg.
+* `loins`: 3.117 Avg.
 * `shart`: 3.130 Avg.
 * `clits`: 3.130 Avg.
+* `carse`: 3.136 Avg.
 * `farts`: 3.138 Avg.
 * `boner`: 3.140 Avg.
 * `moist`: 3.157 Avg.
+* `cakes`: 3.157 Avg.
 * `spank`: 3.172 Avg.
 * `arsed`: 3.176 Avg.
+* `cheat`: 3.185 Avg.
 * `ahole`: 3.216 Avg.
 * `shits`: 3.231 Avg.
+* `tease`: 3.233 Avg.
+* `cream`: 3.235 Avg.
+* `slave`: 3.256 Avg.
 * `fucks`: 3.266 Avg.
+* `jizzy`: 3.686 Avg.
 
 </details>
 
