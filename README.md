@@ -271,7 +271,7 @@ Lewdle (5-letter) (Note: I won't show you the list of words due to sensitive con
 
 </details>
 
-Easy mode (not fully tested) (4-letter words, based on hello wordl's word lists) Note: It is impossible to guarantee every puzzle to solve within 6 guesses, though the solve rate is very high, which is 99.4%. File: `Wordle Bot (Use) (customised4-letter)`
+Easy mode (not fully tested) (4-letter words, based on hello wordl's word lists) Note: It is impossible to guarantee every puzzle to solve within 6 guesses, though the solve rate is very high, which is 99.4%. File: `Wordle Bot (Use) (customised4-letter)` (You can use the Wordle Word filterer project to filter a word list with a customised number of word length.)
 
 1. `tela`: 4.267 Avg. (99.4% Solve rate)
 2. `lean`: 4.284 Avg. (99.3% Solve rate)
