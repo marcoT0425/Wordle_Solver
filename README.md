@@ -2,6 +2,8 @@
 
 <img width="424" height="620" alt="Screenshot 2026-03-21 at 7 04 10 PM" src="https://github.com/user-attachments/assets/e7837694-b8dd-4929-9228-9a895d3ac6a5" />
 
+<img width="710" height="580" alt="Screenshot 2026-03-21 at 9 58 04 PM" src="https://github.com/user-attachments/assets/a525819d-f448-46a1-888e-188a2362ab79" />
+
 ** (!) NSFW WARNING: This repository contains sexually explicit language and profanity intended for use with the game Lewdle. Content is for technical/gaming purposes only.
 **
 
