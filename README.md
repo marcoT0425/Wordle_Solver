@@ -1,6 +1,8 @@
 # Wordle_Solver
 
-**(!) NSFW WARNING: This repository contains sexually explicit language and profanity intended for use with the game Lewdle. Content is for technical/gaming purposes only.
+<img width="424" height="620" alt="Screenshot 2026-03-21 at 7 04 10 PM" src="https://github.com/user-attachments/assets/e7837694-b8dd-4929-9228-9a895d3ac6a5" />
+
+** (!) NSFW WARNING: This repository contains sexually explicit language and profanity intended for use with the game Lewdle. Content is for technical/gaming purposes only.
 **
 
 A Wordle solver created by me (Turbowarp)
