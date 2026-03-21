@@ -281,6 +281,10 @@ Easy mode (6-letter words) File: `Wordle Bot (Use) (customised6-letter)` (not fu
 1. `salter`: 3.178 Avg. (5-guess: 23/4562, 6-guess: 0/4562)
 2. `trails`: 3.229 Avg. (5-guess: 41/4562, 6-guess: 0/4562)
 
+Easy mode (7-letter words) File: `Wordle Bot (Use) (customised7-letter)` (not fully tested)
+
+1. `saltire`: 2.904 Avg. (5-guess: 1/5137, 6-guess: 0/4562)
+
 Hard mode (4-letter words) 
 
 1. `tela`: 4.686 Avg. (89.62% solve rate)
