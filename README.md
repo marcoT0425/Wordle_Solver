@@ -281,7 +281,8 @@ Easy mode (not fully tested) (4-letter words, based on hello wordl's word lists)
 Easy mode (6-letter words) File: `Wordle Bot (Use) (customised6-letter)` (not fully tested)
 
 1. `salter`: 3.178 Avg. (5-guess: 23/4562, 6-guess: 0/4562)
-2. `trails`: 3.229 Avg. (5-guess: 41/4562, 6-guess: 0/4562)
+2. `satire`: 3.184 Avg. (5-guess: 43/4562, 6-guess: 0/4562)
+3. `trails`: 3.229 Avg. (5-guess: 41/4562, 6-guess: 0/4562)
 
 Easy mode (7-letter words) File: `Wordle Bot (Use) (customised7-letter)` (not fully tested)
 
