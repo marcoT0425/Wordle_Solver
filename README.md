@@ -301,4 +301,9 @@ Hard mode (4-letter words)
 
 (Whole processing: about 30 minutes or even hours for each word)
 
+Projections:
+
+1. `parse + clint` / `other + nails` etc
+2. `stead,flung,chirp,womby` / `brick,glent,jumpy,vozhd,waqfs` / `brick,flame,shunt,podgy`
+
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
