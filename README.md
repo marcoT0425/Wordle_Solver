@@ -301,7 +301,7 @@ Hard mode (4-letter words)
 
 (Whole processing: about 30 minutes or even hours for each word)
 
-Projections:
+I'll be making:
 
 1. `parse + clint` / `other + nails` etc
 2. `stead,flung,chirp,womby` / `brick,glent,jumpy,vozhd,waqfs` / `brick,flame,shunt,podgy`
