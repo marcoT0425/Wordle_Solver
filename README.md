@@ -290,9 +290,14 @@ Easy mode (7-letter words) File: `Wordle Bot (Use) (customised7-letter)` (not fu
 
 1. `saltire`: 2.904 Avg. (5-guess: 1/5137, 6-guess: 0/4562)
 
+Easy mode (8-letter words) File: `Wordle Bot (Use) (customised8-letter)` (not fully tested)
+
+1. `ceratins`: 2.718 Avg. (5-guess: 0/5137, 6-guess: 0/4562)
+
 Hard mode (4-letter words) 
 
 1. `tela`: 4.686 Avg. (89.62% solve rate)
+2. `lehr`: 4.745 Avg. (89.66% solve rate)
 
 (Whole processing: about 30 minutes or even hours for each word)
 
