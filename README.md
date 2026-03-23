@@ -292,7 +292,11 @@ Easy mode (7-letter words) File: `Wordle Bot (Use) (customised7-letter)` (not fu
 
 Easy mode (8-letter words) File: `Wordle Bot (Use) (customised8-letter)` (not fully tested)
 
-1. `ceratins`: 2.718 Avg. (5-guess: 0/5137, 6-guess: 0/4562)
+1. `ceratins`: 2.718 Avg. (Max 4 Guesses)
+
+Easy mode (9-letter words) File: `Wordle Bot (Use) (customised8-letter)` (not fully tested)
+
+1. `coastline`: 2.535 Avg. (Max 4 Guesses)
 
 Hard mode (4-letter words) 
 
