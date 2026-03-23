@@ -2,10 +2,6 @@
 
 <img width="424" height="620" alt="Screenshot 2026-03-21 at 7 04 10 PM" src="https://github.com/user-attachments/assets/e7837694-b8dd-4929-9228-9a895d3ac6a5" />
 
-<img width="710" height="580" alt="Screenshot 2026-03-21 at 9 58 04 PM" src="https://github.com/user-attachments/assets/a525819d-f448-46a1-888e-188a2362ab79" />
-
-<img width="820" height="651" alt="Screenshot 2026-03-23 at 6 29 57 PM" src="https://github.com/user-attachments/assets/3a8e6973-1a16-44ab-be53-24ac6bbbdeee" />
-
 ** (!) NSFW WARNING: This repository contains sexually explicit language and profanity intended for use with the game Lewdle. Content is for technical/gaming purposes only.
 **
 
@@ -296,9 +292,13 @@ Easy mode (8-letter words) File: `Wordle Bot (Use) (customised8-letter)` (not fu
 
 1. `ceratins`: 2.718 Avg. (Max 4 Guesses)
 
-Easy mode (9-letter words) File: `Wordle Bot (Use) (customised8-letter)` (not fully tested)
+Easy mode (9-letter words) File: —
 
 1. `coastline`: 2.535 Avg. (Max 4 Guesses)
+
+Easy mode (10-letter words) File: —
+
+1. `centralise`: 2.366 Avg. (Max 4 Guesses)
 
 Hard mode (4-letter words) 
 
