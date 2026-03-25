@@ -316,6 +316,10 @@ Easy mode (13-letter words) File: —
 
 1. `uncertainties`: 2.089 Avg. (Max 3 Guesses)
 
+Easy mode (14-letter words) File: —
+
+1. `penitentiaries`: 2.049 Avg. (Max 3 Guesses)
+
 Hard mode (4-letter words) 
 
 1. `tela`: 4.686 Avg. (89.62% solve rate)
