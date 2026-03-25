@@ -175,7 +175,7 @@ The user must use this file instead of the others.
 
 # Wordle Status (leaderboard)
 Easy mode: 12972 words, 2315 answers:
-1.  `salet`: 3.427 Avg.
+1.  `salet`: 3.427 Avg. 
 2.  `slate`: 3.431 Avg.
 3. `reast`: 3.432 Avg.
 4. `crate`: 3.432 Avg.
@@ -186,6 +186,8 @@ Easy mode: 12972 words, 2315 answers:
 9.  `slant`: 3.439 Avg.
 10. `carte`: 3.442 Avg.
 11. `torse`: 3.442 Avg.
+
+SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
 # Other best openers (not fully tested, but I've been working with other best openers):
 * `prate`: 3.445 Avg.
@@ -214,6 +216,8 @@ Easy mode: 12972 words, 2315 answers:
 * `ouija`: 3.802 Avg.
 
 NOTE: ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles. It is recommended to use the "prioritising least group" theory to minimise risks of failing. Later, I'll be testing it.
+
+Zizit (or tzitzit, tzitzith) are specially knotted fringes or tassels worn on the corners of garments by Jewish people, particularly at the corners of a prayer shawl (tallit). They serve as a physical reminder of God’s commandments and the obligation to follow them.
 
 (MinMax counting with ZIZIT)
 
