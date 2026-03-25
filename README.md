@@ -300,6 +300,10 @@ Easy mode (10-letter words) File: —
 
 1. `centralise`: 2.366 Avg. (Max 4 Guesses)
 
+Easy mode (11-letter words) File: —
+
+1. `unclarities`: 2.282 Avg. (Max 3 Guesses)
+
 Hard mode (4-letter words) 
 
 1. `tela`: 4.686 Avg. (89.62% solve rate)
