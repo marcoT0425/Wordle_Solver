@@ -216,9 +216,14 @@ Easy mode: 12972 words, 2315 answers:
 NOTE: ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles. It is recommended to use the "prioritising least group" theory to minimise risks of failing. Later, I'll be testing it.
 
 (MinMax counting with ZIZIT)
-<img width="336" height="393" alt="Screenshot 2026-03-26 at 1 52 56 AM" src="https://github.com/user-attachments/assets/a93ea257-1945-4538-8de9-a5a60e355285" />
 
+<img width="336" height="393" alt="Screenshot 2026-03-26 at 1 52 56 AM" src="https://github.com/user-attachments/assets/a93ea257-1945-4538-8de9-a5a60e355285" />
 <img width="331" height="393" alt="Screenshot 2026-03-26 at 1 54 12 AM" src="https://github.com/user-attachments/assets/92d9e4c1-6fb0-400e-b389-5667b0495aa8" />
+<img width="334" height="400" alt="Screenshot 2026-03-26 at 1 57 00 AM" src="https://github.com/user-attachments/assets/8168e9cf-34da-4705-aba2-bdffbb92cfbb" />
+<img width="334" height="396" alt="Screenshot 2026-03-26 at 1 58 00 AM" src="https://github.com/user-attachments/assets/00df2837-2921-4603-b131-82766e7bc43b" />
+
+* Sorry, something's pretty controversial, I mean the word MAMMY is referring to a mother in Irish English, not a stereotype associated with woman of African descent in the US.
+
 
 With using this method, it is easy to guarantee every puzzle within 6 guesses as the ceiling point. 
 
