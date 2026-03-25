@@ -339,6 +339,8 @@ For the board, type a code like `0101010100010011001000101`, 0 = white, 1 = blac
 
 (Whole processing: about 30 minutes or even hours for each word)
 
+https://github.com/marcoT0425/Wordle_Solver/blob/main/Spotle%20Bot.sb3 
+
 I'll be making:
 
 1. `parse + clint` / `other + nails` etc
