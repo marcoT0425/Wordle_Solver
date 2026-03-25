@@ -223,6 +223,8 @@ NOTE: ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles
 <img width="334" height="396" alt="Screenshot 2026-03-26 at 1 58 00 AM" src="https://github.com/user-attachments/assets/00df2837-2921-4603-b131-82766e7bc43b" />
 <img width="332" height="391" alt="Screenshot 2026-03-26 at 2 01 20 AM" src="https://github.com/user-attachments/assets/38fd1bdb-dd59-4db6-a526-e172bb0151f8" />
 <img width="331" height="393" alt="Screenshot 2026-03-26 at 2 02 06 AM" src="https://github.com/user-attachments/assets/29cb4249-20f4-409a-867c-8488216614cb" />
+<img width="332" height="398" alt="Screenshot 2026-03-26 at 2 05 21 AM" src="https://github.com/user-attachments/assets/00006ade-32db-46cf-a28b-8e35cc9154d1" />
+<img width="331" height="395" alt="Screenshot 2026-03-26 at 2 06 11 AM" src="https://github.com/user-attachments/assets/a508b3aa-3074-4064-b4b7-115737b8cf9e" />
 
 
 * Sorry, something's pretty controversial, isn't it? I mean the word MAMMY is referring to a mother in Irish English, not a stereotype associated with woman of African descent in the US. "Balls" is the plural of "ball", not testicles. "Willy" is an Australian slang for a sudden outburst of anger or annoyance, not a penis (UK English).
