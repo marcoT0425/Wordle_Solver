@@ -214,7 +214,14 @@ Easy mode: 12972 words, 2315 answers:
 * `ouija`: 3.802 Avg.
 
 NOTE: ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles. It is recommended to use the "prioritising least group" theory to minimise risks of failing. Later, I'll be testing it.
-  
+
+(MinMax counting with ZIZIT)
+<img width="336" height="393" alt="Screenshot 2026-03-26 at 1 52 56 AM" src="https://github.com/user-attachments/assets/a93ea257-1945-4538-8de9-a5a60e355285" />
+
+<img width="331" height="393" alt="Screenshot 2026-03-26 at 1 54 12 AM" src="https://github.com/user-attachments/assets/92d9e4c1-6fb0-400e-b389-5667b0495aa8" />
+
+With using this method, it is easy to guarantee every puzzle within 6 guesses as the ceiling point. 
+
 # Player's favourite (from NYT) (not fully tested, but I've been working with other best openers):
 * `soare`: 3.462 Avg.
 * `arose`: 3.466 Avg.
