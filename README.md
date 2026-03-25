@@ -407,6 +407,6 @@ This project was heavily influenced by the following works:
 
 **[What's the Hardest Answer in Wordle?](https://www.youtube.com/watch?v=QZ21ey0RPSA&t=30s)** by [@Pokecheese](https://www.youtube.com) 
     *   *Contribution:* Provided the methodology for assessing "hardness" using human gameplay simulations and obscurity metrics.
-**[
-Oh, wait, actually the best Wordle opener is not “crane”…](https://www.youtube.com/watch?v=fRed0Xmc2Wg&t=323s)** by [@3Blue1Brown](https://www.youtube.com) 
+
+**[Oh, wait, actually the best Wordle opener is not “crane”…](https://www.youtube.com/watch?v=fRed0Xmc2Wg&t=323s)** by [@3Blue1Brown](https://www.youtube.com) 
     *   *Contribution:* Provided the entropy maximising algorithm and the best opener words in Wordle.
