@@ -262,6 +262,15 @@ With using this method, it is easy to guarantee every puzzle within 6 guesses as
 <img width="260" height="308" alt="Screenshot 2026-03-25 at 11 09 12 PM" src="https://github.com/user-attachments/assets/3ce6266e-749f-4fac-8b17-f1ae929998ae" />
 (Wordle 712) 
 
+<img width="331" height="398" alt="Screenshot 2026-03-26 at 2 16 05 AM" src="https://github.com/user-attachments/assets/6ea6108c-3cf0-495f-b78a-881be000bdd8" />
+(Wordle 265) 
+
+<img width="329" height="396" alt="Screenshot 2026-03-26 at 2 17 31 AM" src="https://github.com/user-attachments/assets/a5f001eb-de15-4466-aea6-58e6689799f8" />
+(Wordle 1052) 
+
+<img width="335" height="395" alt="Screenshot 2026-03-26 at 2 18 22 AM" src="https://github.com/user-attachments/assets/eea9c438-9aa5-4d76-a0cb-a25b96dc00e8" />
+(Wordle 1536)
+
 Easy mode 14855 words, 2315 answers:
 
 1.  `tarse`: 3.426 Avg. (Difference: —) (New word)
