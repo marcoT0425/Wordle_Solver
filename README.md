@@ -321,6 +321,22 @@ Hard mode (4-letter words)
 1. `tela`: 4.686 Avg. (89.62% solve rate)
 2. `lehr`: 4.745 Avg. (89.66% solve rate)
 
+# Spotle Bot (similar to Wordle Bot Player Usage, but X means a spot (black letter))
+
+`[2315 words remaining]`
+
+`slate gxgxg`
+
+`[24 words remaining]`
+
+`cloth xyx__`
+
+`[1 words remaining]`
+
+`scale ggggg`
+
+For the board, type a code like `0101010100010011001000101`, 0 = white, 1 = black.
+
 (Whole processing: about 30 minutes or even hours for each word)
 
 I'll be making:
