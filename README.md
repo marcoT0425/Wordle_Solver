@@ -2,6 +2,8 @@
 
 <img width="424" height="620" alt="Screenshot 2026-03-21 at 7 04 10 PM" src="https://github.com/user-attachments/assets/e7837694-b8dd-4929-9228-9a895d3ac6a5" />
 
+<img width="274" height="633" alt="Screenshot 2026-03-25 at 10 10 19 PM" src="https://github.com/user-attachments/assets/96fb3940-8f6e-4aaf-9fef-d61ecb9d41be" />
+
 ** (!) NSFW WARNING: This repository contains sexually explicit language and profanity intended for use with the game Lewdle. Content is for technical/gaming purposes only.
 **
 
@@ -308,7 +310,11 @@ Easy mode (11-letter words) File: —
 
 Easy mode (12-letter words) File: —
 
-1. `centralities`: 2.159 Avg. (Max 3 Guesses)
+1. `centralities`: 2.159 Avg. (Max 3 Guesses) (note not fully tested)
+
+Easy mode (13-letter words) File: —
+
+1. `uncertainties`: 2.089 Avg. (Max 3 Guesses)
 
 Hard mode (4-letter words) 
 
