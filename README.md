@@ -230,6 +230,10 @@ Zizit (or tzitzit, tzitzith) are specially knotted fringes or tassels worn on th
 <img width="332" height="398" alt="Screenshot 2026-03-26 at 2 05 21 AM" src="https://github.com/user-attachments/assets/00006ade-32db-46cf-a28b-8e35cc9154d1" />
 <img width="331" height="395" alt="Screenshot 2026-03-26 at 2 06 11 AM" src="https://github.com/user-attachments/assets/a508b3aa-3074-4064-b4b7-115737b8cf9e" />
 <img width="329" height="396" alt="Screenshot 2026-03-26 at 2 07 53 AM" src="https://github.com/user-attachments/assets/38517949-8065-4b66-a1b2-3c92bbba5528" />
+<img width="333" height="398" alt="Screenshot 2026-03-26 at 2 24 10 AM" src="https://github.com/user-attachments/assets/c8ff2dc8-cd2a-4cb7-9c54-b70d7284a501" />
+<img width="330" height="392" alt="Screenshot 2026-03-26 at 2 25 38 AM" src="https://github.com/user-attachments/assets/3f4ac07c-91b9-47be-96f0-8ec30485d08e" />
+<img width="336" height="398" alt="Screenshot 2026-03-26 at 2 27 59 AM" src="https://github.com/user-attachments/assets/275e2663-fe7d-440c-ab36-15cbde0476f3" />
+<img width="329" height="394" alt="Screenshot 2026-03-26 at 2 28 51 AM" src="https://github.com/user-attachments/assets/fcf6368e-219e-453d-886a-b7dec1a76706" />
 
 
 * Sorry, something's pretty controversial, isn't it? I mean the word MAMMY is referring to a mother in Irish English, not a stereotype associated with woman of African descent in the US. "Balls" is the plural of "ball", not testicles. "Willy" is an Australian slang for a sudden outburst of anger or annoyance, not a penis (UK English).
