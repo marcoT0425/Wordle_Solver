@@ -226,6 +226,20 @@ NOTE: ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles
 * `adieu`: 3.623 Avg.
 * `audio`: 3.637 Avg.
 
+# Examples of traps and hard Wordle puzzles
+
+<img width="258" height="309" alt="Screenshot 2026-03-25 at 11 05 20 PM" src="https://github.com/user-attachments/assets/bd5cef22-ce52-4e6a-904e-6a1f1c952df2" />
+(Wordle 1576)
+
+<img width="260" height="308" alt="Screenshot 2026-03-25 at 11 05 56 PM" src="https://github.com/user-attachments/assets/5db2a2c7-85b8-4b70-aeb0-edabe68fd8f6" />
+(Wordle 1214)
+
+<img width="258" height="308" alt="Screenshot 2026-03-25 at 11 07 33 PM" src="https://github.com/user-attachments/assets/5511fe38-7f8e-40c2-a4a1-5d18440968ef" />
+(Wordle 454)
+
+<img width="260" height="308" alt="Screenshot 2026-03-25 at 11 09 12 PM" src="https://github.com/user-attachments/assets/3ce6266e-749f-4fac-8b17-f1ae929998ae" />
+(Wordle 712) 
+
 Easy mode 14855 words, 2315 answers:
 
 1.  `tarse`: 3.426 Avg. (Difference: —) (New word)
