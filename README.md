@@ -222,7 +222,8 @@ NOTE: ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles
 <img width="334" height="400" alt="Screenshot 2026-03-26 at 1 57 00 AM" src="https://github.com/user-attachments/assets/8168e9cf-34da-4705-aba2-bdffbb92cfbb" />
 <img width="334" height="396" alt="Screenshot 2026-03-26 at 1 58 00 AM" src="https://github.com/user-attachments/assets/00df2837-2921-4603-b131-82766e7bc43b" />
 
-* Sorry, something's pretty controversial, I mean the word MAMMY is referring to a mother in Irish English, not a stereotype associated with woman of African descent in the US.
+
+* Sorry, something's pretty controversial, isn't it? I mean the word MAMMY is referring to a mother in Irish English, not a stereotype associated with woman of African descent in the US.
 
 
 With using this method, it is easy to guarantee every puzzle within 6 guesses as the ceiling point. 
