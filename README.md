@@ -211,6 +211,8 @@ Easy mode: 12972 words, 2315 answers:
 * `whiff`: 3.866 Avg.
 * `ouija`: 3.802 Avg.
 
+* ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles. It is recommended to use the "prioritising least group" theory to minimise risks of failing.
+  
 # Player's favourite (from NYT) (not fully tested, but I've been working with other best openers):
 * `soare`: 3.462 Avg.
 * `arose`: 3.466 Avg.
