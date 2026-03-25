@@ -221,9 +221,11 @@ NOTE: ZIZIT is a very bad Wordle starting word. It might fail one of the puzzles
 <img width="331" height="393" alt="Screenshot 2026-03-26 at 1 54 12 AM" src="https://github.com/user-attachments/assets/92d9e4c1-6fb0-400e-b389-5667b0495aa8" />
 <img width="334" height="400" alt="Screenshot 2026-03-26 at 1 57 00 AM" src="https://github.com/user-attachments/assets/8168e9cf-34da-4705-aba2-bdffbb92cfbb" />
 <img width="334" height="396" alt="Screenshot 2026-03-26 at 1 58 00 AM" src="https://github.com/user-attachments/assets/00df2837-2921-4603-b131-82766e7bc43b" />
+<img width="332" height="391" alt="Screenshot 2026-03-26 at 2 01 20 AM" src="https://github.com/user-attachments/assets/38fd1bdb-dd59-4db6-a526-e172bb0151f8" />
+<img width="331" height="393" alt="Screenshot 2026-03-26 at 2 02 06 AM" src="https://github.com/user-attachments/assets/29cb4249-20f4-409a-867c-8488216614cb" />
 
 
-* Sorry, something's pretty controversial, isn't it? I mean the word MAMMY is referring to a mother in Irish English, not a stereotype associated with woman of African descent in the US.
+* Sorry, something's pretty controversial, isn't it? I mean the word MAMMY is referring to a mother in Irish English, not a stereotype associated with woman of African descent in the US. "Balls" is the plural of "ball", not testicles. "Willy" is an Australian slang for a sudden outburst of anger or annoyance, not a penis (UK English).
 
 
 With using this method, it is easy to guarantee every puzzle within 6 guesses as the ceiling point. 
