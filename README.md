@@ -23,6 +23,7 @@ Later, I'll be making:
 
 * Numberle (https://dduarte.github.io/numberle/)
 * Nerdle (https://nerdlegame.com/, https://github.com/pedrokkrause/Nerdle-Equations)
+* Thirdle (https://github.com/Web-Dev-Dan/Thirdle)
 
 https://docs.google.com/document/d/1HsSndPdj18PqUPx67PppcufmEn9fEXdVQoeagGPAMt8/edit?usp=sharing
 
