@@ -2,12 +2,22 @@
 
 <img width="424" height="620" alt="Screenshot 2026-03-21 at 7 04 10 PM" src="https://github.com/user-attachments/assets/e7837694-b8dd-4929-9228-9a895d3ac6a5" />
 
-<img width="274" height="633" alt="Screenshot 2026-03-25 at 10 10 19 PM" src="https://github.com/user-attachments/assets/96fb3940-8f6e-4aaf-9fef-d61ecb9d41be" />
+<img width="399" height="238" alt="Screenshot 2026-03-27 at 3 38 09 PM" src="https://github.com/user-attachments/assets/89ace5fb-1048-4a6d-9c89-151c31911a39" />
 
 ** (!) NSFW WARNING: This repository contains sexually explicit language and profanity intended for use with the game Lewdle. Content is for technical/gaming purposes only.
 **
 
 A Wordle solver created by me (Turbowarp)
+
+It can solve:
+
+* Wordle NYT (Extended 3158) (https://www.nytimes.com/games/wordle/index.html)
+* Wordle Unlimited (2315) (https://wordleunlimited.org/)
+* Hello Wordl (Easy mode only 4-15 Letters) (https://hellowordl.net/)
+* Is that even a word? (12972) le (https://isthatevenawordle.netlify.app/)
+* Repeatle (Duplicate letter) (https://repeatle.netlify.app/)
+* Lewdle (https://www.lewdlegame.com/)
+* Spotle (https://spotlegame.co.uk/)
 
 https://docs.google.com/document/d/1HsSndPdj18PqUPx67PppcufmEn9fEXdVQoeagGPAMt8/edit?usp=sharing
 
