@@ -19,6 +19,11 @@ It can solve:
 * Lewdle (https://www.lewdlegame.com/)
 * Spotle (https://spotlegame.co.uk/)
 
+Later, I'll be making:
+
+* Numberle (https://dduarte.github.io/numberle/)
+* Nerdle (https://nerdlegame.com/, https://github.com/pedrokkrause/Nerdle-Equations)
+
 https://docs.google.com/document/d/1HsSndPdj18PqUPx67PppcufmEn9fEXdVQoeagGPAMt8/edit?usp=sharing
 
 <img width="746" height="365" alt="Screenshot 2026-02-23 at 11 57 42 AM" src="https://github.com/user-attachments/assets/3d041d03-4b5f-4a2f-997d-d149bda21b7a" />
