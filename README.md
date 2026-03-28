@@ -190,6 +190,7 @@ The user must use this file instead of the others.
 
 
 # Wordle Status (leaderboard)
+* Method 1: Average guesses
 Easy mode: 12972 words, 2315 answers:
 1.  `salet`: 3.427 Avg. 
 2.  `slate`: 3.431 Avg.
@@ -211,6 +212,7 @@ Easy mode: 12972 words, 2315 answers:
 18. `roast`: 3.450 Avg.
 19. `carse`: 3.451 Avg.
 20. `trape`: 3.453 Avg.
+
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
@@ -400,6 +402,20 @@ Hard mode (4-letter words)
 
 1. `tela`: 4.686 Avg. (89.62% solve rate)
 2. `lehr`: 4.745 Avg. (89.66% solve rate)
+
+* Method 2
+
+1. Calculating the average guesses left by the pairs shared in each words
+
+<img width="712" height="344" alt="Screenshot 2026-03-28 at 6 49 14 PM" src="https://github.com/user-attachments/assets/d581028f-34c1-4bca-810f-439d0e54ab82" />
+
+2. Calculating the minimum pair of all the pairs shared in the word (MINIMAX)
+
+<img width="712" height="298" alt="Screenshot 2026-03-28 at 6 59 41 PM" src="https://github.com/user-attachments/assets/deed10b7-cc8a-4cea-9436-0bd2124204d5" />
+
+3. Calculating the number of isolated pairs with 1 word only
+
+<img width="711" height="267" alt="Screenshot 2026-03-28 at 7 00 59 PM" src="https://github.com/user-attachments/assets/61dcfa89-2982-4c5a-9316-358beb49698f" />
 
 # Spotle Bot (similar to Wordle Bot Player Usage, but X means a spot (black letter))
 
