@@ -202,19 +202,19 @@ Easy mode: 12972 words, 2315 answers:
 9.  `slant`: 3.439 Avg.
 10. `carte`: 3.442 Avg.
 11. `torse`: 3.442 Avg.
+12. `prate`: 3.445 Avg.
+13. `trine`: 3.446 Avg.
+14. `trice`: 3.447 Avg.
+15. `stale`: 3.448 Avg.
+16. `train`: 3.449 Avg.
+17. `slart`: 3.450 Avg.
+18. `roast`: 3.450 Avg.
+19. `carse`: 3.451 Avg.
+20. `trape`: 3.453 Avg.
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
 # Other best openers (not fully tested, but I've been working with other best openers):
-* `prate`: 3.445 Avg.
-* `trine`: 3.446 Avg.
-* `trice`: 3.447 Avg.
-* `stale`: 3.448 Avg.
-* `train`: 3.449 Avg.
-* `slart`: 3.450 Avg.
-* `roast`: 3.450 Avg.
-* `carse`: 3.451 Avg.
-* `trape`: 3.453 Avg.
 * `saint`: 3.456 Avg.
 * `plate`: 3.459 Avg.
 * `parse`: 3.459 Avg.
