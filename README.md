@@ -237,6 +237,8 @@ Zizit (or tzitzit, tzitzith) are specially knotted fringes or tassels worn on th
 
 (MinMax counting with ZIZIT)
 
+(test only)
+
 <img width="336" height="393" alt="Screenshot 2026-03-26 at 1 52 56 AM" src="https://github.com/user-attachments/assets/a93ea257-1945-4538-8de9-a5a60e355285" />
 <img width="331" height="393" alt="Screenshot 2026-03-26 at 1 54 12 AM" src="https://github.com/user-attachments/assets/92d9e4c1-6fb0-400e-b389-5667b0495aa8" />
 <img width="334" height="400" alt="Screenshot 2026-03-26 at 1 57 00 AM" src="https://github.com/user-attachments/assets/8168e9cf-34da-4705-aba2-bdffbb92cfbb" />
@@ -269,6 +271,8 @@ With using this method, it is easy to guarantee every puzzle within 6 guesses as
 * `audio`: 3.637 Avg.
 
 # Examples of traps and hard Wordle puzzles
+
+(test only)
 
 <img width="258" height="309" alt="Screenshot 2026-03-25 at 11 05 20 PM" src="https://github.com/user-attachments/assets/bd5cef22-ce52-4e6a-904e-6a1f1c952df2" />
 (Wordle 1576)
