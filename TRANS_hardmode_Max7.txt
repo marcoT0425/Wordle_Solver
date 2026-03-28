@@ -1,0 +1,2315 @@
+trans _____ dolce _____ gimpy ____g fuzzy ggggg 
+trans _____ dolce _____ gimpy ___gg puppy ggggg 
+trans _____ dolce _____ gimpy ___yg puffy ggggg 
+trans _____ dolce _____ gimpy __g_g mummy ggggg 
+trans _____ dolce _____ gimpy __gg_ humph ggggg 
+trans _____ dolce _____ gimpy __ggg jumpy ggggg 
+trans _____ dolce _____ gimpy _g__g fizzy ggggg 
+trans _____ dolce _____ gimpy _g__g fizzy yg__g jiffy ggggg 
+trans _____ dolce _____ gimpy _g_gg hippy ggggg 
+trans _____ dolce _____ gimpy _gggg wimpy ggggg 
+trans _____ dolce _____ gimpy _y___ whiff ggggg 
+trans _____ dolce _____ gimpy g__gg guppy ggggg 
+trans _____ dolce _____ gimpy g_g_g gummy ggggg 
+trans _____ dolce _____ gimpy y___g buggy ggggg 
+trans _____ dolce _____ gimpy y_yyg pygmy ggggg 
+trans _____ dolce _____ gimpy yg_yg piggy ggggg 
+trans _____ dolce ____g pique ____g femme ggggg 
+trans _____ dolce ____g pique ___gg fugue ggggg 
+trans _____ dolce ____g pique __ygg queue ggggg 
+trans _____ dolce ____g pique _y_gg imbue ggggg 
+trans _____ dolce ____g pique gg__g pixie ggggg 
+trans _____ dolce ____g pique ggggg 
+trans _____ dolce ____y beefy _g___ weigh ggggg 
+trans _____ dolce ____y beefy _gg_g geeky ggggg 
+trans _____ dolce ____y beefy _y___ equip ggggg 
+trans _____ dolce ____y beefy ggggg 
+trans _____ dolce ___g_ chick __gg_ juicy ggggg 
+trans _____ dolce ___g_ chick __ggg quick ggggg 
+trans _____ dolce ___g_ chick _ggg_ which ggggg 
+trans _____ dolce ___g_ chick gg_gg chuck ggggg 
+trans _____ dolce ___g_ chick ggggg 
+trans _____ dolce ___gg juice __ygg piece ggggg 
+trans _____ dolce ___gg juice ggggg 
+trans _____ dolce ___gy beech __ggy check ggggg 
+trans _____ dolce ___gy beech ggggg 
+trans _____ dolce ___y_ chump g____ civic ggggg 
+trans _____ dolce ___y_ chump g_y__ cubic ggggg 
+trans _____ dolce ___y_ chump ggggg 
+trans _____ dolce ___y_ chump y___y picky ggggg 
+trans _____ dolce ___y_ chump y__y_ mimic ggggg 
+trans _____ dolce ___y_ chump y_y_y pubic ggggg 
+trans _____ dolce ___y_ chump y_yy_ mucky ggggg 
+trans _____ dolce ___yg chime ggggg 
+trans _____ dolce ___yg chime y__yg emcee ggggg 
+trans _____ dolce ___yy bicep __yg_ cheek ggggg 
+trans _____ dolce ___yy bicep _yyg_ chief ggggg 
+trans _____ dolce ___yy bicep ggggg 
+trans _____ dolce __g__ billy __g_g pulpy ggggg 
+trans _____ dolce __g__ billy __ggg fully _gggg gully ggggg 
+trans _____ dolce __g__ billy __ggg fully ggggg 
+trans _____ dolce __g__ billy _gg_g filmy _ggyg milky ggggg 
+trans _____ dolce __g__ billy _gg_g filmy ggggg 
+trans _____ dolce __g__ billy _gggg filly _gggg hilly _gggg willy ggggg 
+trans _____ dolce __g__ billy _gggg filly _gggg hilly ggggg 
+trans _____ dolce __g__ billy _gggg filly ggggg 
+trans _____ dolce __g__ billy g_g_g bulky ggggg 
+trans _____ dolce __g__ billy g_ggg bully ggggg 
+trans _____ dolce __g__ billy ggggg 
+trans _____ dolce __g_g belie _gg_g melee ggggg 
+trans _____ dolce __g_g belie g_g_g bulge ggggg 
+trans _____ dolce __g_g belie g_gyg bilge ggggg 
+trans _____ dolce __g_g belie ggg_g belle ggggg 
+trans _____ dolce __g_g belie ggggg 
+trans _____ dolce __g_y belly _gg__ helix ggggg 
+trans _____ dolce __g_y belly _gggg jelly ggggg 
+trans _____ dolce __g_y belly ggggg 
+trans _____ dolce __gg_ gulch _gggg mulch ggggg 
+trans _____ dolce __gg_ gulch ggggg 
+trans _____ dolce __ggy belch _gggg welch ggggg 
+trans _____ dolce __ggy belch ggggg 
+trans _____ dolce __y__ blimp _g___ fluff ggggg 
+trans _____ dolce __y__ blimp _g__y glyph ggggg 
+trans _____ dolce __y__ blimp _g_gg plump ggggg 
+trans _____ dolce __y__ blimp _y_yy lumpy g_ggy lymph ggggg 
+trans _____ dolce __y__ blimp _y_yy lumpy ggggg 
+trans _____ dolce __y__ blimp _yg__ quill ggggg 
+trans _____ dolce __y__ blimp _yy__ vigil ggggg 
+trans _____ dolce __y__ blimp _yy_y pupil ggggg 
+trans _____ dolce __y__ blimp _yyyy imply ggggg 
+trans _____ dolce __y__ blimp gg___ bluff ggggg 
+trans _____ dolce __y__ blimp ggggg 
+trans _____ dolce __y__ blimp yg_gy plumb ggggg 
+trans _____ dolce __y_g glike _g__g flume _gggg plume ggggg 
+trans _____ dolce __y_g glike _g__g flume ggggg 
+trans _____ dolce __y_g glike _g_gg fluke ggggg 
+trans _____ dolce __y_g glike _yg_g exile __ggg while ggggg 
+trans _____ dolce __y_g glike _yg_g exile ggggg 
+trans _____ dolce __y_g glike _yy_g bible ggggg 
+trans _____ dolce __y_g glike gyg_g guile ggggg 
+trans _____ dolce __y_g glike yy__g bugle ggggg 
+trans _____ dolce __y_g glike yyy_g liege ggggg 
+trans _____ dolce __y_y bevel ___gg impel ggggg 
+trans _____ dolce __y_y bevel ___gg impel y_ygg pixel ggggg 
+trans _____ dolce __y_y bevel _g__y leggy ggggg 
+trans _____ dolce __y_y bevel _g_gg jewel ggggg 
+trans _____ dolce __y_y bevel _gggg level ggggg 
+trans _____ dolce __y_y bevel _y__g quell ggggg 
+trans _____ dolce __y_y bevel _y__y whelp ggggg 
+trans _____ dolce __y_y bevel _y_gg expel ggggg 
+trans _____ dolce __y_y bevel _y_gg expel y__gg wheel ggggg 
+trans _____ dolce __y_y bevel _y_yy elegy ggggg 
+trans _____ dolce __y_y bevel gg_gg bezel ggggg 
+trans _____ dolce __y_y bevel ggggg 
+trans _____ dolce __y_y bevel gy_gy bleep ggggg 
+trans _____ dolce __y_y bevel y__gg libel ggggg 
+trans _____ dolce __yg_ click _g_gg pluck ggggg 
+trans _____ dolce __yg_ click _gggg flick ggggg 
+trans _____ dolce __yg_ click gg_gg cluck ggggg 
+trans _____ dolce __yg_ click ggggg 
+trans _____ dolce __ygy fleck _ygg_ leech ggggg 
+trans _____ dolce __ygy fleck ggggg 
+trans _____ dolce __yy_ chili g__y_ clump ggggg 
+trans _____ dolce __yy_ chili g_gy_ cliff ggg__ climb ggggg 
+trans _____ dolce __yy_ chili g_gy_ cliff ggggg 
+trans _____ dolce __yy_ chili g_yyy civil ggggg 
+trans _____ dolce __yy_ chili gggg_ chill ggggg 
+trans _____ dolce __yy_ chili ggggg 
+trans _____ dolce __yy_ chili y__y_ lucky ggggg 
+trans _____ dolce __yy_ chili y_ggy icily ggggg 
+trans _____ dolce __yyg cycle ggggg 
+trans _____ dolce __yyy excel ggggg 
+trans _____ dolce _g___ boozy _g__g foggy _g__g poppy ggggg 
+trans _____ dolce _g___ boozy _g__g foggy ggggg 
+trans _____ dolce _g___ boozy _gg_g goofy ggggg 
+trans _____ dolce _g___ boozy _gggg woozy ggggg 
+trans _____ dolce _g___ boozy gg___ bough ggggg 
+trans _____ dolce _g___ boozy gg__g bobby ggggg 
+trans _____ dolce _g___ boozy ggg_g booby ggggg 
+trans _____ dolce _g___ boozy ggggg 
+trans _____ dolce _g___ boozy yg__g hobby ggggg 
+trans _____ dolce _g__g vogue _g__g booze ggggg 
+trans _____ dolce _g__g vogue _gyyg gouge ggggg 
+trans _____ dolce _g__g vogue ggggg 
+trans _____ dolce _g__g vogue yg__g movie ggggg 
+trans _____ dolce _g__y gooey ggggg 
+trans _____ dolce _g_g_ couch _g_gg pooch ggggg 
+trans _____ dolce _g_g_ couch _gggg pouch _gggg vouch ggggg 
+trans _____ dolce _g_g_ couch _gggg pouch ggggg 
+trans _____ dolce _g_g_ couch ggggg 
+trans _____ dolce _g_gg voice ggggg 
+trans _____ dolce _g_y_ comfy gg___ cough ggggg 
+trans _____ dolce _g_y_ comfy ggg__ comic ggggg 
+trans _____ dolce _g_y_ comfy ggggg 
+trans _____ dolce _g_yg coupe ggggg 
+trans _____ dolce _g_yy covey ggggg 
+trans _____ dolce _gg__ folly _gg_y polyp ggggg 
+trans _____ dolce _gg__ folly _gggg golly _gggg holly _gggg jolly ggggg 
+trans _____ dolce _gg__ folly _gggg golly _gggg holly ggggg 
+trans _____ dolce _gg__ folly _gggg golly ggggg 
+trans _____ dolce _gg__ folly ggg__ folio ggggg 
+trans _____ dolce _gg__ folly ggggg 
+trans _____ dolce _gg_y golem ggggg 
+trans _____ dolce _gy__ wooly _g_y_ mogul ggggg 
+trans _____ dolce _gy__ wooly _g_yg lobby ggggg 
+trans _____ dolce _gy__ wooly _ggyg loopy ggggg 
+trans _____ dolce _gy__ wooly ggggg 
+trans _____ dolce _gy__ wooly yg_gg lowly ggggg 
+trans _____ dolce _gy_g boule ggggg 
+trans _____ dolce _gy_y bowel _g_gg hovel ggggg 
+trans _____ dolce _gy_y bowel _gggg vowel ggggg 
+trans _____ dolce _gy_y bowel ggggg 
+trans _____ dolce _gyy_ coyly ggggg 
+trans _____ dolce _gyy_ coyly yg_y_ logic ggggg 
+trans _____ dolce _y___ gumbo ____g hippo ggggg 
+trans _____ dolce _y___ gumbo ____y whoop ggggg 
+trans _____ dolce _y___ gumbo _gggg jumbo ggggg 
+trans _____ dolce _y___ gumbo _gyyy buxom ggggg 
+trans _____ dolce _y___ gumbo _yy_y opium ggggg 
+trans _____ dolce _y___ gumbo ggggg 
+trans _____ dolce _y__g biome __g_g evoke ggggg 
+trans _____ dolce _y__g biome ggggg 
+trans _____ dolce _y__y epoxy ggggg 
+trans _____ dolce _y_g_ chock ggggg 
+trans _____ dolce _y_gy epoch ggggg 
+trans _____ dolce _y_yg choke ggggg 
+trans _____ dolce _y_yy gecko ggggg 
+trans _____ dolce _yg__ igloo ggggg 
+trans _____ dolce _yg_y below _ggy_ hello ggggg 
+trans _____ dolce _yg_y below ggggg 
+trans _____ dolce _ygyy cello ggggg 
+trans _____ dolce _yy__ bloom _gggg gloom ggggg 
+trans _____ dolce _yy__ bloom _yg__ ghoul ggggg 
+trans _____ dolce _yy__ bloom ggggg 
+trans _____ dolce _yy__ bloom yyy_y limbo ggggg 
+trans _____ dolce _yy_g globe _gg_g elope ggggg 
+trans _____ dolce _yy_g globe _ggyg bloke ggggg 
+trans _____ dolce _yy_g globe _gy_g olive ggggg 
+trans _____ dolce _yy_g globe _yg_g whole ggggg 
+trans _____ dolce _yy_g globe ggg_g glove ggggg 
+trans _____ dolce _yy_g globe ggggg 
+trans _____ dolce _yy_y elbow ggggg 
+trans _____ dolce _yyg_ block _gggg clock _gggg flock ggggg 
+trans _____ dolce _yyg_ block _gggg clock ggggg 
+trans _____ dolce _yyg_ block ggggg 
+trans _____ dolce _yyyg clove ggggg 
+trans _____ dolce g____ dummy g___g dizzy ggggg 
+trans _____ dolce g____ dummy ggg_g dumpy ggggg 
+trans _____ dolce g____ dummy ggggg 
+trans _____ dolce g___y debug ggggg 
+trans _____ dolce g__gg deuce ggggg 
+trans _____ dolce g__y_ duchy ggggg 
+trans _____ dolce g__yy dicey ggggg 
+trans _____ dolce g_g__ dilly g_ggg dully ggggg 
+trans _____ dolce g_g__ dilly ggggg 
+trans _____ dolce g_g_g delve ggggg 
+trans _____ dolce g_y__ dimly ggggg 
+trans _____ dolce g_y_y devil ggggg 
+trans _____ dolce g_y_y devil gy__g dwell ggggg 
+trans _____ dolce gg___ dodgy gg_g_ dough ggggg 
+trans _____ dolce gg___ dodgy ggggg 
+trans _____ dolce gg___ dodgy ggy_g dowdy ggggg 
+trans _____ dolce gg__g dodge ggggg 
+trans _____ dolce gg__y dopey ggggg 
+trans _____ dolce ggg__ dolly ggggg 
+trans _____ dolce ggy_y dowel ggggg 
+trans _____ dolce gy__g diode ggggg 
+trans _____ dolce gy_yy decoy ggggg 
+trans _____ dolce y____ biddy __g_g pudgy ggggg 
+trans _____ dolce y____ biddy __ggg muddy ggggg 
+trans _____ dolce y____ biddy _gggg giddy ggggg 
+trans _____ dolce y____ biddy _gy__ vivid ggggg 
+trans _____ dolce y____ biddy _yy__ humid ggggg 
+trans _____ dolce y____ biddy g_ggg buddy ggggg 
+trans _____ dolce y____ biddy ggggg 
+trans _____ dolce y___g budge __ggg hedge __ggg midge ggggg 
+trans _____ dolce y___g budge __ggg hedge _gggg wedge ggggg 
+trans _____ dolce y___g budge __ggg hedge ggggg 
+trans _____ dolce y___g budge _gggg fudge _gggg judge ggggg 
+trans _____ dolce y___g budge _gggg fudge ggggg 
+trans _____ dolce y___g budge _gyyg guide ggggg 
+trans _____ dolce y___g budge ggggg 
+trans _____ dolce y___y edify ggggg 
+trans _____ dolce y___y edify gy___ embed ggggg 
+trans _____ dolce y___y edify yy__g weedy ggggg 
+trans _____ dolce y__yg chide ggggg 
+trans _____ dolce y__yy medic ggggg 
+trans _____ dolce y_y__ build __ygy idyll ggggg 
+trans _____ dolce y_y__ build __yyg lipid gg_gg livid ggggg 
+trans _____ dolce y_y__ build __yyg lipid ggggg 
+trans _____ dolce y_y__ build _gggg guild ggggg 
+trans _____ dolce y_y__ build _yyyg fluid ggggg 
+trans _____ dolce y_y__ build ggggg 
+trans _____ dolce y_y_g elide _gggg glide ggggg 
+trans _____ dolce y_y_g elide gg_gg elude ggggg 
+trans _____ dolce y_y_g elide ggggg 
+trans _____ dolce y_y_g elide yy_yg ledge ggggg 
+trans _____ dolce y_y_y field __gyg bleed ggggg 
+trans _____ dolce y_y_y field _gggg wield _gggg yield ggggg 
+trans _____ dolce y_y_y field _gggg wield ggggg 
+trans _____ dolce y_y_y field _yyyg plied ggggg 
+trans _____ dolce y_y_y field ggggg 
+trans _____ dolce y_yy_ child ggggg 
+trans _____ dolce y_yy_ child y_yyg lucid ggggg 
+trans _____ dolce y_yyy clued ggggg 
+trans _____ dolce yg___ gowds _g_g_ moody ggggg 
+trans _____ dolce yg___ gowds _ggg_ howdy ggggg 
+trans _____ dolce yg___ gowds _gyg_ woody ggggg 
+trans _____ dolce yg___ gowds gg_g_ goody ggggg 
+trans _____ dolce yg__y modem ggggg 
+trans _____ dolce ygg__ moldy ggggg 
+trans _____ dolce ygy__ godly _gyg_ would ggggg 
+trans _____ dolce ygy__ godly ggggg 
+trans _____ dolce ygy_g lodge ggggg 
+trans _____ dolce ygy_y model ggggg 
+trans _____ dolce ygyy_ could ggggg 
+trans _____ dolce yy___ idiom ggggg 
+trans _____ dolce yy___ idiom yy_g_ widow ggggg 
+trans _____ dolce yy___ idiom yy_y_ ovoid ggggg 
+trans _____ dolce yy__g oxide ggggg 
+trans _____ dolce yy__y video ggggg 
+trans _____ dolce yyy__ blood _gggg flood ggggg 
+trans _____ dolce yyy__ blood _yy_y oddly ggggg 
+trans _____ dolce yyy__ blood ggggg 
+trans _____ dolce yyyy_ cloud ggggg 
+trans ____g focus ____g bless gg_gg bliss ggggg 
+trans ____g focus ____g bless ggggg 
+trans ____g focus ___gg humus _g_gg lupus ggggg 
+trans ____g focus ___gg humus ggggg 
+trans ____g focus ___yg guess ggggg 
+trans ____g focus __ggg mucus ggggg 
+trans ____g focus __y_g chess ggggg 
+trans ____g focus _gggg locus ggggg 
+trans ____g focus _y__g gloss ggggg 
+trans ____g focus g_ggg ficus ggggg 
+trans ____g focus ggggg 
+trans ____g focus gy__g floss ggggg 
+trans ____y slipe g____ shock g_g_y smoky ggggg 
+trans ____y slipe g____ shock g_ggg smock ggggg 
+trans ____y slipe g____ shock g_gy_ scoff ggggg 
+trans ____y slipe g____ shock g_y__ soggy ggggg 
+trans ____y slipe g____ shock gg___ shush ggggg 
+trans ____y slipe g____ shock gg_gg shuck ggggg 
+trans ____y slipe g____ shock ggg__ showy ggggg 
+trans ____y slipe g____ shock ggg_g shook ggggg 
+trans ____y slipe g____ shock ggggg 
+trans ____y slipe g___g shove g___g segue ggggg 
+trans ____y slipe g___g shove g_g_g smoke ggggg 
+trans ____y slipe g___g shove ggggg 
+trans ____y slipe g___y seedy ggggg 
+trans ____y slipe g__gg scope ggggg 
+trans ____y slipe g__y_ speck gg___ spoof ggggg 
+trans ____y slipe g__y_ speck gg__g spook ggggg 
+trans ____y slipe g__y_ speck gy___ swoop ggggg 
+trans ____y slipe g__y_ speck gy_y_ scoop ggggg 
+trans ____y slipe g__yg spoke ggggg 
+trans ____y slipe g__yy sheep g_g_y speck ggggg 
+trans ____y slipe g__yy sheep g_ggg sweep ggggg 
+trans ____y slipe g__yy sheep g_ggy speed ggggg 
+trans ____y slipe g__yy sheep ggggg 
+trans ____y slipe g_g__ skiff g_g__ swish ggggg 
+trans ____y slipe g_g__ skiff ggggg 
+trans ____y slipe g_g_g seize ggggg 
+trans ____y slipe g_g_y shied ggggg 
+trans ____y slipe g_gy_ skimp g_g_y spicy ggggg 
+trans ____y slipe g_gy_ skimp ggggg 
+trans ____y slipe g_gy_ skimp gyg_y spiky ggggg 
+trans ____y slipe g_gyg spice ggg_g spike ggggg 
+trans ____y slipe g_gyg spice ggggg 
+trans ____y slipe g_gyy spied ggggg 
+trans ____y slipe g_y__ sissy ggggg 
+trans ____y slipe g_y__ sissy gy___ squib ggggg 
+trans ____y slipe g_y__ sissy gyg__ sushi ggggg 
+trans ____y slipe g_y_g siege ggg_g sieve ggggg 
+trans ____y slipe g_y_g siege ggggg 
+trans ____y slipe g_y_y sheik ggggg 
+trans ____y slipe gg___ slosh gg___ slyly ggggg 
+trans ____y slipe gg___ slosh gg_gg slush ggggg 
+trans ____y slipe gg___ slosh ggggg 
+trans ____y slipe gg__y sleek ggggg 
+trans ____y slipe gg_gg slope ggggg 
+trans ____y slipe gg_y_ sloop gg__g slump ggggg 
+trans ____y slipe gg_y_ sloop ggggg 
+trans ____y slipe gg_yy sleep ggggg 
+trans ____y slipe ggg__ slick ggg__ slimy ggggg 
+trans ____y slipe ggg__ slick ggggg 
+trans ____y slipe ggg_g slice ggg_g slide ggg_g slime ggggg 
+trans ____y slipe ggg_g slice ggg_g slide ggggg 
+trans ____y slipe ggg_g slice ggggg 
+trans ____y slipe gy___ sully g__g_ scold ggggg 
+trans ____y slipe gy___ sully g__gg shyly ggggg 
+trans ____y slipe gy___ sully g_y__ scowl ggggg 
+trans ____y slipe gy___ sully ggg_g sulky ggggg 
+trans ____y slipe gy___ sully ggggg 
+trans ____y slipe gy___ sully gy_g_ skulk ggggg 
+trans ____y slipe gy___ sully gyyg_ skull ggggg 
+trans ____y slipe gy__g solve ggggg 
+trans ____y slipe gy__y shelf g_gg_ smell g_ggg swell ggggg 
+trans ____y slipe gy__y shelf g_gg_ smell ggggg 
+trans ____y slipe gy__y shelf gggg_ shell ggggg 
+trans ____y slipe gy__y shelf ggggg 
+trans ____y slipe gy_y_ spool ggggg 
+trans ____y slipe gy_yy spell ggggg 
+trans ____y slipe gyg__ skill g_ggg swill ggggg 
+trans ____y slipe gyg__ skill ggggg 
+trans ____y slipe gyg_g smile ggggg 
+trans ____y slipe gygy_ spill ggggg 
+trans ____y slipe gygyy spiel ggggg 
+trans ____y slipe gyy__ silky ggg_g silly ggggg 
+trans ____y slipe gyy__ silky ggggg 
+trans ____y slipe gyy__ silky gyg__ solid ggggg 
+trans ____y slipe gyyy_ spoil ggggg 
+trans ____y slipe y____ mulsh ___g_ bossy ggggg 
+trans ____y slipe y____ mulsh _g_g_ fussy ggggg 
+trans ____y slipe y____ mulsh _g_gy hussy ggggg 
+trans ____y slipe y____ mulsh _g_y_ dusky ggggg 
+trans ____y slipe y____ mulsh _g_yy bushy _ggyg husky ggggg 
+trans ____y slipe y____ mulsh _g_yy bushy ggggg 
+trans ____y slipe y____ mulsh g__g_ mossy ggggg 
+trans ____y slipe y____ mulsh gg_y_ musky ggggg 
+trans ____y slipe y____ mulsh gg_yy mushy ggggg 
+trans ____y slipe y____ mulsh y__y_ bosom ggggg 
+trans ____y slipe y___g moose ___gg geese ggggg 
+trans ____y slipe y___g moose __ggg chose _gggg whose ggggg 
+trans ____y slipe y___g moose __ggg chose ggggg 
+trans ____y slipe y___g moose _g_gg house ggggg 
+trans ____y slipe y___g moose _gggg goose ggggg 
+trans ____y slipe y___g moose _y_gg obese ggggg 
+trans ____y slipe y___g moose gg_gg mouse ggggg 
+trans ____y slipe y___g moose ggggg 
+trans ____y slipe y___y bused ggggg 
+trans ____y slipe y__y_ gypsy __yyg pushy ggggg 
+trans ____y slipe y__y_ gypsy ggggg 
+trans ____y slipe y__yg copse _gygg posse ggggg 
+trans ____y slipe y__yg copse ggggg 
+trans ____y slipe y__yy pesky ggggg 
+trans ____y slipe y__yy pesky gyy_g poesy ggggg 
+trans ____y slipe y_g__ whisk ggggg 
+trans ____y slipe y_g_g guise ggggg 
+trans ____y slipe y_gyg poise ggggg 
+trans ____y slipe y_y__ fishy _gg__ disco ggggg 
+trans ____y slipe y_y__ fishy _gg_g missy ggggg 
+trans ____y slipe y_y__ fishy _gy__ kiosk ggggg 
+trans ____y slipe y_y__ fishy _yg__ music ggggg 
+trans ____y slipe y_y__ fishy ggggg 
+trans ____y slipe y_y_g issue ggggg 
+trans ____y slipe y_yg_ wispy ggggg 
+trans ____y slipe y_yy_ gipsy ggggg 
+trans ____y slipe yg___ blush _gggg flush ggggg 
+trans ____y slipe yg___ blush ggggg 
+trans ____y slipe yg__g close ggggg 
+trans ____y slipe yg__y flesh ggggg 
+trans ____y slipe yg_y_ plush ggggg 
+trans ____y slipe yy___ lousy ggggg 
+trans ____y slipe yy__g loose gg_gg louse ggggg 
+trans ____y slipe yy__g loose ggggg 
+trans ____y slipe yy__y welsh ggggg 
+trans ____y slipe yy_yg pulse ggggg 
+trans ___g_ opine ___g_ flung __gg_ chunk ggggg 
+trans ___g_ opine ___g_ flung __yg_ bunny ggggg 
+trans ___g_ opine ___g_ flung _gggg clung ggggg 
+trans ___g_ opine ___g_ flung g_yg_ funny ggggg 
+trans ___g_ opine ___g_ flung gggg_ flunk ggggg 
+trans ___g_ opine ___g_ flung ggggg 
+trans ___g_ opine ___gy blend ggggg 
+trans ___g_ opine __gg_ cling __gg_ whiny ggggg 
+trans ___g_ opine __gg_ cling __ggg dying _gggg vying ggggg 
+trans ___g_ opine __gg_ cling __ggg dying ggggg 
+trans ___g_ opine __gg_ cling _ggg_ blind gggg_ blink ggggg 
+trans ___g_ opine __gg_ cling _ggg_ blind ggggg 
+trans ___g_ opine __gg_ cling _gggg fling ggggg 
+trans ___g_ opine __gg_ cling _yggg lying ggggg 
+trans ___g_ opine __gg_ cling gggg_ clink ggggg 
+trans ___g_ opine __gg_ cling ggggg 
+trans ___g_ opine __gg_ cling y_ggg icing ggggg 
+trans ___g_ opine __ggg whine ggggg 
+trans ___g_ opine __ggy eking g_ggg eying ggggg 
+trans ___g_ opine __ggy eking ggggg 
+trans ___g_ opine __ggy eking y_ggg being ggggg 
+trans ___g_ opine __yg_ ninny ggggg 
+trans ___g_ opine __ygy fiend ggggg 
+trans ___g_ opine _y_g_ plunk ggggg 
+trans ___g_ opine _y_gg penne ggggg 
+trans ___g_ opine _y_gy penny ggggg 
+trans ___g_ opine g__gg ozone ggggg 
+trans ___g_ opine g_gg_ owing ggggg 
+trans ___g_ opine g_ggg ovine ggggg 
+trans ___g_ opine ggggg 
+trans ___g_ opine y__g_ blond __yg_ young ggggg 
+trans ___g_ opine y__g_ blond __ygg found _gggg hound _gggg mound _gggg wound ggggg 
+trans ___g_ opine y__g_ blond __ygg found _gggg hound _gggg mound ggggg 
+trans ___g_ opine y__g_ blond __ygg found _gggg hound ggggg 
+trans ___g_ opine y__g_ blond __ygg found ggggg 
+trans ___g_ opine y__g_ blond __ygy downy ggggg 
+trans ___g_ opine y__g_ blond g_ygg bound ggggg 
+trans ___g_ opine y__g_ blond ggggg 
+trans ___g_ opine y__gg clone ggggg 
+trans ___g_ opine y__gy ebony ggggg 
+trans ___g_ opine y_gg_ doing _gggg going ggggg 
+trans ___g_ opine y_gg_ doing ggggg 
+trans ___g_ opine yy_g_ phony g_yg_ pound ggggg 
+trans ___g_ opine yy_g_ phony ggggg 
+trans ___g_ opine yy_gg phone ggggg 
+trans ___gy slung g__g_ shine g__gg scene gg_gg scone ggggg 
+trans ___gy slung g__g_ shine g__gg scene ggggg 
+trans ___gy slung g__g_ shine g__gy spend ggggg 
+trans ___gy slung g__g_ shine g_gg_ spiny ggggg 
+trans ___gy slung g__g_ shine g_ggg spine g_ggg swine ggggg 
+trans ___gy slung g__g_ shine g_ggg spine ggggg 
+trans ___gy slung g__g_ shine gg_gg shone ggggg 
+trans ___gy slung g__g_ shine gggg_ shiny ggggg 
+trans ___gy slung g__g_ shine ggggg 
+trans ___gy slung g__gg swing ggggg 
+trans ___gy slung g_gg_ skunk g_gg_ sound ggggg 
+trans ___gy slung g_gg_ skunk g_ggg spunk ggggg 
+trans ___gy slung g_gg_ skunk ggggg 
+trans ___gy slung g_ggg swung ggggg 
+trans ___gy slung g_yg_ sunny ggggg 
+trans ___gy slung g_ygg suing ggggg 
+trans ___gy slung gg_g_ slink ggggg 
+trans ___gy slung gg_gg sling ggggg 
+trans ___gy slung gggg_ slunk ggggg 
+trans ___gy slung ggggg 
+trans ___gy slung y_ygg using ggggg 
+trans ___y_ loden ____g cumin ggggg 
+trans ___y_ loden ____y pinch __g__ funky ggggg 
+trans ___y_ loden ____y pinch __g_y hunky ggggg 
+trans ___y_ loden ____y pinch __ggg bunch _gggg hunch _gggg munch ggggg 
+trans ___y_ loden ____y pinch __ggg bunch _gggg hunch ggggg 
+trans ___y_ loden ____y pinch __ggg bunch ggggg 
+trans ___y_ loden ____y pinch _gg__ kinky _gg__ minim ggggg 
+trans ___y_ loden ____y pinch _gg__ kinky ggggg 
+trans ___y_ loden ____y pinch _gggg cinch _gggg finch _gggg winch ggggg 
+trans ___y_ loden ____y pinch _gggg cinch _gggg finch ggggg 
+trans ___y_ loden ____y pinch _gggg cinch ggggg 
+trans ___y_ loden ____y pinch _yg__ fungi ggggg 
+trans ___y_ loden ____y pinch _ygy_ cynic ggggg 
+trans ___y_ loden ____y pinch _yy__ unify ggggg 
+trans ___y_ loden ____y pinch g_ggg punch ggggg 
+trans ___y_ loden ____y pinch ggg__ pinky ggggg 
+trans ___y_ loden ____y pinch ggggg 
+trans ___y_ loden ____y pinch y_y_g nymph ggggg 
+trans ___y_ loden ____y pinch yyy__ unzip ggggg 
+trans ___y_ loden ___gg eeven ___gg hymen ggggg 
+trans ___y_ loden ___gg eeven __ggg given ggggg 
+trans ___y_ loden ___gg eeven __ygg vixen ggggg 
+trans ___y_ loden ___gg eeven y__gg queen ggggg 
+trans ___y_ loden ___gy piney ggggg 
+trans ___y_ loden ___yg begin _gyyg feign ggggg 
+trans ___y_ loden ___yg begin ggg_g begun ggggg 
+trans ___y_ loden ___yg begin ggggg 
+trans ___y_ loden ___yy wince __g_g venue ggggg 
+trans ___y_ loden ___yy wince __ggg fence _gggg hence _gggg pence ggggg 
+trans ___y_ loden ___yy wince __ggg fence _gggg hence ggggg 
+trans ___y_ loden ___yy wince __ggg fence ggggg 
+trans ___y_ loden ___yy wince __ggy bench ggggg 
+trans ___y_ loden ___yy wince __y_y enemy ggggg 
+trans ___y_ loden ___yy wince _gg_g binge _gggg hinge ggggg 
+trans ___y_ loden ___yy wince _gg_g binge ggggg 
+trans ___y_ loden ___yy wince _gggg mince ggggg 
+trans ___y_ loden ___yy wince _gygg niece ggggg 
+trans ___y_ loden ___yy wince _gyyg niche ggggg 
+trans ___y_ loden ___yy wince _yg_g genie ggggg 
+trans ___y_ loden ___yy wince _yg_y ennui ggggg 
+trans ___y_ loden ___yy wince _yy_g knife ggggg 
+trans ___y_ loden ___yy wince _yy_y neigh ggggg 
+trans ___y_ loden ___yy wince g_ggy wench ggggg 
+trans ___y_ loden ___yy wince ggggg 
+trans ___y_ loden __g_y undid ggggg 
+trans ___y_ loden __ggg widen ggggg 
+trans ___y_ loden __ggy index ggggg 
+trans ___y_ loden __gyy nudge ggggg 
+trans ___y_ loden __gyy nudge yyg_g undue ggggg 
+trans ___y_ loden __y_y dingy ggggg 
+trans ___y_ loden __y_y dingy ygg_g windy ggggg 
+trans ___y_ loden __ygy unfed _g_gg kneed ggggg 
+trans ___y_ loden __ygy unfed gg_gg unwed ggggg 
+trans ___y_ loden __ygy unfed ggggg 
+trans ___y_ loden __yyg deign ggggg 
+trans ___y_ loden __yyy denim ggggg 
+trans ___y_ loden __yyy denim gyg__ dunce ggggg 
+trans ___y_ loden __yyy denim ygy__ needy ggggg 
+trans ___y_ loden _g__y conch _gg__ bongo ggggg 
+trans ___y_ loden _g__y conch ggggg 
+trans ___y_ loden _g__y conch gggy_ conic ggggg 
+trans ___y_ loden _g__y conch ygg__ ionic ggggg 
+trans ___y_ loden _g_gg coven _g_gg woken gg_gg women ggggg 
+trans ___y_ loden _g_gg coven _g_gg woken ggggg 
+trans ___y_ loden _g_gg coven _gggg woven ggggg 
+trans ___y_ loden _g_gg coven ggggg 
+trans ___y_ loden _g_gy boney _gggg honey _gggg money ggggg 
+trans ___y_ loden _g_gy boney _gggg honey ggggg 
+trans ___y_ loden _g_gy boney ggggg 
+trans ___y_ loden _gy_y condo ggggg 
+trans ___y_ loden _gygg dozen ggggg 
+trans ___y_ loden _y__g onion _gggg union ggggg 
+trans ___y_ loden _y__g onion ggggg 
+trans ___y_ loden _y__g onion yg__g known ggggg 
+trans ___y_ loden _y__y bingo __y_y knock ggggg 
+trans ___y_ loden _y__y bingo ggggg 
+trans ___y_ loden _y__y bingo yyy_y inbox ggggg 
+trans ___y_ loden _y_yy enjoy gg_gg envoy ggggg 
+trans ___y_ loden _y_yy enjoy ggggg 
+trans ___y_ loden _y_yy enjoy yg_y_ gnome ggggg 
+trans ___y_ loden _y_yy enjoy yy_g_ venom ggggg 
+trans ___y_ loden _y_yy enjoy yy_y_ ounce ggggg 
+trans ___y_ loden _ygyy endow ggggg 
+trans ___y_ loden _yy_y dingo ggggg 
+trans ___y_ loden _yyyg demon ggggg 
+trans ___y_ loden g___y lunch g_ggg lynch ggggg 
+trans ___y_ loden g___y lunch ggggg 
+trans ___y_ loden g__gg liken g__gg lumen ggggg 
+trans ___y_ loden g__gg liken gg_gg linen ggggg 
+trans ___y_ loden g__gg liken ggggg 
+trans ___y_ loden g__yy lunge ggggg 
+trans ___y_ loden gg__g login ggggg 
+trans ___y_ loden gy__y lingo ggggg 
+trans ___y_ loden gy_yg lemon ggggg 
+trans ___y_ loden y___y vinyl ggggg 
+trans ___y_ loden y__gy kneel ggggg 
+trans ___y_ loden y__yg elfin ggggg 
+trans ___y_ loden y__yy newly ggggg 
+trans ___y_ loden y__yy newly yy_g_ uncle ggggg 
+trans ___y_ loden yg__g colon ggggg 
+trans ___y_ loden yg__y nobly ggggg 
+trans ___y_ loden yg_gy novel ggggg 
+trans ___y_ loden yg_yy noble ggggg 
+trans ___y_ loden yy__g blown _gggg clown _gggg flown ggggg 
+trans ___y_ loden yy__g blown _gggg clown ggggg 
+trans ___y_ loden yy__g blown _yy_g nylon ggggg 
+trans ___y_ loden yy__g blown ggggg 
+trans ___y_ loden yy__y knoll ggggg 
+trans ___y_ loden yy_yg felon _gggg melon ggggg 
+trans ___y_ loden yy_yg felon ggggg 
+trans ___y_ loden yyggg olden ggggg 
+trans ___yg bonus __ggg minus ggggg 
+trans ___yg bonus ggggg 
+trans ___yy snipe gg___ snuck gg___ snowy ggggg 
+trans ___yy snipe gg___ snuck ggg__ snuff ggggg 
+trans ___yy snipe gg___ snuck ggggg 
+trans ___yy snipe gg_y_ snoop ggggg 
+trans ___yy snipe ggg__ sniff ggggg 
+trans ___yy snipe ggg_g snide ggggg 
+trans ___yy snipe ggggg 
+trans ___yy snipe gy___ shown g_gyg swoon ggggg 
+trans ___yy snipe gy___ shown g_y_y synod ggggg 
+trans ___yy snipe gy___ shown ggggg 
+trans ___yy snipe gy__g sense ggggg 
+trans ___yy snipe gy__y semen gg_gg seven ggggg 
+trans ___yy snipe gy__y semen ggggg 
+trans ___yy snipe gy__y semen gy_gg sheen ggggg 
+trans ___yy snipe gy_y_ spoon ggggg 
+trans ___yy snipe gyg__ scion ggggg 
+trans ___yy snipe gyy__ sonic ggggg 
+trans ___yy snipe gyy_g since ggg_g singe ggggg 
+trans ___yy snipe gyy_g since ggggg 
+trans ___yy snipe gyy_y sinew ggggg 
+trans ___yy snipe yg__g ensue ggggg 
+trans ___yy snipe yy__g dense __ygg noose ggggg 
+trans ___yy snipe yy__g dense ggggg 
+trans ___yy snipe yy__y nosey ggggg 
+trans ___yy snipe yyg__ noisy ggggg 
+trans ___yy snipe yyg_g noise ggggg 
+trans ___yy snipe yyy__ bison ggggg 
+trans __g__ clame __g__ guava __g__ khaki ggggg 
+trans __g__ clame __g__ guava ggggg 
+trans __g__ clame __g_g agave __g_g quake ggggg 
+trans __g__ clame __g_g agave __ggg heave _gggg weave ggggg 
+trans __g__ clame __g_g agave __ggg heave ggggg 
+trans __g__ clame __g_g agave __gyg evade ggggg 
+trans __g__ clame __g_g agave g_g_g awake ggggg 
+trans __g__ clame __g_g agave ggg_g agape ggggg 
+trans __g__ clame __g_g agave gyg_g adage ggggg 
+trans __g__ clame __g_y beady _gg_g heavy ggggg 
+trans __g__ clame __g_y beady _gggg heady ggggg 
+trans __g__ clame __g_y beady ggggg 
+trans __g__ clame __gg_ foamy ggggg 
+trans __g__ clame __gyg amaze _gg_g image ggggg 
+trans __g__ clame __gyg amaze ggggg 
+trans __g__ clame _gg__ flail _gg__ plaza ggggg 
+trans __g__ clame _gg__ flail _ggg_ plaid ggggg 
+trans __g__ clame _gg__ flail ggg__ flaky ggggg 
+trans __g__ clame _gg__ flail ggggg 
+trans __g__ clame _gg_g blade _gg_g flake _gg_g glaze ggggg 
+trans __g__ clame _gg_g blade _gg_g flake ggggg 
+trans __g__ clame _gg_g blade _gggg glade ggggg 
+trans __g__ clame _gg_g blade ggg_g blaze ggggg 
+trans __g__ clame _gg_g blade ggggg 
+trans __g__ clame _ggg_ llama ggggg 
+trans __g__ clame _gggg blame _gggg flame ggggg 
+trans __g__ clame _gggg blame ggggg 
+trans __g__ clame _yg__ avail __ggg quail ggggg 
+trans __g__ clame _yg__ avail ggggg 
+trans __g__ clame _yg__ avail y_g_y koala ggggg 
+trans __g__ clame _yg_g leave ggggg 
+trans __g__ clame _yg_g leave y_g_g whale ggggg 
+trans __g__ clame _yg_y leafy ggg_g leaky ggggg 
+trans __g__ clame _yg_y leafy ggggg 
+trans __g__ clame _ygg_ loamy ggggg 
+trans __g__ clame _ygy_ qualm ggggg 
+trans __g__ clame _ygyy email ggggg 
+trans __g__ clame _ygyy email yyg_y mealy ggggg 
+trans __g__ clame g_g__ chaff ggggg 
+trans __g__ clame g_g__ chaff gyg__ coach ggggg 
+trans __g__ clame g_g_g chafe ggggg 
+trans __g__ clame g_gg_ champ ggggg 
+trans __g__ clame ggg__ clack ggggg 
+trans __g__ clame gggg_ clamp ggggg 
+trans __g__ clame gggy_ claim ggggg 
+trans __g__ clame gyg__ chalk ggggg 
+trans __g__ clame y_g__ beach __gg_ quack ggggg 
+trans __g__ clame y_g__ beach __ggy whack ggggg 
+trans __g__ clame y_g__ beach y_gg_ aback ggggg 
+trans __g__ clame y_g_g peace ggggg 
+trans __g__ clame y_g_y beach _gggg peach ggggg 
+trans __g__ clame y_g_y beach ggggg 
+trans __g__ clame ygg__ black _gggg flack ggggg 
+trans __g__ clame ygg__ black ggggg 
+trans __g__ clame ygg_g place ggggg 
+trans __g__ clame yyg_y leach ggggg 
+trans __g_g class __ggg amass ggggg 
+trans __g_g class _gggg glass ggggg 
+trans __g_g class g_g_g chaos ggggg 
+trans __g_g class ggggg 
+trans __g_y shale g_g__ scamp g_g_y soapy ggggg 
+trans __g_y shale g_g__ scamp g_gg_ swami ggggg 
+trans __g_y shale g_g__ scamp g_ggg swamp ggggg 
+trans __g_y shale g_g__ scamp g_gyy spasm ggggg 
+trans __g_y shale g_g__ scamp ggggg 
+trans __g_y shale g_g__ scamp gygy_ smack ggggg 
+trans __g_y shale g_g_g space g_g_g suave ggggg 
+trans __g_y shale g_g_g space ggg_g spade ggggg 
+trans __g_y shale g_g_g space ggggg 
+trans __g_y shale g_gg_ scald g_gg_ small ggggg 
+trans __g_y shale g_gg_ scald gggg_ scalp gggg_ scaly ggggg 
+trans __g_y shale g_gg_ scald gggg_ scalp ggggg 
+trans __g_y shale g_gg_ scald ggggg 
+trans __g_y shale g_ggg scale ggggg 
+trans __g_y shale g_gy_ slack ggggg 
+trans __g_y shale g_gyg slave ggggg 
+trans __g_y shale ggg__ shack ggg__ shady ggggg 
+trans __g_y shale ggg__ shack ggg_y shaky ggggg 
+trans __g_y shale ggg__ shack ggggg 
+trans __g_y shale ggg_g shade ggg_g shake ggg_g shame ggg_g shape ggg_g shave ggggg 
+trans __g_y shale ggg_g shade ggg_g shake ggg_g shame ggg_g shape ggggg 
+trans __g_y shale ggg_g shade ggg_g shake ggg_g shame ggggg 
+trans __g_y shale ggg_g shade ggg_g shake ggggg 
+trans __g_y shale ggg_g shade ggggg 
+trans __g_y shale gggg_ shall ggggg 
+trans __g_y shale ggggg 
+trans __g_y shale gggy_ shawl ggggg 
+trans __g_y shale gyg__ smash g_ggg swash ggggg 
+trans __g_y shale gyg__ smash ggggg 
+trans __g_y shale gygy_ slash ggggg 
+trans __g_y shale y_g__ quasi ggggg 
+trans __g_y shale y_g_g abase __ggg cease ggggg 
+trans __g_y shale y_g_g abase __gyg usage ggggg 
+trans __g_y shale y_g_g abase ggggg 
+trans __g_y shale y_gg_ psalm ggggg 
+trans __g_y shale y_gy_ clasp _ggg_ flask ggggg 
+trans __g_y shale y_gy_ clasp ggggg 
+trans __g_y shale y_gyg lease ggggg 
+trans __g_y shale ygg__ chasm ggggg 
+trans __g_y shale ygg_g chase _gggg phase ggggg 
+trans __g_y shale ygg_g chase ggggg 
+trans __g_y shale yyg__ awash __ggg quash ggggg 
+trans __g_y shale yyg__ awash ggggg 
+trans __g_y shale yygy_ clash _gggg flash ggggg 
+trans __g_y shale yygy_ clash ggggg 
+trans __g_y shale yygyy leash ggggg 
+trans __gg_ plank __gg_ inane ggggg 
+trans __gg_ plank _ggg_ bland _ggg_ clang ggggg 
+trans __gg_ plank _ggg_ bland _gggg gland ggggg 
+trans __gg_ plank _ggg_ bland ggggg 
+trans __gg_ plank _gggg blank _gggg clank _gggg flank ggggg 
+trans __gg_ plank _gggg blank _gggg clank ggggg 
+trans __gg_ plank _gggg blank ggggg 
+trans __gg_ plank g_gg_ piano ggggg 
+trans __gg_ plank gggg_ plane ggggg 
+trans __gg_ plank ggggg 
+trans __ggy shank g_gg_ slang ggggg 
+trans __ggy shank g_ggg spank ggggg 
+trans __ggy shank ggggg 
+trans __gy_ clang __gy_ knave ggggg 
+trans __gy_ clang __gyy again ggggg 
+trans __gy_ clang _ggy_ plain ggggg 
+trans __gy_ clang g_gy_ chain ggggg 
+trans __gy_ clang y_gy_ knack ggggg 
+trans __gyy snake ggg__ snail ggggg 
+trans __gyy snake gggg_ snaky ggggg 
+trans __gyy snake ggggg 
+trans __gyy snake gggy_ snack ggggg 
+trans __gyy snake gyg__ slain g_g_g spawn ggggg 
+trans __gyy snake gyg__ slain ggggg 
+trans __gyy snake ygg__ gnash ggggg 
+trans __y__ maile _g___ cadgy _g___ kappa ggggg 
+trans __y__ maile _g___ cadgy _g__g happy _g__g jazzy ggggg 
+trans __y__ maile _g___ cadgy _g__g happy ggggg 
+trans __y__ maile _g___ cadgy _g__y bayou _gg__ kayak ggggg 
+trans __y__ maile _g___ cadgy _g__y bayou ggggg 
+trans __y__ maile _g___ cadgy _g_gg baggy ggggg 
+trans __y__ maile _g___ cadgy _g_yg gawky ggggg 
+trans __y__ maile _g___ cadgy _gg_g daddy _gggg paddy ggggg 
+trans __y__ maile _g___ cadgy _gg_g daddy ggggg 
+trans __y__ maile _g___ cadgy _gy_g bawdy ggggg 
+trans __y__ maile _g___ cadgy _gyyg gaudy ggggg 
+trans __y__ maile _g___ cadgy gg___ cacao ggggg 
+trans __y__ maile _g___ cadgy gg__g cabby ggggg 
+trans __y__ maile _g___ cadgy ggg_g caddy ggggg 
+trans __y__ maile _g___ cadgy yg___ havoc ggggg 
+trans __y__ maile _g___ cadgy yg__g wacky ggggg 
+trans __y__ maile _g__g gauge _g__g cache _g__g payee ggggg 
+trans __y__ maile _g__g gauge _g__g cache ggggg 
+trans __y__ maile _g__g gauge _g_gg badge ggggg 
+trans __y__ maile _g__g gauge gg__g gaffe ggggg 
+trans __y__ maile _g__g gauge ggg_g gauze ggggg 
+trans __y__ maile _g__g gauge ggggg 
+trans __y__ maile _g__g gauge ygy_g vague ggggg 
+trans __y__ maile _g__y cagey ggggg 
+trans __y__ maile _g_g_ badly _g_g_ caulk ggggg 
+trans __y__ maile _g_g_ badly _g_gg gayly ggggg 
+trans __y__ maile _g_g_ badly _gygg dally ggggg 
+trans __y__ maile _g_g_ badly ggggg 
+trans __y__ maile _g_gg cable _g_gg eagle _g_gg ladle ggggg 
+trans __y__ maile _g_gg cable _g_gg eagle ggggg 
+trans __y__ maile _g_gg cable _gggg fable ggggg 
+trans __y__ maile _g_gg cable ggggg 
+trans __y__ maile _g_y_ cabal _g__y laugh ggggg 
+trans __y__ maile _g_y_ cabal _g_gg papal ggggg 
+trans __y__ maile _g_y_ cabal ggggg 
+trans __y__ maile _g_yg halve _gggg valve ggggg 
+trans __y__ maile _g_yg halve _ggyg value ggggg 
+trans __y__ maile _g_yg halve ggggg 
+trans __y__ maile _g_yy bagel _g_gg hazel _g_gg lapel ggggg 
+trans __y__ maile _g_yy bagel _g_gg hazel ggggg 
+trans __y__ maile _g_yy bagel _gygg gavel ggggg 
+trans __y__ maile _g_yy bagel ggggg 
+trans __y__ maile _g_yy bagel yg_gg label ggggg 
+trans __y__ maile _gg_g waive ggggg 
+trans __y__ maile _ggg_ daily _gggg gaily ggggg 
+trans __y__ maile _ggg_ daily ggggg 
+trans __y__ maile _gy__ vapid ggggg 
+trans __y__ maile _gyy_ cavil _gygy valid ggggg 
+trans __y__ maile _gyy_ cavil ggggg 
+trans __y__ maile _y___ cocoa _g__g vodka ggggg 
+trans __y__ maile _y___ cocoa ggggg 
+trans __y__ maile _y__g abode g_g_g awoke ggggg 
+trans __y__ maile _y__g abode ggg_g above ggggg 
+trans __y__ maile _y__g abode ggggg 
+trans __y__ maile _y__g abode gygyg adobe ggggg 
+trans __y__ maile _y__y abbey g__y_ ahead ggggg 
+trans __y__ maile _y__y abbey ggggg 
+trans __y__ maile _y__y abbey y__y_ cheap ggggg 
+trans __y__ maile _y__y abbey y__yg decay ggggg 
+trans __y__ maile _y__y abbey yygy_ kebab ggggg 
+trans __y__ maile _y_g_ apply ggggg 
+trans __y__ maile _y_gg apple ggggg 
+trans __y__ maile _y_gy fella ggggg 
+trans __y__ maile _y_y_ alloy g_gg_ aglow ggggg 
+trans __y__ maile _y_y_ alloy gg___ alpha ggggg 
+trans __y__ maile _y_y_ alloy gg_g_ aloof ggggg 
+trans __y__ maile _y_y_ alloy gg_y_ aloud ggggg 
+trans __y__ maile _y_y_ alloy ggg_g allay ggggg 
+trans __y__ maile _y_y_ alloy gggg_ allow ggggg 
+trans __y__ maile _y_y_ alloy ggggg 
+trans __y__ maile _y_y_ alloy gy___ awful ggggg 
+trans __y__ maile _y_y_ alloy gy_y_ afoul ggggg 
+trans __y__ maile _y_y_ alloy y_g_y bylaw ggggg 
+trans __y__ maile _y_y_ alloy y_gy_ polka ggggg 
+trans __y__ maile _y_y_ alloy yg_y_ cloak ggggg 
+trans __y__ maile _y_y_ alloy yy___ pupal ggggg 
+trans __y__ maile _y_y_ alloy yy_y_ focal _gggg vocal ggggg 
+trans __y__ maile _y_y_ alloy yy_y_ focal ggggg 
+trans __y__ maile _y_y_ alloy yy_y_ focal yy_gg offal ggggg 
+trans __y__ maile _y_y_ alloy yyyy_ local ggggg 
+trans __y__ maile _y_y_ alloy yyyyy loyal ggggg 
+trans __y__ maile _y_yg algae ggggg 
+trans __y__ maile _y_yy decal _g_gg legal ggggg 
+trans __y__ maile _y_yy decal _gggg fecal ggggg 
+trans __y__ maile _y_yy decal _y_gg equal ggggg 
+trans __y__ maile _y_yy decal _y_gy bleak ggggg 
+trans __y__ maile _y_yy decal _y_yy alley ggggg 
+trans __y__ maile _y_yy decal gg_gy delay ggggg 
+trans __y__ maile _y_yy decal ggggg 
+trans __y__ maile _y_yy decal yg_gg pedal ggggg 
+trans __y__ maile _y_yy decal yy_gy plead ggggg 
+trans __y__ maile _y_yy decal yy_yy abled ggggg 
+trans __y__ maile _yg_g abide ggggg 
+trans __y__ maile _ygg_ voila ggggg 
+trans __y__ maile _yggg agile ggggg 
+trans __y__ maile _ygy_ alibi ggggg 
+trans __y__ maile _ygy_ alibi gyg__ axial ggggg 
+trans __y__ maile _ygy_ alibi ygg_y iliac ggggg 
+trans __y__ maile _ygyg alike ggg_g alive ggggg 
+trans __y__ maile _ygyg alike ggggg 
+trans __y__ maile _yy__ aphid g__g_ affix ggggg 
+trans __y__ maile _yy__ aphid g__gg avoid ggggg 
+trans __y__ maile _yy__ aphid g__gy audio ggggg 
+trans __y__ maile _yy__ aphid ggggg 
+trans __y__ maile _yy__ aphid yy_y_ pizza ggggg 
+trans __y__ maile _yyg_ villa gg_gg viola ggggg 
+trans __y__ maile _yyg_ villa ggggg 
+trans __y__ maile _yyy_ lilac ggggg 
+trans __y__ maile _yyyy ideal ggggg 
+trans __y__ maile gg___ magma gg___ macho ggggg 
+trans __y__ maile gg___ magma gg__y macaw ggggg 
+trans __y__ maile gg___ magma gg_g_ mammy ggggg 
+trans __y__ maile gg___ magma gg_gg mamma ggggg 
+trans __y__ maile gg___ magma gg_y_ mambo ggggg 
+trans __y__ maile gg___ magma gg_yy madam ggggg 
+trans __y__ maile gg___ magma ggggg 
+trans __y__ maile gg__g mauve gg__g maybe ggggg 
+trans __y__ maile gg__g mauve ggggg 
+trans __y__ maile gg_g_ madly ggggg 
+trans __y__ maile gg_gg maple ggggg 
+trans __y__ maile ggg_g maize ggggg 
+trans __y__ maile ggy__ mafic gg_g_ maxim ggggg 
+trans __y__ maile ggy__ mafic gg_gg magic ggggg 
+trans __y__ maile ggy__ mafic gggg_ mafia ggggg 
+trans __y__ maile gy___ mocha ggggg 
+trans __y__ maile gy__y mecca ggggg 
+trans __y__ maile gy_y_ modal ggggg 
+trans __y__ maile gy_yy medal ggggg 
+trans __y__ maile gyy_y media ggggg 
+trans __y__ maile yg___ gamma ggggg 
+trans __y__ maile yg__y cameo ggggg 
+trans __y__ maile yg_y_ balmy ggggg 
+trans __y__ maile yg_yy camel ggggg 
+trans __y__ maile yy___ comma _g_gg dogma ggggg 
+trans __y__ maile yy___ comma ggggg 
+trans __y__ maile yy__y omega ggggg 
+trans __y__ maile yy_g_ amply ggggg 
+trans __y__ maile yy_gg amble gg_gg ample ggggg 
+trans __y__ maile yy_gg amble ggggg 
+trans __y__ maile yy_y_ album ggggg 
+trans __y__ maile yy_yy gleam ggggg 
+trans __y__ maile yyg__ axiom ggggg 
+trans __y_g abyss g__gg amiss ggggg 
+trans __y_g abyss ggggg 
+trans __y_g abyss yy_yg basis ggggg 
+trans __y_y salse _g_g_ daisy ggggg 
+trans __y_y salse _g_gg cause _gggg pause ggggg 
+trans __y_y salse _g_gg cause ggggg 
+trans __y_y salse _ggg_ palsy ggggg 
+trans __y_y salse _gggg false ggggg 
+trans __y_y salse _gygg lapse ggggg 
+trans __y_y salse _y_gg abuse g_ggg amuse ggggg 
+trans __y_y salse _y_gg abuse ggggg 
+trans __y_y salse gg___ savoy gg__g sappy gg__g saucy ggggg 
+trans __y_y salse gg___ savoy gg__g sappy ggggg 
+trans __y_y salse gg___ savoy ggg_g savvy ggggg 
+trans __y_y salse gg___ savoy ggggg 
+trans __y_y salse gg__g sauce ggggg 
+trans __y_y salse gg_g_ sassy ggggg 
+trans __y_y salse ggg__ salal ggg__ salvo ggggg 
+trans __y_y salse ggg__ salal ggg_y sally ggggg 
+trans __y_y salse ggg__ salal gggg_ salad ggggg 
+trans __y_y salse ggg_g salve ggggg 
+trans __y_y salse gggg_ salsa ggggg 
+trans __y_y salse ggy__ sadly ggggg 
+trans __y_y salse gy___ scuba g___g sigma ggggg 
+trans __y_y salse gy___ scuba g_g_y squad ggggg 
+trans __y_y salse gy___ scuba ggggg 
+trans __y_y salse gy___ scuba gyy_y sumac ggggg 
+trans __y_y salse gy__y sepia ggggg 
+trans __y_y salse gy__y sepia gyy_y speak ggggg 
+trans __y_y salse gyy__ shoal ggggg 
+trans __y_y salse yg___ basic ggggg 
+trans __y_y salse yg_g_ gassy ggggg 
+trans __y_y salse yg_gg masse ggggg 
+trans __y_y salse ygy__ basal ggg_g basil ggggg 
+trans __y_y salse ygy__ basal ggggg 
+trans __y_y salse ygy_y easel ggggg 
+trans __y_y salse ygyg_ lasso ggggg 
+trans __y_y salse yy__g aside ggggg 
+trans __y_y salse yy__y askew ggggg 
+trans __y_y salse yy_y_ assay ggggg 
+trans __y_y salse yy_yy essay ggggg 
+trans __y_y salse yyy__ usual ggggg 
+trans __y_y salse yyy_g aisle ggggg 
+trans __yg_ agony g__g_ amend ggggg 
+trans __yg_ agony g_gg_ alone ggggg 
+trans __yg_ agony gg_g_ aging ggggg 
+trans __yg_ agony ggggg 
+trans __yg_ agony gy_g_ aping ggggg 
+trans __yg_ agony gygg_ along g_ggg among ggggg 
+trans __yg_ agony gygg_ along ggggg 
+trans __yg_ agony y__g_ china ___gg fauna ggggg 
+trans __yg_ agony y__g_ china ggggg 
+trans __yg_ agony y__gg canny _gggg fanny _gggg nanny ggggg 
+trans __yg_ agony y__gg canny _gggg fanny ggggg 
+trans __yg_ agony y__gg canny ggggg 
+trans __yg_ agony y__gy hyena ggggg 
+trans __ygy sauna ggggg 
+trans __yy_ lance _gg__ mango _gg__ dandy _gggg handy ggggg 
+trans __yy_ lance _gg__ mango _gg__ dandy ggggg 
+trans __yy_ lance _gg__ mango _gg_g banjo ggggg 
+trans __yy_ lance _gg__ mango ggg__ mania ggggg 
+trans __yy_ lance _gg__ mango gggg_ manga gggg_ mangy ggggg 
+trans __yy_ lance _gg__ mango gggg_ manga ggggg 
+trans __yy_ lance _gg__ mango ggggg 
+trans __yy_ lance _gg_g mange ggggg 
+trans __yy_ lance _ggg_ fancy ggggg 
+trans __yy_ lance _gggg dance ggggg 
+trans __yy_ lance _ggy_ candy ggg__ canon ggggg 
+trans __yy_ lance _ggy_ candy ggggg 
+trans __yy_ lance _ggy_ candy ygg__ manic _gggg panic ggggg 
+trans __yy_ lance _ggy_ candy ygg__ manic ggggg 
+trans __yy_ lance _ggyg canoe ggggg 
+trans __yy_ lance _gy__ pagan _gg_g wagon ggggg 
+trans __yy_ lance _gy__ pagan ggggg 
+trans __yy_ lance _gy_g naive ggggg 
+trans __yy_ lance _gy_y kaneh _gyg_ waxen ggggg 
+trans __yy_ lance _gy_y kaneh _gygy haven ggggg 
+trans __yy_ lance _gy_y kaneh ygyg_ oaken ggggg 
+trans __yy_ lance _gyy_ bacon ggggg 
+trans __yy_ lance _gyy_ bacon ygy_g cabin ggggg 
+trans __yy_ lance _yg__ annoy ggggg 
+trans __yy_ lance _yg__ annoy y_gy_ gonad ggggg 
+trans __yy_ lance _yg__ annoy yyg__ ninja ggggg 
+trans __yy_ lance _yg_y annex g_gg_ apnea ggggg 
+trans __yy_ lance _yg_y annex ggggg 
+trans __yy_ lance _yy__ axion g_g_g avian ggggg 
+trans __yy_ lance _yy__ axion g_y_g admin ggggg 
+trans __yy_ lance _yy__ axion ggggg 
+trans __yy_ lance _yy__ axion y___g human ggggg 
+trans __yy_ lance _yy__ axion y__yg woman ggggg 
+trans __yy_ lance _yy__ axion y__yy nomad ggggg 
+trans __yy_ lance _yy_g anime gg__g anode ggggg 
+trans __yy_ lance _yy_g anime ggggg 
+trans __yy_ lance _yy_y began _gggg vegan ggggg 
+trans __yy_ lance _yy_y began _y_gy knead ggggg 
+trans __yy_ lance _yy_y began _y_yy enema ggggg 
+trans __yy_ lance _yy_y began ggggg 
+trans __yy_ lance _yyyy ocean _yygg pecan ggggg 
+trans __yy_ lance _yyyy ocean ggggg 
+trans __yy_ lance ggg__ lanky ggggg 
+trans __yy_ lance ggggg 
+trans __yy_ lance ggy_y laden ggggg 
+trans __yy_ lance ygg__ banal _gg_y manly ggggg 
+trans __yy_ lance ygg__ banal ggggg 
+trans __yy_ lance ygg_y panel ggggg 
+trans __yy_ lance yggy_ canal ggggg 
+trans __yy_ lance ygy__ naval ggggg 
+trans __yy_ lance ygy_y navel ggggg 
+trans __yy_ lance yyg__ final __ggg zonal ggggg 
+trans __yy_ lance yyg__ final __gyg annul ggggg 
+trans __yy_ lance yyg__ final ggggg 
+trans __yy_ lance yyg_y penal ggggg 
+trans __yy_ lance yyy__ align ggggg 
+trans __yy_ lance yyy__ align gyy_y anvil ggggg 
+trans __yy_ lance yyy__ align yyy_y inlay ggggg 
+trans __yy_ lance yyy_g angle gg_gg ankle ggggg 
+trans __yy_ lance yyy_g angle ggggg 
+trans __yy_ lance yyy_y alien ggggg 
+trans __yy_ lance yyy_y alien gy_gy angel ggggg 
+trans __yy_ lance yyy_y alien yg_yg glean ggggg 
+trans __yy_ lance yyyyy clean ggggg 
+trans __yyy salon gg__y sandy ggggg 
+trans __yyy salon ggggg 
+trans __yyy salon gy__g sedan ggggg 
+trans __yyy salon gy__y sneak ggggg 
+trans __yyy salon yg__g basin ggggg 
+trans __yyy salon yg__y pansy ggggg 
+trans __yyy salon yg_gg mason ggggg 
+trans __yyy salon ygy_y nasal ggggg 
+trans __yyy salon yy__g ashen ggggg 
+trans _g___ drice _g___ argol _g__y wryly ggggg 
+trans _g___ drice _g___ argol _g_g_ brook _ggg_ proof ggggg 
+trans _g___ drice _g___ argol _g_g_ brook gggg_ broom ggggg 
+trans _g___ drice _g___ argol _g_g_ brook ggggg 
+trans _g___ drice _g___ argol _g_y_ proxy ggggg 
+trans _g___ drice _g___ argol _g_yg prowl ggggg 
+trans _g___ drice _g___ argol _gy__ gruff ggggg 
+trans _g___ drice _g___ argol _gyg_ groom ggggg 
+trans _g___ drice _g___ argol _gyy_ group ggggg 
+trans _g___ drice _g___ argol _gyyg growl ggggg 
+trans _g___ drice _g__g probe _gg_g froze _gg_g grove ggggg 
+trans _g___ drice _g__g probe _gg_g froze ggggg 
+trans _g___ drice _g__g probe _ggyg broke ggggg 
+trans _g___ drice _g__g probe ggg_g prove ggggg 
+trans _g___ drice _g__g probe ggggg 
+trans _g___ drice _g__g probe ygg_g grope ggggg 
+trans _g___ drice _g__y error ggggg 
+trans _g___ drice _g__y error yg___ gruel ggggg 
+trans _g___ drice _g__y error yg__g freer ggggg 
+trans _g___ drice _g_g_ crock _gggg frock ggggg 
+trans _g___ drice _g_g_ crock ggggg 
+trans _g___ drice _g_gy wreck ggggg 
+trans _g___ drice _g_y_ croup gg_y_ crumb ggggg 
+trans _g___ drice _g_y_ croup gg_yg crump ggggg 
+trans _g___ drice _g_y_ croup ggg__ crook ggggg 
+trans _g___ drice _g_y_ croup ggggg 
+trans _g___ drice _g_yg creme ggg_g crepe ggggg 
+trans _g___ drice _g_yg creme ggggg 
+trans _g___ drice _g_yy creek gg_g_ cruel ggggg 
+trans _g___ drice _g_yy creek gggg_ creep ggggg 
+trans _g___ drice _g_yy creek ggggg 
+trans _g___ drice _gg__ gripy _gg__ frill _gggg krill ggggg 
+trans _g___ drice _gg__ gripy _gg__ frill ggggg 
+trans _g___ drice _gg__ gripy _ggy_ primo ggg_y prior ggggg 
+trans _g___ drice _gg__ gripy _ggy_ primo ggggg 
+trans _g___ drice _gg__ gripy _ggyg privy ggggg 
+trans _g___ drice _gg__ gripy ggg__ grill ggggg 
+trans _g___ drice _gg__ gripy ggg_g grimy ggggg 
+trans _g___ drice _gg_g prime _gg_g bribe ggggg 
+trans _g___ drice _gg_g prime _gggg grime ggggg 
+trans _g___ drice _gg_g prime ggg_g prize ggggg 
+trans _g___ drice _gg_g prime ggggg 
+trans _g___ drice _gg_g prime ygg_g gripe ggggg 
+trans _g___ drice _gg_y brief _gggg grief ggggg 
+trans _g___ drice _gg_y brief ggggg 
+trans _g___ drice _ggg_ brick _gggg crick _gggg prick ggggg 
+trans _g___ drice _ggg_ brick _gggg crick ggggg 
+trans _g___ drice _ggg_ brick ggggg 
+trans _g___ drice _gggg price ggggg 
+trans _g___ drice _ggy_ crimp ggggg 
+trans _g___ drice _ggyg crime ggggg 
+trans _g___ drice _ggyy crier ggggg 
+trans _g___ drice _gy__ broil ggggg 
+trans _g___ drice gg___ droll gg_g_ dryly ggggg 
+trans _g___ drice gg___ droll ggg__ droop ggggg 
+trans _g___ drice gg___ droll ggg_g drool ggggg 
+trans _g___ drice gg___ droll ggggg 
+trans _g___ drice gg__g drove ggggg 
+trans _g___ drice gg__y dryer ggggg 
+trans _g___ drice ggg__ drill ggggg 
+trans _g___ drice ggg_g drive ggggg 
+trans _g___ drice ggg_y dried gggg_ drier ggggg 
+trans _g___ drice ggg_y dried ggggg 
+trans _g___ drice ggy__ druid ggggg 
+trans _g___ drice yg___ brood _gg_g proud ggggg 
+trans _g___ drice yg___ brood ggggg 
+trans _g___ drice yg__g erode _g_gg prude ggggg 
+trans _g___ drice yg__g erode ggggg 
+trans _g___ drice yg__y breed _g_gy order ggggg 
+trans _g___ drice yg__y breed _gggg freed _gggg greed ggggg 
+trans _g___ drice yg__y breed _gggg freed ggggg 
+trans _g___ drice yg__y breed ggggg 
+trans _g___ drice yg_y_ crowd ggggg 
+trans _g___ drice yg_yg crude ggggg 
+trans _g___ drice yg_yy credo ggggg 
+trans _g___ drice yg_yy credo gggy_ creed ggggg 
+trans _g___ drice ygg_g bride _gggg pride ggggg 
+trans _g___ drice ygg_g bride ggggg 
+trans _g___ drice ygg_y fried _gggg pried ggggg 
+trans _g___ drice ygg_y fried ggggg 
+trans _g___ drice yggyy cried ggggg 
+trans _g__g creds _g__g gross ggggg 
+trans _g__g creds _g_yg dross ggggg 
+trans _g__g creds _gg_g press ggggg 
+trans _g__g creds _ggyg dress ggggg 
+trans _g__g creds gg__g cross ggggg 
+trans _g__g creds ggg_g cress ggggg 
+trans _g__y crisp _g_g_ brush _g_gg fresh ggggg 
+trans _g__y crisp _g_g_ brush ggggg 
+trans _g__y crisp _g_gy prose ggggg 
+trans _g__y crisp _ggg_ brisk _gggg frisk ggggg 
+trans _g__y crisp _ggg_ brisk ggggg 
+trans _g__y crisp _gggy prism ggggg 
+trans _g__y crisp gg_g_ crush ggggg 
+trans _g__y crisp ggggg 
+trans _g_g_ grind _g_g_ crone _g_gg prune ggggg 
+trans _g_g_ grind _g_g_ crone _gggg prone ggggg 
+trans _g_g_ grind _g_g_ crone gggg_ crony ggggg 
+trans _g_g_ grind _g_g_ crone ggggg 
+trans _g_g_ grind _g_gg frond ggggg 
+trans _g_g_ grind _g_gy drone gg_g_ drunk ggggg 
+trans _g_g_ grind _g_gy drone ggggg 
+trans _g_g_ grind _ggg_ brine _gggg urine ggggg 
+trans _g_g_ grind _ggg_ brine gggg_ brink gggg_ briny ggggg 
+trans _g_g_ grind _ggg_ brine gggg_ brink ggggg 
+trans _g_g_ grind _ggg_ brine ggggg 
+trans _g_g_ grind _gggy drink ggggg 
+trans _g_g_ grind _gyg_ irony ggggg 
+trans _g_g_ grind ggggg 
+trans _g_g_ grind yg_g_ prong _g_gg wrung ggggg 
+trans _g_g_ grind yg_g_ prong _gggg wrong ggggg 
+trans _g_g_ grind yg_g_ prong ggggg 
+trans _g_g_ grind yggg_ bring _gggg wring ggggg 
+trans _g_g_ grind yggg_ bring ggggg 
+trans _g_y_ groin _g__g preen ggggg 
+trans _g_y_ groin _gg_g brown _gggg crown _gggg drown _gggg frown ggggg 
+trans _g_y_ groin _gg_g brown _gggg crown _gggg drown ggggg 
+trans _g_y_ groin _gg_g brown _gggg crown ggggg 
+trans _g_y_ groin _gg_g brown ggggg 
+trans _g_y_ groin gg__g green ggggg 
+trans _g_y_ groin ggg_g grown ggggg 
+trans _g_y_ groin ggggg 
+trans _gg__ drape _gg__ crawl _gg__ bravo _ggg_ gravy ggggg 
+trans _gg__ drape _gg__ crawl _gg__ bravo ggggg 
+trans _gg__ drape _gg__ crawl _gg_g frail _gggg grail ggggg 
+trans _gg__ drape _gg__ crawl _gg_g frail ggggg 
+trans _gg__ drape _gg__ crawl _gggg brawl ggggg 
+trans _gg__ drape _gg__ crawl ggg__ crack ggg__ crazy ggggg 
+trans _gg__ drape _gg__ crawl ggg__ crack ggggg 
+trans _gg__ drape _gg__ crawl ggggg 
+trans _gg__ drape _gg__ crawl yggy_ wrack ggggg 
+trans _gg__ drape _gg_g brace _gg_g grave _gg_g frame ggggg 
+trans _gg__ drape _gg_g brace _gg_g grave ggg_g graze ggggg 
+trans _gg__ drape _gg_g brace _gg_g grave ggggg 
+trans _gg__ drape _gg_g brace _gggg grace ggggg 
+trans _gg__ drape _gg_g brace _ggyg crave ggg_g craze ggggg 
+trans _gg__ drape _gg_g brace _ggyg crave ggggg 
+trans _gg__ drape _gg_g brace ggg_g brake ggg_g brave ggggg 
+trans _gg__ drape _gg_g brace ggg_g brake ggggg 
+trans _gg__ drape _gg_g brace ggggg 
+trans _gg__ drape _ggg_ graph ggggg 
+trans _gg__ drape _gggg grape ggggg 
+trans _gg__ drape _ggy_ cramp ggggg 
+trans _gg__ drape ggg__ drama ggg__ drawl ggggg 
+trans _gg__ drape ggg__ drama ggggg 
+trans _gg__ drape ggg_g drake ggggg 
+trans _gg__ drape ggggg 
+trans _gg__ drape ygg__ braid _gg_g fraud ggggg 
+trans _gg__ drape ygg__ braid ggggg 
+trans _gg__ drape ygg_g grade ggggg 
+trans _gg_g brags _gg_g crass ggggg 
+trans _gg_g brags _ggyg grass ggggg 
+trans _gg_g brags ggg_g brass ggggg 
+trans _gg_y brash _ggg_ erase _ggg_ grasp ggggg 
+trans _gg_y brash _ggg_ erase ggggg 
+trans _gg_y brash _gggg crash ggggg 
+trans _gg_y brash ggggg 
+trans _ggg_ crank _ggg_ brand _gggg grand ggggg 
+trans _ggg_ crank _ggg_ brand ggggg 
+trans _ggg_ crank _gggg drank _gggg frank _gggg prank ggggg 
+trans _ggg_ crank _gggg drank _gggg frank ggggg 
+trans _ggg_ crank _gggg drank ggggg 
+trans _ggg_ crank gggg_ crane ggggg 
+trans _ggg_ crank ggggg 
+trans _ggy_ brain _gg_g drawn _gggg prawn ggggg 
+trans _ggy_ brain _gg_g drawn ggggg 
+trans _ggy_ brain _gggg drain _gggg grain ggggg 
+trans _ggy_ brain _gggg drain ggggg 
+trans _ggy_ brain ggg_g brawn ggggg 
+trans _ggy_ brain ggggg 
+trans _gy__ bread _g_g_ array _g_g_ croak ggggg 
+trans _gy__ bread _g_g_ array _gyg_ friar ggggg 
+trans _gy__ bread _g_g_ array ggggg 
+trans _gy__ bread _g_y_ armor gg_gy arrow ggggg 
+trans _gy__ bread _g_y_ armor ggggg 
+trans _gy__ bread _g_y_ armor ggyy_ aroma ggggg 
+trans _gy__ bread _g_yy ardor ggggg 
+trans _gy__ bread _ggg_ creak _gggg freak _gggg wreak ggggg 
+trans _gy__ bread _ggg_ creak _gggg freak ggggg 
+trans _gy__ bread _ggg_ creak gggg_ cream ggggg 
+trans _gy__ bread _ggg_ creak ggggg 
+trans _gy__ bread _gggg dread ggggg 
+trans _gy__ bread _gggy dream ggggg 
+trans _gy__ bread _gyy_ argue ggggg 
+trans _gy__ bread gg_g_ briar ggggg 
+trans _gy__ bread gg_gg broad ggggg 
+trans _gy__ bread gggg_ break ggggg 
+trans _gy__ bread ggggg 
+trans _gy__ bread yg_y_ arbor ggggg 
+trans _gy_y arise gg_gg arose ggggg 
+trans _gy_y arise ggggg 
+trans _gyg_ arena ggggg 
+trans _gyy_ groan _g_gg urban ggggg 
+trans _gyy_ groan ggggg 
+trans _gyy_ groan ygygg organ ggggg 
+trans _gyyy arson ggggg 
+trans _y___ cored __g__ furry __g_g girly ggggg 
+trans _y___ cored __g__ furry __ggy myrrh ggggg 
+trans _y___ cored __g__ furry _gg_g burly _gg_g murky ggggg 
+trans _y___ cored __g__ furry _gg_g burly ggggg 
+trans _y___ cored __g__ furry _gggg hurry ggggg 
+trans _y___ cored __g__ furry ggggg 
+trans _y___ cored __g_g lurid ggggg 
+trans _y___ cored __gg_ puree gggg_ purer ggggg 
+trans _y___ cored __gg_ puree ggggg 
+trans _y___ cored __gy_ pervy _gg__ eerie _gg_g merge ggggg 
+trans _y___ cored __gy_ pervy _gg__ eerie ggggg 
+trans _y___ cored __gy_ pervy _gg_g berry _gg_g jerky ggggg 
+trans _y___ cored __gy_ pervy _gg_g berry _gggg ferry _gggg merry ggggg 
+trans _y___ cored __gy_ pervy _gg_g berry _gggg ferry ggggg 
+trans _y___ cored __gy_ pervy _gg_g berry ggggg 
+trans _y___ cored __gy_ pervy _ggg_ verve ggggg 
+trans _y___ cored __gy_ pervy _ggy_ verge ggggg 
+trans _y___ cored __gy_ pervy ggg__ peril ggggg 
+trans _y___ cored __gy_ pervy ggg_g perky ggggg 
+trans _y___ cored __gy_ pervy gyg__ purge ggggg 
+trans _y___ cored __gyy derby ggggg 
+trans _y___ cored __gyy derby gyg__ dirge ggggg 
+trans _y___ cored __y__ blurb __yg_ quirk ggggg 
+trans _y___ cored __y__ blurb _y_g_ whirl ggggg 
+trans _y___ cored __y__ blurb ggggg 
+trans _y___ cored __y__ blurb y_yy_ rugby ggggg 
+trans _y___ cored __y_g rigid ggggg 
+trans _y___ cored __y_y ruddy ggggg 
+trans _y___ cored __yg_ revel g__g_ riper ggggg 
+trans _y___ cored __yg_ revel g__gy ruler ggggg 
+trans _y___ cored __yg_ revel g_gg_ river ggggg 
+trans _y___ cored __yg_ revel gg_g_ refer ggggg 
+trans _y___ cored __yg_ revel gg_gg rebel gg_gg repel ggggg 
+trans _y___ cored __yg_ revel gg_gg rebel ggggg 
+trans _y___ cored __yg_ revel ggggg 
+trans _y___ cored __yg_ revel gy_g_ rupee ggggg 
+trans _y___ cored __yg_ revel y__g_ pyrex __yg_ fiber ggggg 
+trans _y___ cored __yg_ revel y__g_ pyrex __ygy fixer ggggg 
+trans _y___ cored __yg_ revel y__g_ pyrex _yyg_ buyer ggggg 
+trans _y___ cored __yg_ revel y__g_ pyrex g_yg_ piper ggggg 
+trans _y___ cored __yg_ revel y__g_ pyrex y_yg_ upper ggggg 
+trans _y___ cored __yg_ revel y__g_ pyrex ygyg_ hyper ggggg 
+trans _y___ cored __yg_ revel y__gy filer __ygg bluer ggggg 
+trans _y___ cored __yg_ revel y__gy filer _yygg plier ggggg 
+trans _y___ cored __yg_ revel y__gy filer g_ygg flyer ggggg 
+trans _y___ cored __yg_ revel y__gy filer ggggg 
+trans _y___ cored __yg_ revel y__gy filer gyygg flier ggggg 
+trans _y___ cored __yg_ revel y_gg_ giver ggggg 
+trans _y___ cored __yg_ revel y_ggy liver ggggg 
+trans _y___ cored __yg_ revel y_yg_ viper ggggg 
+trans _y___ cored __yg_ revel yg_g_ fewer ggggg 
+trans _y___ cored __yg_ revel yg_gy leper ggggg 
+trans _y___ cored __yg_ revel yggg_ fever ggggg 
+trans _y___ cored __yg_ revel ygggy lever ggggg 
+trans _y___ cored __yg_ revel yy_g_ ember ggggg 
+trans _y___ cored __yg_ revel yy_g_ ember y__gg queer ggggg 
+trans _y___ cored __ygy rider __ggg elder __ggg udder ggggg 
+trans _y___ cored __ygy rider __ggg elder ggggg 
+trans _y___ cored __ygy rider __ygg defer ggggg 
+trans _y___ cored __ygy rider _gggg wider ggggg 
+trans _y___ cored __ygy rider _gygg diver ggggg 
+trans _y___ cored __ygy rider _yygg idler ggggg 
+trans _y___ cored __ygy rider g_ggg ruder ggggg 
+trans _y___ cored __ygy rider ggggg 
+trans _y___ cored __yy_ feyer _g__g lemur ggggg 
+trans _y___ cored __yy_ feyer _g_yy revue ggggg 
+trans _y___ cored __yy_ feyer _gy_y reply ggggg 
+trans _y___ cored __yy_ feyer _gyyy leery ggggg 
+trans _y___ cored __yy_ feyer _y_yy where ggggg 
+trans _y___ cored __yy_ feyer _yg_y rhyme ggggg 
+trans _y___ cored __yy_ feyer _yy_y query ggggg 
+trans _y___ cored __yy_ feyer _yyyy every ggggg 
+trans _y___ cored __yy_ feyer gg__g femur ggggg 
+trans _y___ cored __yy_ feyer gy__y fibre ggggg 
+trans _y___ cored __yy_ feyer gyy_y fiery ggggg 
+trans _y___ cored __yy_ feyer yy__y rifle ggggg 
+trans _y___ cored __yyg weird ggggg 
+trans _y___ cored __yyy demur ggggg 
+trans _y___ cored __yyy demur yg__y reedy ggggg 
+trans _y___ cored __yyy demur yy__y ridge ggggg 
+trans _y___ cored _gg__ forum _gg__ lorry _gggg worry ggggg 
+trans _y___ cored _gg__ forum _gg__ lorry ggggg 
+trans _y___ cored _gg__ forum _gg_y morph ggggg 
+trans _y___ cored _gg__ forum ggg__ forgo ggggg 
+trans _y___ cored _gg__ forum ggggg 
+trans _y___ cored _gg_g world ggggg 
+trans _y___ cored _gg_y wordy ggggg 
+trans _y___ cored _ggy_ forge _gggg gorge ggggg 
+trans _y___ cored _ggy_ forge ggggg 
+trans _y___ cored _ggyy horde ggggg 
+trans _y___ cored _gy__ roomy gg___ rough ggggg 
+trans _y___ cored _gy__ roomy ggggg 
+trans _y___ cored _gy_g gourd ggggg 
+trans _y___ cored _gy_y dowry ggggg 
+trans _y___ cored _gy_y dowry yggyg rowdy ggggg 
+trans _y___ cored _gyg_ rowel gg_g_ roger gg_gg rover ggggg 
+trans _y___ cored _gyg_ rowel gg_g_ roger ggggg 
+trans _y___ cored _gyg_ rowel gggg_ rower ggggg 
+trans _y___ cored _gyg_ rowel yg_g_ homer _g_gg joker _g_gg boxer _g_gg foyer ggggg 
+trans _y___ cored _gyg_ rowel yg_g_ homer _g_gg joker _g_gg boxer ggggg 
+trans _y___ cored _gyg_ rowel yg_g_ homer _g_gg joker _gggg poker ggggg 
+trans _y___ cored _gyg_ rowel yg_g_ homer _g_gg joker ggggg 
+trans _y___ cored _gyg_ rowel yg_g_ homer _gygg mover ggggg 
+trans _y___ cored _gyg_ rowel yg_g_ homer gg_gg hover ggggg 
+trans _y___ cored _gyg_ rowel yg_g_ homer ggggg 
+trans _y___ cored _gyg_ rowel yg_gy lover ggggg 
+trans _y___ cored _gyg_ rowel yggg_ mower _gggg power ggggg 
+trans _y___ cored _gyg_ rowel yggg_ mower ggggg 
+trans _y___ cored _gyg_ rowel ygggy lower ggggg 
+trans _y___ cored _gyg_ rowel ygyg_ wooer ggggg 
+trans _y___ cored _gygy rodeo ggggg 
+trans _y___ cored _gyy_ rogue ggggg 
+trans _y___ cored _gyy_ rogue ggyyg rouge ggggg 
+trans _y___ cored _yg__ furor _gggg juror ggggg 
+trans _y___ cored _yg__ furor ggggg 
+trans _y___ cored _yy__ rigol g__g_ rumor ggggg 
+trans _y___ cored _yy__ rigol gggg_ rigor ggggg 
+trans _y___ cored _yy__ rigol y__g_ humor ggggg 
+trans _y___ cored _yy__ rigol y__gy floor ggggg 
+trans _y___ cored _yy__ rigol y__yy flour ggggg 
+trans _y___ cored _yy__ rigol y_yyy glory ggggg 
+trans _y___ cored _yy__ rigol yggg_ vigor ggggg 
+trans _y___ cored _yy__ rigol yy_y_ ivory ggggg 
+trans _y___ cored _yy_g fjord ggggg 
+trans _y___ cored _yy_y hydro ggggg 
+trans _y___ cored _yyg_ offer ggggg 
+trans _y___ cored _yygy odder g_ggg older ggggg 
+trans _y___ cored _yygy odder ggggg 
+trans _y___ cored _yyy_ ombre ggggg 
+trans _y___ cored g_g__ curly ggg_g curry ggg_g curvy ggggg 
+trans _y___ cored g_g__ curly ggg_g curry ggggg 
+trans _y___ cored g_g__ curly ggggg 
+trans _y___ cored g_gy_ curve ggggg 
+trans _y___ cored g_y__ chirp ggggg 
+trans _y___ cored g_yg_ cheer g__gg cyber ggggg 
+trans _y___ cored g_yg_ cheer ggggg 
+trans _y___ cored g_ygy cider ggggg 
+trans _y___ cored g_yy_ clerk ggggg 
+trans _y___ cored gggg_ corer ggggg 
+trans _y___ cored ggy__ color ggggg 
+trans _y___ cored ggyg_ cover gg_gg cower ggggg 
+trans _y___ cored ggyg_ cover ggggg 
+trans _y___ cored gyg__ curio ggggg 
+trans _y___ cored gyy__ choir ggggg 
+trans _y___ cored gyy_g chord ggggg 
+trans _y___ cored gyyy_ chore ggggg 
+trans _y___ cored y_g__ birch __ggg lurch ggggg 
+trans _y___ cored y_g__ birch _ygy_ lyric ggggg 
+trans _y___ cored y_g__ birch ggggg 
+trans _y___ cored y_gy_ mercy _ggg_ perch ggggg 
+trans _y___ cored y_gy_ mercy ggggg 
+trans _y___ cored y_yg_ ulcer ggggg 
+trans _y___ cored y_yy_ recur ggggg 
+trans _y___ cored y_yy_ recur ggy__ relic ggggg 
+trans _y___ cored y_yyy decry ggggg 
+trans _y___ cored ygg__ porch ggggg 
+trans _y___ cored yggy_ force ggggg 
+trans _y___ cored ygy__ rocky ggggg 
+trans _y___ cored yyy__ micro __gyy occur ggggg 
+trans _y___ cored yyy__ micro ggggg 
+trans _y___ cored yyyyy decor ggggg 
+trans _y__g rebus ggggg 
+trans _y__g rebus y__gg virus ggggg 
+trans _y__y sprue g_g__ sorry ggggg 
+trans _y__y sprue g_g_g scree g_gyg serve ggggg 
+trans _y__y sprue g_g_g scree ggggg 
+trans _y__y sprue g_g_y screw g_ggg shrew ggggg 
+trans _y__y sprue g_g_y screw g_gy_ serif ggggg 
+trans _y__y sprue g_g_y screw ggggg 
+trans _y__y sprue g_gg_ scrub g_gg_ shrug ggggg 
+trans _y__y sprue g_gg_ scrub g_ggg shrub ggggg 
+trans _y__y sprue g_gg_ scrub gggg_ scrum ggggg 
+trans _y__y sprue g_gg_ scrub ggggg 
+trans _y__y sprue g_ggy serum ggggg 
+trans _y__y sprue g_gy_ surly ggggg 
+trans _y__y sprue g_gyg surge ggggg 
+trans _y__y sprue g_gyy surer ggggg 
+trans _y__y sprue g_y__ shirk g__g_ sword ggggg 
+trans _y__y sprue g_y__ shirk g_gg_ swirl ggggg 
+trans _y__y sprue g_y__ shirk g_ggg smirk ggggg 
+trans _y__y sprue g_y__ shirk ggggg 
+trans _y__y sprue g_y_g score g__gg shire ggggg 
+trans _y__y sprue g_y_g score g_ggg shore g_ggg swore ggggg 
+trans _y__y sprue g_y_g score g_ggg shore ggggg 
+trans _y__y sprue g_y_g score ggggg 
+trans _y__y sprue g_y_y sewer g__gg skier g__gg sober ggggg 
+trans _y__y sprue g_y_y sewer g__gg skier ggggg 
+trans _y__y sprue g_y_y sewer g_ggg sower ggggg 
+trans _y__y sprue g_y_y sewer gg_gg sever ggggg 
+trans _y__y sprue g_y_y sewer ggggg 
+trans _y__y sprue g_y_y sewer gy_gg sheer ggggg 
+trans _y__y sprue g_yg_ scour ggggg 
+trans _y__y sprue ggg__ sprig ggggg 
+trans _y__y sprue ggg_g spree ggggg 
+trans _y__y sprue ggy_g spire gg_gg spore ggggg 
+trans _y__y sprue ggy_g spire ggggg 
+trans _y__y sprue ggy_y sperm ggggg 
+trans _y__y sprue gygg_ syrup ggggg 
+trans _y__y sprue gyyy_ slurp ggggg 
+trans _y__y sprue gyyyy super ggggg 
+trans _y__y sprue y_g_g horse __ggg verse ggggg 
+trans _y__y sprue y_g_g horse _gggg worse ggggg 
+trans _y__y sprue y_g_g horse ggggg 
+trans _y__y sprue y_g_y verso ggggg 
+trans _y__y sprue y_gyg curse ggggg 
+trans _y__y sprue y_y__ risky ggggg 
+trans _y__y sprue y_y__ risky ygg__ visor ggggg 
+trans _y__y sprue y_y_y resow gyg__ riser ggggg 
+trans _y__y sprue y_y_y resow yyg__ miser ggggg 
+trans _y__y sprue y_y_y resow yyg_y wiser ggggg 
+trans _y__y sprue y_y_y resow yygy_ loser ggggg 
+trans _y__y sprue y_yyg reuse g_ggg rouse ggggg 
+trans _y__y sprue y_yyg reuse ggggg 
+trans _y__y sprue y_yyy usher ggggg 
+trans _y__y sprue yygyg purse ggggg 
+trans _y__y sprue yyy_y poser ggggg 
+trans _y__y sprue yyyy_ usurp ggggg 
+trans _y_g_ corny _ggg_ borne ggggg 
+trans _y_g_ corny _gggg horny ggggg 
+trans _y_g_ corny _gyg_ round ggggg 
+trans _y_g_ corny _yyg_ rhino ggggg 
+trans _y_g_ corny ggggg 
+trans _y_y_ diner __g_g honor ggggg 
+trans _y_y_ diner __ggg goner _yggg owner ggggg 
+trans _y_y_ diner __ggg goner ggggg 
+trans _y_y_ diner __ggy renew ggggg 
+trans _y_y_ diner __gyy genre ggggg 
+trans _y_y_ diner __y_y churn ___yg moron ggggg 
+trans _y_y_ diner __y_y churn __ggg mourn ggggg 
+trans _y_y_ diner __y_y churn ggggg 
+trans _y_y_ diner __ygg never gg_gg newer ggggg 
+trans _y_y_ diner __ygg never ggggg 
+trans _y_y_ diner __yyy heron _gg_g rerun ggggg 
+trans _y_y_ diner __yyy heron _gg_y nerve ggggg 
+trans _y_y_ diner __yyy heron ggggg 
+trans _y_y_ diner _gg_g minor ggggg 
+trans _y_y_ diner _gggg finer _gggg liner _gggg miner ggggg 
+trans _y_y_ diner _gggg finer _gggg liner ggggg 
+trans _y_y_ diner _gggg finer ggggg 
+trans _y_y_ diner _gygg nicer ggggg 
+trans _y_y_ diner _gygy ripen ggggg 
+trans _y_y_ diner _yggg inner ggggg 
+trans _y_y_ diner _yy_g incur ggggg 
+trans _y_y_ diner _yy_y robin ggggg 
+trans _y_y_ diner _yygg infer ggggg 
+trans _y_y_ diner _yyyy reign ggggg 
+trans _y_y_ diner g_g_g donor ggggg 
+trans _y_y_ diner ggggg 
+trans _y_y_ diner y_ygg under ggggg 
+trans _y_y_ diner y_yyy nerdy ggggg 
+trans _y_yy noser g_yyy nurse ggggg 
+trans _y_yy noser y_ggy risen ggggg 
+trans _y_yy noser y_gyy resin ggggg 
+trans _y_yy noser y_y_y spurn ggggg 
+trans _y_yy noser y_ygg sneer ggggg 
+trans _y_yy noser y_ygy siren ggggg 
+trans _y_yy noser y_yyy rinse ggggg 
+trans _y_yy noser yyy_y scorn g_ggg shorn g_ggg sworn ggggg 
+trans _y_yy noser yyy_y scorn g_ggg shorn ggggg 
+trans _y_yy noser yyy_y scorn ggggg 
+trans _y_yy noser yyyyy snore ggggg 
+trans _yg__ heard __gg_ alary __gg_ quark ggggg 
+trans _yg__ heard __gg_ alary __ggg ovary ggggg 
+trans _yg__ heard __gg_ alary gggg_ alarm ggggg 
+trans _yg__ heard __ggg award __ggg board __ggg guard ggggg 
+trans _yg__ heard __ggg award __ggg board ggggg 
+trans _yg__ heard __ggg award ggggg 
+trans _yg__ heard __ggy diary g_gg_ dwarf ggggg 
+trans _yg__ heard __ggy diary ggggg 
+trans _yg__ heard __gy_ flair ggggg 
+trans _yg__ heard _ggg_ leary _ggg_ rearm ggggg 
+trans _yg__ heard _ggg_ leary _gggg weary ggggg 
+trans _yg__ heard _ggg_ leary yggg_ pearl ggggg 
+trans _yg__ heard _gggg beard ggggg 
+trans _yg__ heard _ggy_ realm ggggg 
+trans _yg__ heard _ggyy ready ggggg 
+trans _yg__ heard _ygg_ blare __ggg aware ggggg 
+trans _yg__ heard _ygg_ blare _gggg flare _gggg glare ggggg 
+trans _yg__ heard _ygg_ blare _gggg flare ggggg 
+trans _yg__ heard _ygg_ blare ggggg 
+trans _yg__ heard g_ggg hoard ggggg 
+trans _yg__ heard ggggg 
+trans _yg__ heard y_gg_ charm _ggg_ wharf ggggg 
+trans _yg__ heard y_gg_ charm ggggg 
+trans _yg__ heard y_ggg chard ggggg 
+trans _yg__ heard y_gy_ chair ggggg 
+trans _yg__ heard y_gy_ chair yyg_y roach ggggg 
+trans _yg__ heard yggy_ reach ggggg 
+trans _yg_y spare g_gg_ scarf g_gg_ shard g_gg_ swarm ggggg 
+trans _yg_y spare g_gg_ scarf g_gg_ shard gggg_ shark ggggg 
+trans _yg_y spare g_gg_ scarf g_gg_ shard ggggg 
+trans _yg_y spare g_gg_ scarf gggg_ scary ggggg 
+trans _yg_y spare g_gg_ scarf ggggg 
+trans _yg_y spare g_ggg scare g_ggg share ggggg 
+trans _yg_y spare g_ggg scare ggggg 
+trans _yg_y spare gggg_ spark ggggg 
+trans _yg_y spare ggggg 
+trans _yg_y spare gygg_ sharp ggggg 
+trans _ygy_ learn _gggg yearn ggggg 
+trans _ygy_ learn ggggg 
+trans _ygyy snare gggg_ snarl ggggg 
+trans _ygyy snare ggggg 
+trans _yy__ carle _gg__ harpy _gg__ karma ggggg 
+trans _yy__ carle _gg__ harpy _gg_g marry ggggg 
+trans _yy__ carle _gg__ harpy _ggy_ parka ggggg 
+trans _yy__ carle _gg__ harpy _ggyg parry ggggg 
+trans _yy__ carle _gg__ harpy ggg_g hardy ggg_g harry ggggg 
+trans _yy__ carle _gg__ harpy ggg_g hardy ggggg 
+trans _yy__ carle _gg__ harpy ggggg 
+trans _yy__ carle _gg_g barge ggggg 
+trans _yy__ carle _gg_y parer _ggg_ harem ggggg 
+trans _yy__ carle _gg_y parer _gggg rarer ggggg 
+trans _yy__ carle _gg_y parer ggggg 
+trans _yy__ carle _gggy early ggggg 
+trans _yy__ carle _ggy_ larva ggggg 
+trans _yy__ carle _ggyg large ggggg 
+trans _yy__ carle _gy__ rapid gg___ rajah gg___ razor ggggg 
+trans _yy__ carle _gy__ rapid gg___ rajah ggggg 
+trans _yy__ carle _gy__ rapid gg__y radar ggggg 
+trans _yy__ carle _gy__ rapid gg_gg rabid ggggg 
+trans _yy__ carle _gy__ rapid gg_gy radii gggg_ radio ggggg 
+trans _yy__ carle _gy__ rapid gg_gy radii ggggg 
+trans _yy__ carle _gy__ rapid gg_y_ rabbi ggggg 
+trans _yy__ carle _gy__ rapid ggggg 
+trans _yy__ carle _gy__ rapid yg___ major _g_gg favor ggggg 
+trans _yy__ carle _gy__ rapid yg___ major gg_gg mayor ggggg 
+trans _yy__ carle _gy__ rapid yg___ major ggggg 
+trans _yy__ carle _gy__ rapid yg_y_ fairy _gggg hairy ggggg 
+trans _yy__ carle _gy__ rapid yg_y_ fairy ggggg 
+trans _yy__ carle _gy__ rapid yg_yy dairy ggggg 
+trans _yy__ carle _gy__ rapid ygg__ vapor ggggg 
+trans _yy__ carle _gy_y wager _g_gg baker _g_gg paper gg_gg payer ggggg 
+trans _yy__ carle _gy_y wager _g_gg baker _g_gg paper ggggg 
+trans _yy__ carle _gy_y wager _g_gg baker _gggg maker ggggg 
+trans _yy__ carle _gy_y wager _g_gg baker ggggg 
+trans _yy__ carle _gy_y wager _gggg eager ggggg 
+trans _yy__ carle _gy_y wager _gygg gamer gg_gg gayer gg_gg gazer ggggg 
+trans _yy__ carle _gy_y wager _gygg gamer gg_gg gayer ggggg 
+trans _yy__ carle _gy_y wager _gygg gamer ggggg 
+trans _yy__ carle _gy_y wager gg_gg wafer gg_gg waver ggggg 
+trans _yy__ carle _gy_y wager gg_gg wafer ggggg 
+trans _yy__ carle _gy_y wager ggggg 
+trans _yy__ carle _gyg_ rally ggggg 
+trans _yy__ carle _gyy_ labor ggggg 
+trans _yy__ carle _gyy_ labor yg__y ralph ggggg 
+trans _yy__ carle _gyy_ labor yg_gg valor ggggg 
+trans _yy__ carle _gyyy baler _gggg paler ggggg 
+trans _yy__ carle _gyyy baler _gygg lager gg_gg layer ggggg 
+trans _yy__ carle _gyyy baler _gygg lager ggggg 
+trans _yy__ carle _gyyy baler ggggg 
+trans _yy__ carle _yg__ borax _ggg_ foray ggggg 
+trans _yy__ carle _yg__ borax ggggg 
+trans _yy__ carle _yg_g agree ggggg 
+trans _yy__ carle _ygy_ mural __ggg viral ggggg 
+trans _yy__ carle _ygy_ mural _gggg rural ggggg 
+trans _yy__ carle _ygy_ mural g_ggg moral ggggg 
+trans _yy__ carle _ygy_ mural ggggg 
+trans _yy__ carle _ygyy feral ggggg 
+trans _yy__ carle _yy__ agora ___gg umbra ggggg 
+trans _yy__ carle _yy__ agora ___yg rumba ggggg 
+trans _yy__ carle _yy__ agora g_yy_ abhor ggggg 
+trans _yy__ carle _yy__ agora ggggg 
+trans _yy__ carle _yy__ agora gy_y_ augur ggggg 
+trans _yy__ carle _yy_g afore g__gg azure ggggg 
+trans _yy__ carle _yy_g afore g_ggg adore ggggg 
+trans _yy__ carle _yy_g afore gg_gg afire ggggg 
+trans _yy__ carle _yy_y debar _g_gy repay ggggg 
+trans _yy__ carle _yy_y debar _gggg rebar ggggg 
+trans _yy__ carle _yy_y debar _ggyy zebra ggggg 
+trans _yy__ carle _yy_y debar _gygy rehab ggggg 
+trans _yy__ carle _yy_y debar _y_yy opera ggggg 
+trans _yy__ carle _yy_y debar _ygyg amber ggggg 
+trans _yy__ carle _yy_y debar ggggg 
+trans _yy__ carle _yy_y debar yy_yg aider ggggg 
+trans _yy__ carle _yyy_ molar __ygy rival ggggg 
+trans _yy__ carle _yyy_ molar _gggg polar ggggg 
+trans _yy__ carle _yyy_ molar _gygy royal ggggg 
+trans _yy__ carle _yyy_ molar _yyyy flora ggggg 
+trans _yy__ carle _yyy_ molar ggggg 
+trans _yy__ carle _yyyy relax gggg_ relay ggggg 
+trans _yy__ carle _yyyy relax ggggg 
+trans _yy__ carle _yyyy relax ggyg_ regal ggggg 
+trans _yy__ carle ggg__ cargo ggg__ carry ggggg 
+trans _yy__ carle ggg__ cargo ggggg 
+trans _yy__ carle ggg_g carve ggggg 
+trans _yy__ carle gggy_ carol ggggg 
+trans _yy__ carle ggy_y caper ggggg 
+trans _yy__ carle gyg__ circa ggggg 
+trans _yy__ carle gygy_ coral ggggg 
+trans _yy__ carle gyy__ cigar g__yy cobra ggggg 
+trans _yy__ carle gyy__ cigar ggggg 
+trans _yy__ carle gyy_y cedar ggggg 
+trans _yy__ carle gyyyy clear ggggg 
+trans _yy__ carle ygg__ march ggggg 
+trans _yy__ carle ygg_g farce ggggg 
+trans _yy__ carle ygy__ macro ggggg 
+trans _yy__ carle ygy_y racer ggggg 
+trans _yy__ carle yyg__ acrid ggggg 
+trans _yy__ carle yyy__ vicar ggggg 
+trans _yy__ carle yyy_y recap ggggg 
+trans _yy_y spear g__gg solar g__gg sugar ggggg 
+trans _yy_y spear g__gg solar ggggg 
+trans _yy_y spear g__gy scram ggggg 
+trans _yy_y spear g__yg savor ggggg 
+trans _yy_y spear g_ggg shear g_ggg smear g_ggg swear ggggg 
+trans _yy_y spear g_ggg shear g_ggg smear ggggg 
+trans _yy_y spear g_ggg shear ggggg 
+trans _yy_y spear g_yyg safer ggggg 
+trans _yy_y spear gg_gy spray ggggg 
+trans _yy_y spear ggggg 
+trans _yy_y spear gy_gy scrap ggggg 
+trans _yy_y spear y__yy harsh _gggg marsh ggggg 
+trans _yy_y spear y__yy harsh ggggg 
+trans _yy_y spear y_yyy raise ggggg 
+trans _yy_y spear yy_yy raspy ggggg 
+trans _yy_y spear yyyyy parse ggggg 
+trans _yyg_ rainy ggggg 
+trans _yyy_ rayon gg__g ramen gg_gg raven ggggg 
+trans _yyy_ rayon gg__g ramen ggggg 
+trans _yyy_ rayon gg__y ranch ggg__ range ggggg 
+trans _yyy_ rayon gg__y ranch ggggg 
+trans _yyy_ rayon ggggg 
+trans _yyy_ rayon ggy_y randy ggggg 
+trans _yyy_ rayon gy__y renal ggggg 
+trans _yyy_ rayon yg__g cairn ggggg 
+trans _yyy_ rayon yg__y nadir ggggg 
+trans _yyy_ rayon yg_gg baron ggggg 
+trans _yyy_ rayon yg_gy manor ggggg 
+trans _yyy_ rayon yy__y anger ggggg 
+trans _yyy_ rayon yy__y anger yy__g lunar ggggg 
+trans _yyy_ rayon yy_gg apron ggggg 
+trans _yyy_ rayon yy_yg acorn g_ggg adorn ggggg 
+trans _yyy_ rayon yy_yg acorn ggggg 
+trans _yyy_ rayon yyy_y angry ggggg 
+trans _yyyy saner ggggg 
+trans _yyyy saner gyg_g sonar ggggg 
+trans g____ tithe g____ toddy ggggg 
+trans g____ tithe g___g tepee g___g tulle ggggg 
+trans g____ tithe g___g tepee ggggg 
+trans g____ tithe g___y teddy gg___ tempo ggggg 
+trans g____ tithe g___y teddy ggggg 
+trans g____ tithe g___y teddy gy___ towel ggggg 
+trans g____ tithe g___y teddy gyy__ tweed ggggg 
+trans g____ tithe g__y_ thumb gggg_ thump ggggg 
+trans g____ tithe g__y_ thumb ggggg 
+trans g____ tithe g__y_ thumb gyg__ touch ggg_g tough ggggg 
+trans g____ tithe g__y_ thumb gyg__ touch ggggg 
+trans g____ tithe g__yg theme gg_gg thyme ggggg 
+trans g____ tithe g__yg theme ggggg 
+trans g____ tithe g_g_y totem ggggg 
+trans g____ tithe g_y_y tweet ggggg 
+trans g____ tithe g_yy_ tooth ggggg 
+trans g____ tithe g_yyy teeth g_gyy theft ggggg 
+trans g____ tithe g_yyy teeth ggggg 
+trans g____ tithe gg___ timid ggggg 
+trans g____ tithe gg__g tilde ggggg 
+trans g____ tithe ggg_g title ggggg 
+trans g____ tithe ggggg 
+trans g____ tithe ggyg_ tight ggggg 
+trans g____ tithe gy___ topic g_yg_ tulip ggggg 
+trans g____ tithe gy___ topic gg_gg toxic ggggg 
+trans g____ tithe gy___ topic ggggg 
+trans g____ tithe gy__g twice ggggg 
+trans g____ tithe gy__y tepid ggggg 
+trans g____ tithe gy_y_ thick ggg__ thigh ggggg 
+trans g____ tithe gy_y_ thick ggggg 
+trans g____ tithe gy_yy thief ggggg 
+trans g____ tithe gyy__ twixt ggggg 
+trans g___y teste g_y__ tipsy ggggg 
+trans g___y teste g_y_g those ggggg 
+trans g___y teste g_yy_ twist ggggg 
+trans g___y teste gggg_ testy ggggg 
+trans g___y teste gyy_g these ggggg 
+trans g__g_ thing g_gg_ twine ggggg 
+trans g__g_ thing g_ggg tying ggggg 
+trans g__g_ thing gg_gg thong ggggg 
+trans g__g_ thing gggg_ think ggggg 
+trans g__g_ thing ggggg 
+trans g__y_ token g___y tunic ggggg 
+trans g__y_ token g__gy tenet ggggg 
+trans g__y_ token g__yy tenth ggggg 
+trans g__y_ token gg__g toxin ggggg 
+trans g__y_ token gg__y tonic ggggg 
+trans g__y_ token ggggg 
+trans g__yy tense ggggg 
+trans g_g__ teach ggggg 
+trans g_g_y tease g_gg_ toast ggggg 
+trans g_g_y tease ggggg 
+trans g_gg_ thank g_gg_ twang ggggg 
+trans g_gg_ thank ggggg 
+trans g_y__ tatie gg___ talcy gg___ taboo ggggg 
+trans g_y__ tatie gg___ talcy gg__g tabby gg__g taffy ggggg 
+trans g_y__ tatie gg___ talcy gg__g tabby ggggg 
+trans g_y__ tatie gg___ talcy gg_yg tacky ggggg 
+trans g_y__ tatie gg___ talcy ggg_g tally ggggg 
+trans g_y__ tatie gg__g table ggggg 
+trans g_y__ tatie ggg__ tatty ggggg 
+trans g_y__ tatie ggyg_ tacit ggggg 
+trans g_y__ tatie gy___ today g__g_ tubal ggggg 
+trans g_y__ tatie gy___ today gg_g_ topaz ggggg 
+trans g_y__ tatie gy___ today ggggg 
+trans g_y__ tatie gy__y tweak ggggg 
+trans g_y__ tatie gy_g_ tibia ggggg 
+trans g_y__ tatie gy_y_ tidal ggggg 
+trans g_y__ tatie gyg__ total ggggg 
+trans g_y__ tatie gyy_y theta ggggg 
+trans g_y_y taste gggg_ tasty ggggg 
+trans g_y_y taste ggggg 
+trans g_yg_ taint gg_g_ tawny ggggg 
+trans g_yg_ taint gg_gg taunt ggggg 
+trans g_yg_ taint ggggg 
+trans g_yy_ talon gg__g taken ggggg 
+trans g_yy_ talon gg__y tangy ggggg 
+trans g_yy_ talon gg_yy tango ggggg 
+trans g_yy_ talon ggggg 
+trans g_yy_ talon gy__g titan ggggg 
+trans g_yy_ talon gy_yy tonga ggggg 
+trans g_yy_ talon gyyyy tonal ggggg 
+trans gg___ truce gg___ troll ggg__ troop ggggg 
+trans gg___ truce gg___ troll ggggg 
+trans gg___ truce gg__g tripe gg__g trove ggggg 
+trans gg___ truce gg__g tripe gg_gg trope ggggg 
+trans gg___ truce gg__g tripe ggg_g tribe ggg_g trite ggggg 
+trans gg___ truce gg__g tripe ggg_g tribe ggggg 
+trans gg___ truce gg__g tripe ggggg 
+trans gg___ truce gg__y tried ggggg 
+trans gg___ truce gg_g_ trick ggggg 
+trans gg___ truce gg_gg trice ggggg 
+trans gg___ truce ggg__ truly ggg__ trump ggg__ truth ggggg 
+trans gg___ truce ggg__ truly ggg__ trump ggggg 
+trans gg___ truce ggg__ truly ggggg 
+trans gg___ truce ggg_y truer ggggg 
+trans gg___ truce gggg_ truck ggggg 
+trans gg___ truce ggggg 
+trans gg___ truce ggy__ trout ggggg 
+trans gg__g truss ggggg 
+trans gg__y trust gg_gg tryst ggggg 
+trans gg__y trust ggggg 
+trans gg_g_ trend gg_g_ trunk ggggg 
+trans gg_g_ trend ggggg 
+trans ggg__ trace ggg__ trail ggg__ tramp ggggg 
+trans ggg__ trace ggg__ trail ggg_g trawl ggggg 
+trans ggg__ trace ggg__ trail gggg_ trait ggggg 
+trans ggg__ trace ggg__ trail ggggg 
+trans ggg__ trace ggg_g trade ggggg 
+trans ggg__ trace gggg_ track gggg_ tract ggggg 
+trans ggg__ trace gggg_ track ggggg 
+trans ggg__ trace ggggg 
+trans ggg_y trash ggggg 
+trans gggy_ train ggggg 
+trans ggy__ tread gg_g_ trial ggggg 
+trans ggy__ tread gg_gg triad ggggg 
+trans ggy__ tread gggg_ treat ggggg 
+trans ggy__ tread ggggg 
+trans gy___ throe g_gy_ turbo ggggg 
+trans gy___ throe g_y__ twirl ggggg 
+trans gy___ throe g_y_y tiger g__gg tuber ggggg 
+trans gy___ throe g_y_y tiger gg_gg timer ggggg 
+trans gy___ throe g_y_y tiger ggggg 
+trans gy___ throe g_yg_ tumor gg_gg tutor ggggg 
+trans gy___ throe g_yg_ tumor ggggg 
+trans gy___ throe g_yyy tower ggggg 
+trans gy___ throe ggg__ thrum ggggg 
+trans gy___ throe ggg_g three ggggg 
+trans gy___ throe ggg_y threw ggggg 
+trans gy___ throe gggg_ throb gggg_ throw ggggg 
+trans gy___ throe gggg_ throb ggggg 
+trans gy___ throe ggy__ third ggggg 
+trans gy___ throe ggy_g there ggggg 
+trans gy___ throe ggy_y their ggggg 
+trans gy___ throe gygy_ torch ggggg 
+trans gy__g torus ggggg 
+trans gy__y terse g_gg_ torso ggggg 
+trans gy__y terse ggggg 
+trans gy_y_ tenor g_yyy thorn ggggg 
+trans gy_y_ tenor ggggg 
+trans gyg__ teary g_gg_ tiara ggggg 
+trans gyg__ teary ggggg 
+trans gyy__ taker gg__g tapir ggggg 
+trans gyy__ taker gg__y tardy ggg__ tarot ggggg 
+trans gyy__ taker gg__y tardy ggggg 
+trans gyy__ taker gg_gg tamer gg_gg taper ggggg 
+trans gyy__ taker gg_gg tamer ggggg 
+trans gyy__ taker ggggg 
+trans gyy__ taker gy_yy terra ggggg 
+trans y____ lithe __g__ outdo _gg__ putty ggggg 
+trans y____ lithe __g__ outdo ggg_g outgo ggggg 
+trans y____ lithe __g__ outdo ggggg 
+trans y____ lithe __g__ outdo y_g_g motto ggggg 
+trans y____ lithe __g_g butte ggggg 
+trans y____ lithe __g_y jetty _gg__ detox ggggg 
+trans y____ lithe __g_y jetty _gggg petty ggggg 
+trans y____ lithe __g_y jetty _ygy_ octet ggggg 
+trans y____ lithe __g_y jetty ggggg 
+trans y____ lithe __gy_ botch __ggg dutch _gggg hutch ggggg 
+trans y____ lithe __gy_ botch __ggg dutch ggggg 
+trans y____ lithe __gy_ botch g_ggg butch ggggg 
+trans y____ lithe __gy_ botch ggggg 
+trans y____ lithe __gyy fetch ggggg 
+trans y____ lithe __y__ booty _g_gg pouty ggggg 
+trans y____ lithe __y__ booty ggggg 
+trans y____ lithe __y__ booty yg_y_ doubt ggggg 
+trans y____ lithe __y_g etude _yy_g quote ggggg 
+trans y____ lithe __y_g etude ggggg 
+trans y____ lithe __y_y covet ___gg beget ggggg 
+trans y____ lithe __y_y covet ___yg debut ggggg 
+trans y____ lithe __y_y covet ___yy empty ggggg 
+trans y____ lithe __y_y covet __ggg duvet ggggg 
+trans y____ lithe __y_y covet _y_yg depot ggggg 
+trans y____ lithe __y_y covet gg_gg comet ggggg 
+trans y____ lithe __y_y covet ggggg 
+trans y____ lithe __y_y covet y__yg eject ggggg 
+trans y____ lithe __yg_ ought ggggg 
+trans y____ lithe __yy_ mouth _g_gg booth ggggg 
+trans y____ lithe __yy_ mouth _gggg youth ggggg 
+trans y____ lithe __yy_ mouth _y_gy photo ggggg 
+trans y____ lithe __yy_ mouth _yygg quoth ggggg 
+trans y____ lithe __yy_ mouth ggggg 
+trans y____ lithe __yyg chute ggggg 
+trans y____ lithe __yyy depth _g_gy hefty ggggg 
+trans y____ lithe __yyy depth ggggg 
+trans y____ lithe _gg__ kited _gg__ bitty _gggg witty ggggg 
+trans y____ lithe _gg__ kited _gg__ bitty ggggg 
+trans y____ lithe _gg__ kited _gg_y ditto gggg_ ditty ggggg 
+trans y____ lithe _gg__ kited _gg_y ditto ggggg 
+trans y____ lithe _gg__ kited ggg__ kitty ggggg 
+trans y____ lithe _ggg_ pithy ggggg 
+trans y____ lithe _ggy_ ditch _gggg hitch _gggg pitch _gggg witch ggggg 
+trans y____ lithe _ggy_ ditch _gggg hitch _gggg pitch ggggg 
+trans y____ lithe _ggy_ ditch _gggg hitch ggggg 
+trans y____ lithe _ggy_ ditch ggggg 
+trans y____ lithe _gy__ bigot _g__y fifty ggggg 
+trans y____ lithe _gy__ bigot _g_gg pivot ggggg 
+trans y____ lithe _gy__ bigot _gg_g digit ggggg 
+trans y____ lithe _gy__ bigot ggggg 
+trans y____ lithe _gy_y piety ggggg 
+trans y____ lithe _gyg_ fight _gggg might _gggg wight ggggg 
+trans y____ lithe _gyg_ fight _gggg might ggggg 
+trans y____ lithe _gyg_ fight ggggg 
+trans y____ lithe _gygy eight ggggg 
+trans y____ lithe _gyy_ fifth _g_gg width ggggg 
+trans y____ lithe _gyy_ fifth ggggg 
+trans y____ lithe _yg__ motif _ygg_ optic ggggg 
+trans y____ lithe _yg__ motif ggggg 
+trans y____ lithe _yg_g cutie ggggg 
+trans y____ lithe _yg_y fetid ggggg 
+trans y____ lithe _yy__ idiot ggggg 
+trans y____ lithe _yy__ idiot y__yg vomit ggggg 
+trans y____ lithe _yy_g quite ggggg 
+trans y____ lithe _yy_y edict g_ggg evict ggggg 
+trans y____ lithe _yy_y edict ggggg 
+trans y____ lithe _yy_y edict y_g_g quiet ggggg 
+trans y____ lithe _yy_y edict y_y_g befit ggggg 
+trans y____ lithe _yy_y edict yyg_y deity ggggg 
+trans y____ lithe _yy_y edict yyy_g debit ggggg 
+trans y____ lithe _yyg_ itchy ggggg 
+trans y____ lithe _yyyg white ggggg 
+trans y____ lithe _yyyy ethic ggggg 
+trans y____ lithe g_y__ lofty ggggg 
+trans y____ lithe g_y_y lefty ggggg 
+trans y____ lithe ggggg 
+trans y____ lithe ggy__ limit ggggg 
+trans y____ lithe ggyg_ light ggggg 
+trans y____ lithe y_g_y betel __ggg motel ggggg 
+trans y____ lithe y_g_y betel _yg_g extol ggggg 
+trans y____ lithe y_g_y betel ggggg 
+trans y____ lithe y_gy_ hotly ggggg 
+trans y____ lithe y_gyy hotel ggggg 
+trans y____ lithe y_y__ clout _gggg flout ggggg 
+trans y____ lithe y_y__ clout _yyyg moult ggggg 
+trans y____ lithe y_y__ clout ggggg 
+trans y____ lithe y_y_g flute ggggg 
+trans y____ lithe y_y_y cleft _ggyg fleet ggggg 
+trans y____ lithe y_y_y cleft _yg_g dwelt ggggg 
+trans y____ lithe y_y_y cleft _yy_g exult ggggg 
+trans y____ lithe y_y_y cleft ggggg 
+trans y____ lithe y_y_y cleft ygg_g elect ggggg 
+trans y____ lithe y_yy_ cloth ggggg 
+trans y____ lithe ygy__ pilot ggggg 
+trans y____ lithe ygy_y filet ggggg 
+trans y____ lithe ygyy_ filth ggggg 
+trans y____ lithe yyy__ blitz _ygy_ guilt _gggg quilt ggggg 
+trans y____ lithe yyy__ blitz _ygy_ guilt ggggg 
+trans y____ lithe yyy__ blitz ggggg 
+trans y____ lithe yyy__ blitz gygy_ built ggggg 
+trans y____ lithe yyy_g elite _ygyg utile ggggg 
+trans y____ lithe yyy_g elite ggggg 
+trans y___g ethos ggggg 
+trans y___g ethos yy__g fetus ggggg 
+trans y___y spelt g___g shoot g___g swift ggggg 
+trans y___y spelt g___g shoot g_g_g scout g_ggg stout ggggg 
+trans y___y spelt g___g shoot g_g_g scout ggggg 
+trans y___y spelt g___g shoot gg__g shift ggggg 
+trans y___y spelt g___g shoot ggg_g shout ggggg 
+trans y___y spelt g___g shoot ggggg 
+trans y___y spelt g___g shoot gy__g sight ggggg 
+trans y___y spelt g___y stoic gg___ study ggg__ stuff ggggg 
+trans y___y spelt g___y stoic gg___ study ggggg 
+trans y___y spelt g___y stoic gg__y stuck ggggg 
+trans y___y spelt g___y stoic gg_y_ stiff ggggg 
+trans y___y spelt g___y stoic gg_yy stick ggggg 
+trans y___y spelt g___y stoic ggg__ stood ggggg 
+trans y___y spelt g___y stoic ggg_y stock ggggg 
+trans y___y spelt g___y stoic ggggg 
+trans y___y spelt g___y stoic gy_y_ sixth gggg_ sixty ggggg 
+trans y___y spelt g___y stoic gy_y_ sixth ggggg 
+trans y___y spelt g___y stoic gy_y_ sixth gy_gg smith ggggg 
+trans y___y spelt g___y stoic gyg__ sooth gggg_ sooty ggggg 
+trans y___y spelt g___y stoic gyg__ sooth ggggg 
+trans y___y spelt g___y stoic gyy__ south ggggg 
+trans y___y spelt g__gg stilt ggggg 
+trans y___y spelt g__gy still ggggg 
+trans y___y spelt g__yy sloth ggggg 
+trans y___y spelt g__yy sloth gygy_ stool ggggg 
+trans y___y spelt g_g_g sheet g_ggg sweet ggggg 
+trans y___y spelt g_g_g sheet ggggg 
+trans y___y spelt g_g_y steed ggggg 
+trans y___y spelt g_ggg smelt ggggg 
+trans y___y spelt g_gyg sleet ggggg 
+trans y___y spelt g_gyy steel ggggg 
+trans y___y spelt g_y_y smite g__yg stoke ggg_g stove ggggg 
+trans y___y spelt g_y_y smite g__yg stoke ggggg 
+trans y___y spelt g_y_y smite g_ggg suite ggggg 
+trans y___y spelt g_y_y smite gg_gg smote ggggg 
+trans y___y spelt g_y_y smite ggggg 
+trans y___y spelt g_ygy stole gg_gg style ggggg 
+trans y___y spelt g_ygy stole ggggg 
+trans y___y spelt gg__g spout ggggg 
+trans y___y spelt gg_gg spilt ggggg 
+trans y___y spelt gg_yg split ggggg 
+trans y___y spelt ggggg 
+trans y___y spelt ggy_y spite ggggg 
+trans y___y spelt gy__y stomp gg_gg stump ggggg 
+trans y___y spelt gy__y stomp ggg_g stoop ggggg 
+trans y___y spelt gy__y stomp ggggg 
+trans y___y spelt gyg_g swept ggggg 
+trans y___y spelt gyg_y steep ggggg 
+trans y___y spelt gygyg slept ggggg 
+trans y___y spelt gyy_y setup ggggg 
+trans y___y spelt y___g joist __ygg midst ggggg 
+trans y___y spelt y___g joist __yyg visit ggggg 
+trans y___y spelt y___g joist _g_gg boost ggggg 
+trans y___y spelt y___g joist _gggg foist _gggg hoist _gggg moist ggggg 
+trans y___y spelt y___g joist _gggg foist _gggg hoist ggggg 
+trans y___y spelt y___g joist _gggg foist ggggg 
+trans y___y spelt y___g joist _y_gg ghost ggggg 
+trans y___y spelt y___g joist gg_gg joust ggggg 
+trans y___y spelt y___g joist ggggg 
+trans y___y spelt y___y dusty _ggg_ gusto ggggg 
+trans y___y spelt y___y dusty _gggg gusty _gggg musty ggggg 
+trans y___y spelt y___y dusty _gggg gusty ggggg 
+trans y___y spelt y___y dusty ggggg 
+trans y___y spelt y__yy lusty ggggg 
+trans y___y spelt y_g_g guest __ggg chest ggggg 
+trans y___y spelt y_g_g guest _gggg quest ggggg 
+trans y___y spelt y_g_g guest ggggg 
+trans y___y spelt y_y_g beset _gy_g heist ggggg 
+trans y___y spelt y_y_g beset _yy_g exist ggggg 
+trans y___y spelt y_y_g beset ggggg 
+trans y___y spelt y_y_y zesty ggggg 
+trans y___y spelt y_yyg islet ggggg 
+trans y___y spelt ygy_g upset ggggg 
+trans y___y spelt yy__g posit ggggg 
+trans y___y spelt yyy_y pesto ggggg 
+trans y__g_ joint ___gg blunt ___gg event ggggg 
+trans y__g_ joint ___gg blunt ggggg 
+trans y__g_ joint __ggg flint _gggg glint ggggg 
+trans y__g_ joint __ggg flint ggggg 
+trans y__g_ joint _g_gg count _gggg mount ggggg 
+trans y__g_ joint _g_gg count ggggg 
+trans y__g_ joint _gggg point ggggg 
+trans y__g_ joint ggggg 
+trans y__gy suint g__gg scent g_ggg spent ggggg 
+trans y__gy suint g__gg scent ggggg 
+trans y__gy suint g__gy stone gggg_ stony ggggg 
+trans y__gy suint g__gy stone ggggg 
+trans y__gy suint g_ggg stint ggggg 
+trans y__gy suint g_ggy sting gggg_ stink ggggg 
+trans y__gy suint g_ggy sting ggggg 
+trans y__gy suint gy_gg shunt g_ggg stunt ggggg 
+trans y__gy suint gy_gg shunt ggggg 
+trans y__gy suint gy_gy stung gggg_ stunk ggggg 
+trans y__gy suint gy_gy stung ggggg 
+trans y__y_ nepit g___y notch g_g__ nutty ggggg 
+trans y__y_ nepit g___y notch ggggg 
+trans y__y_ nepit g__yg night ggggg 
+trans y__y_ nepit g__yy ninth ggggg 
+trans y__y_ nepit y___g donut __ygg uncut ggggg 
+trans y__y_ nepit y___g donut ggggg 
+trans y__y_ nepit y___y junto __ggy month ggggg 
+trans y__y_ nepit y___y junto ggggg 
+trans y__y_ nepit y__gg unfit gg_gg unlit ggggg 
+trans y__y_ nepit y__gg unfit ggggg 
+trans y__y_ nepit y__gy until ggggg 
+trans y__y_ nepit y__yg ingot ggggg 
+trans y__y_ nepit y__yy minty _yygg unity ggggg 
+trans y__y_ nepit y__yy minty ggggg 
+trans y__y_ nepit y_gyg input ggggg 
+trans y__y_ nepit y_yyy pinto ggggg 
+trans y__y_ nepit yy__g knelt _gy_g unmet ggggg 
+trans y__y_ nepit yy__g knelt ggggg 
+trans y__y_ nepit yy__y often ggggg 
+trans y__y_ nepit yy_gy untie ggggg 
+trans y__y_ nepit yy_yg inlet ggggg 
+trans y__y_ nepit yy_yy unite ggggg 
+trans y__y_ nepit yyyyg inept ggggg 
+trans y__yy onset _gggg unset ggggg 
+trans y__yy onset _yyyy stein ggggg 
+trans y__yy onset ggggg 
+trans y__yy onset ygy_g snout ggggg 
+trans y_g__ dealt __g_g await ggggg 
+trans y_g__ dealt __gyg plait ggggg 
+trans y_g__ dealt __gyy loath ggggg 
+trans y_g__ dealt _gg_y heath _ggg_ meaty ggggg 
+trans y_g__ dealt _gg_y heath ggggg 
+trans y_g__ dealt _ggyg leapt ggggg 
+trans y_g__ dealt _yg_g exact ggggg 
+trans y_g__ dealt _yg_y abate __ggg ovate ggggg 
+trans y_g__ dealt _yg_y abate g_ggg agate ggggg 
+trans y_g__ dealt _yg_y abate ggggg 
+trans y_g__ dealt _yggg exalt ggggg 
+trans y_g__ dealt _ygyy elate _gggg plate ggggg 
+trans y_g__ dealt _ygyy elate ggggg 
+trans y_g__ dealt ggg_y death ggggg 
+trans y_g__ dealt ggggg 
+trans y_g__ dealt y_g_g adapt ggggg 
+trans y_g_y stale ggg__ staph ggg__ stack ggg__ staff ggg__ staid ggggg 
+trans y_g_y stale ggg__ staph ggg__ stack ggg__ staff ggggg 
+trans y_g_y stale ggg__ staph ggg__ stack ggggg 
+trans y_g_y stale ggg__ staph ggg_g stash ggggg 
+trans y_g_y stale ggg__ staph gggy_ stamp ggggg 
+trans y_g_y stale ggg_g stage ggg_g stake ggg_g state ggg_g stave ggggg 
+trans y_g_y stale ggg_g stage ggg_g stake ggg_g state ggggg 
+trans y_g_y stale ggg_g stage ggg_g stake ggggg 
+trans y_g_y stale ggg_g stage ggggg 
+trans y_g_y stale gggg_ stalk gggg_ stall ggggg 
+trans y_g_y stale gggg_ stalk ggggg 
+trans y_g_y stale ggggg 
+trans y_g_y stale gyg__ shaft ggggg 
+trans y_g_y stale gyg__ shaft gyg_y swath ggggg 
+trans y_g_y stale gyg_g skate ggggg 
+trans y_g_y stale gygg_ shalt ggggg 
+trans y_g_y stale gygyg slate ggggg 
+trans y_g_y stale yyg__ boast _gggg coast ggggg 
+trans y_g_y stale yyg__ boast ggggg 
+trans y_g_y stale yyg_y beast _gggg feast _gggg yeast ggggg 
+trans y_g_y stale yyg_y beast _gggg feast ggggg 
+trans y_g_y stale yyg_y beast ggggg 
+trans y_g_y stale yygy_ blast ggggg 
+trans y_g_y stale yygyy least ggggg 
+trans y_gg_ leant __ggg chant __ggg giant ggggg 
+trans y_gg_ leant __ggg chant ggggg 
+trans y_gg_ leant _gggg meant ggggg 
+trans y_gg_ leant ggggg 
+trans y_gg_ leant y_ggg plant ggggg 
+trans y_ggy scant g_ggg slant ggggg 
+trans y_ggy scant g_ggy stand gggg_ stank ggggg 
+trans y_ggy scant g_ggy stand ggggg 
+trans y_ggy scant ggggg 
+trans y_gy_ enact ggggg 
+trans y_gyy stain ggggg 
+trans y_y__ palet _g__g habit _g__g gamut ggggg 
+trans y_y__ palet _g__g habit ggggg 
+trans y_y__ palet _g__g habit yg__g yacht ggggg 
+trans y_y__ palet _g__y habit _g__y catty _gg__ datum ggggg 
+trans y_y__ palet _g__y habit _g__y catty _gggg fatty ggggg 
+trans y_y__ palet _g__y habit _g__y catty ggggg 
+trans y_y__ palet _g__y habit _g_yy cacti ggggg 
+trans y_y__ palet _g__y habit _gy_y batty ggggg 
+trans y_y__ palet _g__y habit gg__y hatch ggggg 
+trans y_y__ palet _g__y habit yg__y catch _gggg match _gggg watch ggggg 
+trans y_y__ palet _g__y habit yg__y catch _gggg match ggggg 
+trans y_y__ palet _g__y habit yg__y catch ggggg 
+trans y_y__ palet _g__y habit yg_yy faith ggggg 
+trans y_y__ palet _g__y habit ygy_y batch ggggg 
+trans y_y__ palet _g_gg cadet ggggg 
+trans y_y__ palet _g_gg cadet yg_gg facet ggggg 
+trans y_y__ palet _g_gy matey ggggg 
+trans y_y__ palet _g_yy bathe _gyyg haute ggggg 
+trans y_y__ palet _g_yy bathe ggggg 
+trans y_y__ palet _gg_y waltz ggggg 
+trans y_y__ palet _gggg valet ggggg 
+trans y_y__ palet _gy_g fault _gggg vault ggggg 
+trans y_y__ palet _gy_g fault ggggg 
+trans y_y__ palet _gy_y fatal _gg_y latch ggggg 
+trans y_y__ palet _gy_y fatal ggggg 
+trans y_y__ palet _gyyy lathe ggg_g latte ggggg 
+trans y_y__ palet _gyyy lathe ggggg 
+trans y_y__ palet _y__g about g___g admit ggggg 
+trans y_y__ palet _y__g about g__yg audit ggggg 
+trans y_y__ palet _y__g about g_g_g afoot ggggg 
+trans y_y__ palet _y__g about ggggg 
+trans y_y__ palet _y__g about ggy_g abbot ggggg 
+trans y_y__ palet _y__y amity g_yy_ attic ggggg 
+trans y_y__ palet _y__y amity ggggg 
+trans y_y__ palet _y__y amity y__g_ quota ggggg 
+trans y_y__ palet _y_yg cheat __ygg begat ggggg 
+trans y_y__ palet _y_yg cheat _gggg wheat ggggg 
+trans y_y__ palet _y_yg cheat ggggg 
+trans y_y__ palet _y_yy acute ggggg 
+trans y_y__ palet _yg_g allot ggggg 
+trans y_y__ palet _ygyg eclat ggggg 
+trans y_y__ palet _ygyy delta ggggg 
+trans y_y__ palet _yy_g aloft ggggg 
+trans y_y__ palet _yy_g aloft gy__g adult ggggg 
+trans y_y__ palet _yy_g aloft ygg_g bloat _gggg gloat ggggg 
+trans y_y__ palet _yy_g aloft ygg_g bloat ggggg 
+trans y_y__ palet _yy_g aloft yggyg float ggggg 
+trans y_y__ palet _yy_y atoll ggggg 
+trans y_y__ palet _yy_y atoll yy__g vital ggggg 
+trans y_y__ palet _yy_y atoll yyy_g octal ggggg 
+trans y_y__ palet _yyyg bleat _gggg cleat ggggg 
+trans y_y__ palet _yyyg bleat ggggg 
+trans y_y__ palet _yyyy fetal _gggg metal ggggg 
+trans y_y__ palet _yyyy fetal ggggg 
+trans y_y__ palet gg__y pacta gg_g_ patty ggggg 
+trans y_y__ palet gg__y pacta gg_y_ patio ggggg 
+trans y_y__ palet gg__y pacta ggyy_ patch ggggg 
+trans y_y__ palet gyyyg pleat ggggg 
+trans y_y__ palet gyyyy petal ggggg 
+trans y_y__ palet yg__g caput ggggg 
+trans y_y__ palet yy__g adopt ggggg 
+trans y_y__ palet yy_yg adept ggggg 
+trans y_y__ palet yyy_y aptly ggggg 
+trans y_y_y septa g__gy salty ggggg 
+trans y_y_y septa g__yy squat ggggg 
+trans y_y_y septa g_yyy splat ggggg 
+trans y_y_y septa gy_gy saute ggggg 
+trans y_y_y septa gy_yy stead gggg_ steak gggg_ steal gggg_ steam ggggg 
+trans y_y_y septa gy_yy stead gggg_ steak gggg_ steal ggggg 
+trans y_y_y septa gy_yy stead gggg_ steak ggggg 
+trans y_y_y septa gy_yy stead ggggg 
+trans y_y_y septa gy_yy stead gygg_ sweat ggggg 
+trans y_y_y septa y__gg vista ggggg 
+trans y_y_y septa y__gy hasty ggggg 
+trans y_y_y septa y__yy ascot ggggg 
+trans y_y_y septa y__yy ascot yy__g waist ggggg 
+trans y_y_y septa y_ygg pasta ggggg 
+trans y_y_y septa y_ygy pasty ggggg 
+trans y_y_y septa y_yyy patsy ggggg 
+trans y_y_y septa yy_gy baste _gggg caste _gggg haste _gggg waste ggggg 
+trans y_y_y septa yy_gy baste _gggg caste _gggg haste ggggg 
+trans y_y_y septa yy_gy baste _gggg caste ggggg 
+trans y_y_y septa yy_gy baste ggggg 
+trans y_y_y septa yy_yy asset ggggg 
+trans y_y_y septa yyygy paste ggggg 
+trans y_yg_ daunt _g_gg faint _gggg paint ggggg 
+trans y_yg_ daunt _g_gg faint ggggg 
+trans y_yg_ daunt _gggg gaunt _gggg haunt _gggg jaunt _gggg vaunt ggggg 
+trans y_yg_ daunt _gggg gaunt _gggg haunt _gggg jaunt ggggg 
+trans y_yg_ daunt _gggg gaunt _gggg haunt ggggg 
+trans y_yg_ daunt _gggg gaunt ggggg 
+trans y_yg_ daunt _y_gg agent ggggg 
+trans y_yg_ daunt _y_gy atone ggggg 
+trans y_yg_ daunt ggggg 
+trans y_ygy saint ggggg 
+trans y_yy_ acton g_y_y aunty ggggg 
+trans y_yy_ acton gyg_y antic ggggg 
+trans y_yy_ acton y_g_g eaten ggggg 
+trans y_yy_ acton y_g_y natal ggggg 
+trans y_yy_ acton y_ggg baton ggggg 
+trans y_yy_ acton y_y_y junta ggggg 
+trans y_yyy nasty ggggg 
+trans y_yyy nasty ygyy_ satin ggggg 
+trans y_yyy nasty yyyy_ angst ggggg 
+trans yg___ urite _g_g_ broth _gggg froth ggggg 
+trans yg___ urite _g_g_ broth ggggg 
+trans yg___ urite _g_gg wrote ggggg 
+trans yg___ urite _g_y_ crypt ggggg 
+trans yg___ urite _g_yy crept _gg_g greet ggggg 
+trans yg___ urite _g_yy crept ggggg 
+trans yg___ urite _g_yy crept ygg_g erect ggggg 
+trans yg___ urite _ggg_ fritz ggggg 
+trans yg___ urite _gggg write ggggg 
+trans yg___ urite _ggy_ drift ggggg 
+trans yg___ urite _gyy_ droit _gygg orbit ggggg 
+trans yg___ urite _gyy_ droit ggggg 
+trans yg___ urite yg_gg brute ggggg 
+trans yg___ urite yg_y_ grout ggggg 
+trans yg___ urite yg_yy erupt ggggg 
+trans yg___ urite ygyy_ fruit ggggg 
+trans yg__y crest _g_gg frost _g_gg wrist ggggg 
+trans yg__y crest _g_gg frost ggggg 
+trans yg__y crest _gggg wrest ggggg 
+trans yg__y crest gg_gg crust ggggg 
+trans yg__y crest ggggg 
+trans yg_g_ brunt _g_gg front _g_gg print ggggg 
+trans yg_g_ brunt _g_gg front ggggg 
+trans yg_g_ brunt _gggg grunt ggggg 
+trans yg_g_ brunt ggggg 
+trans ygg__ crate _ggg_ wrath ggggg 
+trans ygg__ crate _gggg grate _gggg irate ggggg 
+trans ygg__ crate _gggg grate ggggg 
+trans ygg__ crate _ggy_ draft _gggg graft ggggg 
+trans ygg__ crate _ggy_ draft ggggg 
+trans ygg__ crate ggggg 
+trans ygg__ crate gggy_ craft ggggg 
+trans yggg_ grant ggggg 
+trans ygy__ great ggggg 
+trans ygy_y artsy ggggg 
+trans yy___ retro __yg_ blurt _g_gg flirt ggggg 
+trans yy___ retro __yg_ blurt ggggg 
+trans yy___ retro __ygy court ggggg 
+trans yy___ retro _gggg metro ggggg 
+trans yy___ retro _yyg_ exert ggggg 
+trans yy___ retro _yygy overt ggggg 
+trans yy___ retro g_gyy rotor ggggg 
+trans yy___ retro g_y__ right ggggg 
+trans yy___ retro g_y_y robot ggggg 
+trans yy___ retro ggg__ retch ggggg 
+trans yy___ retro gggg_ retry ggggg 
+trans yy___ retro ggggg 
+trans yy___ retro ggy__ rebut gg__g refit gg_gg remit ggggg 
+trans yy___ retro ggy__ rebut gg__g refit ggggg 
+trans yy___ retro ggy__ rebut gg_gg recut ggggg 
+trans yy___ retro ggy__ rebut ggggg 
+trans yy___ retro gyy__ rivet ggggg 
+trans yy___ retro gyy_y route ggggg 
+trans yy___ retro y_g_y motor ggggg 
+trans yy___ retro y_y__ birth _ggg_ dirty ggggg 
+trans yy___ retro y_y__ birth _gggg girth _gggg mirth ggggg 
+trans yy___ retro y_y__ birth _gggg girth ggggg 
+trans yy___ retro y_y__ birth ggggg 
+trans yy___ retro y_y_y forth _gggg worth ggggg 
+trans yy___ retro y_y_y forth gggg_ forty ggggg 
+trans yy___ retro y_y_y forth ggggg 
+trans yy___ retro ygg__ deter _gggg meter ggggg 
+trans yy___ retro ygg__ deter ggggg 
+trans yy___ retro ygy__ beret _gg_g merit ggggg 
+trans yy___ retro ygy__ beret ggg_y berth ggggg 
+trans yy___ retro ygy__ beret ggggg 
+trans yy___ retro yyg__ utter ggggg 
+trans yy___ retro yyg_y otter g_ggg outer ggggg 
+trans yy___ retro yyg_y otter ggggg 
+trans yy___ retro yyg_y otter y_ggg voter ggggg 
+trans yy___ retro yyy__ egret g_ygy ether ggggg 
+trans yy___ retro yyy__ egret ggggg 
+trans yy___ retro yyy_y forte _yyyy other ggggg 
+trans yy___ retro yyy_y forte ggggg 
+trans yy__y sport g__gg shirt g_ggg skirt ggggg 
+trans yy__y sport g__gg shirt ggggg 
+trans yy__y sport g__yg strut ggggg 
+trans yy__y sport g__yy steer ggggg 
+trans yy__y sport g_ggg short ggggg 
+trans yy__y sport g_ggy store gggg_ stork gggg_ storm gggg_ story ggggg 
+trans yy__y sport g_ggy store gggg_ stork gggg_ storm ggggg 
+trans yy__y sport g_ggy store gggg_ stork ggggg 
+trans yy__y sport g_ggy store ggggg 
+trans yy__y sport gg_gg spurt ggggg 
+trans yy__y sport ggggg 
+trans yy__y sport gy_yy strip ggggg 
+trans yy__y sport y__yg burst __ggg first ggggg 
+trans yy__y sport y__yg burst __yyg reset ggggg 
+trans yy__y sport y__yg burst ggggg 
+trans yy__y sport y__yy ester _yy_y rusty ggggg 
+trans yy__y sport y__yy ester ggggg 
+trans yy__y sport y_gyg roost ggggg 
+trans yy__y sport y_yyg worst ggggg 
+trans yy_g_ burnt ggggg 
+trans yy_y_ enter _gg_y intro ggggg 
+trans yy_y_ enter _gggg inter ggggg 
+trans yy_y_ enter _yy_y north ggggg 
+trans yy_y_ enter ggg_y entry ggggg 
+trans yy_y_ enter ggggg 
+trans yy_y_ enter ygy_y inert ggggg 
+trans yy_yy snort ggggg 
+trans yy_yy snort gy_gy stern ggggg 
+trans yyg__ chart __ggg apart __ggg quart ggggg 
+trans yyg__ chart __ggg apart ggggg 
+trans yyg__ chart _yggg heart ggggg 
+trans yyg__ chart ggggg 
+trans yyg__ chart y_gyg react ggggg 
+trans yyg_y smart g_ggg start ggggg 
+trans yyg_y smart g_ggy stare gggg_ stark ggggg 
+trans yyg_y smart g_ggy stare ggggg 
+trans yyg_y smart g_gyy stair ggggg 
+trans yyg_y smart ggggg 
+trans yyg_y smart y_gyg roast ggggg 
+trans yyy__ alter g_g_g actor ggggg 
+trans yyy__ alter g_ggg after ggggg 
+trans yyy__ alter g_y_y abort g_yyy aorta ggggg 
+trans yyy__ alter g_y_y abort ggggg 
+trans yyy__ alter g_yyy avert ggggg 
+trans yyy__ alter ggg_g altar ggggg 
+trans yyy__ alter ggggg 
+trans yyy__ alter ggyyy alert ggggg 
+trans yyy__ alter y_g_y ratio ggg__ ratty ggggg 
+trans yyy__ alter y_g_y ratio ggggg 
+trans yyy__ alter y_ggg cater _gggg eater _gggg hater _gggg water ggggg 
+trans yyy__ alter y_ggg cater _gggg eater _gggg hater ggggg 
+trans yyy__ alter y_ggg cater _gggg eater ggggg 
+trans yyy__ alter y_ggg cater ggggg 
+trans yyy__ alter y_gyy extra ggggg 
+trans yyy__ alter y_y_y party _gggg warty ggggg 
+trans yyy__ alter y_y_y party _ggy_ carat ggggg 
+trans yyy__ alter y_y_y party ggggg 
+trans yyy__ alter y_yyy earth ggggg 
+trans yyy__ alter ygg_y ultra ggggg 
+trans yyy__ alter yyggg later ggggg 
+trans yyy_y satyr ggggg 
+trans yyy_y satyr gyy_y strap gggg_ straw ggggg 
+trans yyy_y satyr gyy_y strap ggggg 
+trans yyy_y satyr gyyyy stray ggggg 
