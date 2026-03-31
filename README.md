@@ -192,6 +192,9 @@ The user must use this file instead of the others.
 # Wordle Status (leaderboard)
 * Method 1: Average guesses
 Easy mode: 12972 words, 2315 answers:
+
+Note: The results are being re-evaluated. 
+
 1.  `salet`: 3.427 Avg. 
 2.  `slate`: 3.431 Avg.
 3. `reast`: 3.432 Avg.
@@ -205,13 +208,17 @@ Easy mode: 12972 words, 2315 answers:
 11. `torse`: 3.442 Avg.
 12. `prate`: 3.445 Avg.
 13. `trine`: 3.446 Avg.
-14. `trice`: 3.447 Avg.
-15. `stale`: 3.448 Avg.
-16. `train`: 3.449 Avg.
-17. `slart`: 3.450 Avg.
-18. `roast`: 3.450 Avg.
-19. `carse`: 3.451 Avg.
-20. `trape`: 3.453 Avg.
+14. `least`: 3.446 Avg.
+15. `trice`: 3.447 Avg.
+16. `stale`: 3.448 Avg.
+17. `train`: 3.449 Avg.
+18. `caret`: 3.449 Avg.
+19. `rance`: 3.449 Avg.
+20. `slart`: 3.450 Avg.
+21. `roast`: 3.450 Avg.
+22. `carse`: 3.451 Avg.
+23. `clast`: 3.451 Avg.
+24. `trape`: 3.453 Avg.
 
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
