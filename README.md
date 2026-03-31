@@ -234,14 +234,20 @@ Note: The results are being re-evaluated. (SALET-ROSET)
 37. `scale`: 3.455 Avg.
 38. `saint`: 3.456 Avg.
 39. `stane`: 3.457 Avg.
-40. `peart`: 3.458 Avg.
-41. `plate`: 3.459 Avg.
-42. `parse`: 3.459 Avg.
-43. `canst`: 3.459 Avg.
-44. `snare`: 3.459 Avg.
-45. `crise`: 3.460 Avg.
-46. `reist`: 3.461 Avg.
-47. `soare`: 3.462 Avg.
+40. `drant`: 3.457 Avg.
+41. `peart`: 3.458 Avg.
+42. `loast`: 3.458 Avg.
+43. `plate`: 3.459 Avg.
+44. `parse`: 3.459 Avg.
+45. `canst`: 3.459 Avg.
+46. `clart`: 3.459 Avg.
+47. `snare`: 3.459 Avg.
+48. `sorel`: 3.459 Avg.
+49. `crise`: 3.460 Avg.
+50. `reist`: 3.461 Avg.
+51. `soare`: 3.462 Avg.
+52. `roset`: 3.462 Avg.
+53. `riant`: 3.466 Avg.
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
