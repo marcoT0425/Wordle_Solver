@@ -193,7 +193,7 @@ The user must use this file instead of the others.
 * Method 1: Average guesses
 Easy mode: 12972 words, 2315 answers:
 
-Note: The results are being re-evaluated. (SALET-ROSET)
+Note: The results are being re-evaluated. (SALET-ALINE)
 
 1.  `salet`: 3.427 Avg. 
 2.  `slate`: 3.431 Avg.
