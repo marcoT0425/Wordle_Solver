@@ -243,7 +243,7 @@ Note: The results are being re-evaluated. (SALET-RAINE)
 46. `canst`: 3.459 Avg.
 47. `clart`: 3.459 Avg.
 48. `snare`: 3.459 Avg.
-49. `parse`: 3.459 Avg.
+49. `parse`: 3.459 Avg.**
 50. `sorel`: 3.459 Avg.
 51. `crise`: 3.460 Avg.
 52. `crost`: 3.460 Avg.
