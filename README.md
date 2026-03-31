@@ -197,10 +197,10 @@ Note: The results are being re-evaluated.
 
 1.  `salet`: 3.427 Avg. 
 2.  `slate`: 3.431 Avg.
-3. `reast`: 3.432 Avg.
-4. `crate`: 3.432 Avg.
-5. `trace`: 3.433 Avg.
-6. `crane`: 3.433 Avg.
+3.  `reast`: 3.432 Avg.
+4.  `crate`: 3.432 Avg.
+5.  `trace`: 3.433 Avg.
+6.  `crane`: 3.433 Avg.
 7.  `carle`: 3.436 Avg.
 8.  `slane`: 3.437 Avg.
 9.  `slant`: 3.439 Avg.
@@ -218,17 +218,26 @@ Note: The results are being re-evaluated.
 21. `roast`: 3.450 Avg.
 22. `carse`: 3.451 Avg.
 23. `clast`: 3.451 Avg.
-24. `trape`: 3.453 Avg.
-
+24. `trone`: 3.451 Avg.
+25. `taser`: 3.451 Avg.
+26. `react`: 3.452 Avg.
+27. `roist`: 3.453 Avg.
+28. `trape`: 3.453 Avg.
+29. `lance`: 3.453 Avg.
+30. `earst`: 3.453 Avg.
+31. `stare`: 3.453 Avg.
+32. `leant`: 3.454 Avg.
+33. `trade`: 3.455 Avg.
+34. `saint`: 3.456 Avg.
+35. `peart`: 3.458 Avg.
+36. `plate`: 3.459 Avg.
+37. `parse`: 3.459 Avg.
+38. `canst`: 3.459 Avg.
+39. `snare`: 3.459 Avg.
+40. `crise`: 3.460 Avg.
+41. `soare`: 3.462 Avg.
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
-
-# Other best openers (not fully tested, but I've been working with other best openers):
-* `saint`: 3.456 Avg.
-* `plate`: 3.459 Avg.
-* `parse`: 3.459 Avg.
-* `canst`: 3.459 Avg.
-* `soare`: 3.462 Avg.
 
 # The hall of shame (not fully tested, but I've been working with other best openers):
 * `qajaq`: 4.114 Avg.
