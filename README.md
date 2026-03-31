@@ -193,7 +193,7 @@ The user must use this file instead of the others.
 * Method 1: Average guesses
 Easy mode: 12972 words, 2315 answers:
 
-Note: The results are being re-evaluated. (SALET-RAINE)
+Note: The results are being re-evaluated. (SALET-RAILE)
 
 1.  `salet`: 3.427 Avg. 
 2.  `slate`: 3.431 Avg.
@@ -252,13 +252,19 @@ Note: The results are being re-evaluated. (SALET-RAINE)
 55. `alist`: 3.462 Avg.
 56. `dealt`: 3.462 Avg.
 57. `roate`: 3.463 Avg.
-58. `resat`: 3.464 Avg.
-59. `corse`: 3.465 Avg.
-60. `riant`: 3.466 Avg.
-61. `tares`: 3.466 Avg.
-62. `saner`: 3.467 Avg.
-63. `aline`: 3.468 Avg.
-64. `plane`: 3.469 Avg.
+58. `liane`: 3.463 Avg.
+59. `prase`: 3.463 Avg.
+60. `raine`: 3.463 Avg.
+61. `resat`: 3.464 Avg.
+62. `corse`: 3.465 Avg.
+63. `riant`: 3.466 Avg.
+64. `tares`: 3.466 Avg.
+65. `saner`: 3.467 Avg.
+66. `aline`: 3.468 Avg.
+67. `artel`: 3.468 Avg.
+68. `stile`: 3.468 Avg.
+69. `plane`: 3.469 Avg.
+70. `ronte`: 3.472 Avg.
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
