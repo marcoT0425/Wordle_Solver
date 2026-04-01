@@ -259,18 +259,24 @@ Note: The results are being re-evaluated. (SALET-TRAIL)
 62. `resat`: 3.464 Avg.
 63. `corse`: 3.465 Avg.
 64. `tripe`: 3.465 Avg.
-65. `riant`: 3.466 Avg.
-66. `tares`: 3.466 Avg.
-67. `caner`: 3.466 Avg.
-68. `tried`: 3.466 Avg.
-69. `saner`: 3.467 Avg.
-70. `aline`: 3.468 Avg.
-71. `artel`: 3.468 Avg.
-72. `stile`: 3.468 Avg.
-73. `plane`: 3.469 Avg.
-74. `raile`: 3.469 Avg.
-75. `antre`: 3.470 Avg.
-76. `ronte`: 3.472 Avg.
+65. `orant`: 3.465 Avg.
+66. `riant`: 3.466 Avg.
+67. `tares`: 3.466 Avg.
+68. `caner`: 3.466 Avg.
+69. `tried`: 3.466 Avg.
+70. `sault`: 3.466 Avg.
+71. `saner`: 3.467 Avg.
+72. `aline`: 3.468 Avg.
+73. `artel`: 3.468 Avg.
+74. `strae`: 3.468 Avg.
+75. `tears`: 3.468 Avg.
+76. `trail`: 3.468 Avg.
+77. `stile`: 3.468 Avg.
+78. `plane`: 3.469 Avg.
+79. `raile`: 3.469 Avg.
+80. `antre`: 3.470 Avg.
+81. `saine`: 3.471 Avg.
+82. `ronte`: 3.472 Avg.
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
