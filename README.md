@@ -193,7 +193,7 @@ The user must use this file instead of the others.
 * Method 1: Average guesses
 Easy mode: 12972 words, 2315 answers:
 
-Note: The results are being re-evaluated. (SALET-TRAIL)
+Note: The results are being re-evaluated. (SALET-CLOSE)
 
 1.  `salet`: 3.427 Avg. 
 2.  `slate`: 3.431 Avg.
@@ -247,36 +247,42 @@ Note: The results are being re-evaluated. (SALET-TRAIL)
 50. `crise`: 3.460 Avg.
 51. `crost`: 3.460 Avg.
 52. `reist`: 3.461 Avg.
-53. `soare`: 3.462 Avg.
-54. `roset`: 3.462 Avg.
-55. `alist`: 3.462 Avg.
-56. `dealt`: 3.462 Avg.
-57. `store`: 3.462 Avg.
-58. `roate`: 3.463 Avg.
-59. `liane`: 3.463 Avg.
-60. `prase`: 3.463 Avg.
-61. `raine`: 3.463 Avg.
-62. `resat`: 3.464 Avg.
-63. `corse`: 3.465 Avg.
-64. `tripe`: 3.465 Avg.
-65. `orant`: 3.465 Avg.
-66. `riant`: 3.466 Avg.
-67. `tares`: 3.466 Avg.
-68. `caner`: 3.466 Avg.
-69. `tried`: 3.466 Avg.
-70. `sault`: 3.466 Avg.
-71. `saner`: 3.467 Avg.
-72. `aline`: 3.468 Avg.
-73. `artel`: 3.468 Avg.
-74. `strae`: 3.468 Avg.
-75. `tears`: 3.468 Avg.
-76. `trail`: 3.468 Avg.
-77. `stile`: 3.468 Avg.
-78. `plane`: 3.469 Avg.
-79. `raile`: 3.469 Avg.
-80. `antre`: 3.470 Avg.
-81. `saine`: 3.471 Avg.
-82. `ronte`: 3.472 Avg.
+53. `truce`: 3.461 Avg.
+54. `soare`: 3.462 Avg.
+55. `roset`: 3.462 Avg.
+56. `alist`: 3.462 Avg.
+57. `dealt`: 3.462 Avg.
+58. `store`: 3.462 Avg.
+59. `snirt`: 3.462 Avg.
+60. `roate`: 3.463 Avg.
+61. `liane`: 3.463 Avg.
+62. `prase`: 3.463 Avg.
+63. `raine`: 3.463 Avg.
+64. `resat`: 3.464 Avg.
+65. `close`: 3.464 Avg.
+66. `corse`: 3.465 Avg.
+67. `tripe`: 3.465 Avg.
+68. `orant`: 3.465 Avg.
+69. `riant`: 3.466 Avg.
+70. `tares`: 3.466 Avg.
+71. `caner`: 3.466 Avg.
+72. `tried`: 3.466 Avg.
+73. `sault`: 3.466 Avg.
+74. `saner`: 3.467 Avg.
+75. `thale`: 3.467 Avg.
+76. `aline`: 3.468 Avg.
+77. `artel`: 3.468 Avg.
+78. `strae`: 3.468 Avg.
+79. `tears`: 3.468 Avg.
+80. `trail`: 3.468 Avg.
+81. `stile`: 3.468 Avg.
+82. `plane`: 3.469 Avg.
+83. `raile`: 3.469 Avg.
+84. `antre`: 3.470 Avg.
+85. `stole`: 3.470 Avg.
+86. `saine`: 3.471 Avg.
+87. `ronte`: 3.472 Avg.
+88. `orate`: 3.473 Avg.
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
