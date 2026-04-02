@@ -281,21 +281,27 @@ Note: The results are being re-evaluated. (SALET-PALET testing) https://github.c
 84. `trail`: 3.468 Avg.
 85. `stile`: 3.468 Avg.
 86. `snore`: 3.468 Avg.
-87. `plane`: 3.469 Avg.
-88. `cater`: 3.469 Avg.
-89. `rinse`: 3.469 Avg.
-90. `raile`: 3.469 Avg.
-91. `antre`: 3.470 Avg.
-92. `stole`: 3.470 Avg.
-93. `cline`: 3.470 Avg.
-94. `crest`: 3.470 Avg.
-95. `earnt`: 3.470 Avg.
-96. `saine`: 3.471 Avg.
-97. `place`: 3.471 Avg.
-98. `ronte`: 3.472 Avg.
-99. `orate`: 3.473 Avg.
-100. `alter`: 3.474 Avg.
-101. `seral`: 3.478 Avg.
+87. `palet`: 3.468 Avg.
+88. `plane`: 3.469 Avg.
+89. `cater`: 3.469 Avg.
+90. `rinse`: 3.469 Avg.
+91. `spalt`: 3.469 Avg.
+92. `raile`: 3.469 Avg.
+93. `antre`: 3.470 Avg.
+94. `stole`: 3.470 Avg.
+95. `cline`: 3.470 Avg.
+96. `crest`: 3.470 Avg.
+97. `taler`: 3.470 Avg.
+98. `earnt`: 3.470 Avg.
+99. `saine`: 3.471 Avg.
+100. `anile`: 3.471 Avg.
+101. `caste`: 3.471 Avg.
+102. `place`: 3.471 Avg.
+103. `slade`: 3.471 Avg.
+104. `ronte`: 3.472 Avg.
+105. `orate`: 3.473 Avg.
+106. `alter`: 3.474 Avg.
+107. `seral`: 3.478 Avg.
 
 SALET meaning: A salet (or sallet) is a type of light steel combat helmet that gained popularity across 15th-century Europe, often featuring a slit for vision and a neck guard. It replaced the earlier bascinet and was commonly used by infantry and cavalry. It is also known as a salade, celata, or schaller. (from Gemini)
 
