@@ -1,0 +1,63 @@
+cawed
+Fail: 7 guesses
+[trans __y__ baled _g_gg caped gg_gg caged gg_gg caked gg_gg caved gg_gg cawed ggggg ]
+faxed
+Fail: 7 guesses
+[trans __y__ baled _g_gg caped _g_gg waded _g_gg famed gg_gg faked gg_gg faxed ggggg ]
+fazed
+Fail: 8 guesses
+[trans __y__ baled _g_gg caped _g_gg waded _g_gg famed gg_gg faked gg_gg faxed gg_gg fazed ggggg ]
+hazed
+Fail: 7 guesses
+[trans __y__ baled _g_gg caped _g_gg waded _g_gg famed _g_gg gazed _gggg hazed ggggg ]
+hover
+Fail: 7 guesses
+[trans _y___ cored _gyg_ rowel yg_g_ moper _g_gg foyer _g_gg boxer _g_gg hover ggggg ]
+joker
+Fail: 8 guesses
+[trans _y___ cored _gyg_ rowel yg_g_ moper _g_gg foyer _g_gg boxer _g_gg hover _g_gg joker ggggg ]
+lolly
+Fail: 7 guesses
+[trans _____ dolce _gg__ folky _gg_g golly _gggg holly _gggg jolly _gggg lolly ggggg ]
+mated
+Fail: 7 guesses
+[trans y_y__ ablet y__gy dated _gggg fated _gggg gated _gggg hated _gggg mated ggggg ]
+molly
+Fail: 8 guesses
+[trans _____ dolce _gg__ folky _gg_g golly _gggg holly _gggg jolly _gggg lolly _gggg molly ggggg ]
+munch
+Fail: 7 guesses
+[trans ___y_ dinge __g__ punch _gggg bunch _gggg hunch _gggg lunch _gggg munch ggggg ]
+musty
+Fail: 7 guesses
+[trans y___y spilt y___y busty _gggg dusty _gggg fusty _gggg gusty _gggg musty ggggg ]
+oared
+Fail: 7 guesses
+[trans _yy__ carer _ggg_ bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+pared
+Fail: 8 guesses
+[trans _yy__ carer _ggg_ bared _gggg dared _gggg eared _gggg fared _gggg oared _gggg pared ggggg ]
+shave
+Fail: 7 guesses
+[trans __g_y shale ggg_g shade ggg_g shake ggg_g shame ggg_g shape ggg_g shave ggggg ]
+vined
+Fail: 7 guesses
+[trans ___y_ dinge ygg_y fined _gggg lined _gggg mined _gggg pined _gggg vined ggggg ]
+watch
+Fail: 7 guesses
+[trans y_y__ ablet y___y coati y_yy_ hatch _gggg match _gggg patch _gggg watch ggggg ]
+water
+Fail: 7 guesses
+[trans yyy__ ratel yggg_ cater _gggg dater _gggg eater _gggg hater _gggg water ggggg ]
+waved
+Fail: 7 guesses
+[trans __y__ baled _g_gg caped _g_gg waded gg_gg waged gg_gg waked gg_gg waved ggggg ]
+waxed
+Fail: 8 guesses
+[trans __y__ baled _g_gg caped _g_gg waded gg_gg waged gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+wined
+Fail: 8 guesses
+[trans ___y_ dinge ygg_y fined _gggg lined _gggg mined _gggg pined _gggg vined _gggg wined ggggg ]
+yoked
+Fail: 7 guesses
+[trans _____ dolce yg__y mowed _g_gg ooped _g_gg boded _g_gg joked _gggg yoked ggggg ]

@@ -1,0 +1,87 @@
+bayed
+Fail: 7 guesses
+[scald __y_g pared _g_gg mated _g_gg waded _g_gg faked _g_gg gazed _g_gg bayed ggggg ]
+caved
+Fail: 7 guesses
+[scald _yy_g arced y_ygg caged gg_gg caked gg_gg caned gg_gg caped gg_gg caved ggggg ]
+cawed
+Fail: 8 guesses
+[scald _yy_g arced y_ygg caged gg_gg caked gg_gg caned gg_gg caped gg_gg caved gg_gg cawed ggggg ]
+fazed
+Fail: 7 guesses
+[scald __y_g pared _g_gg mated _g_gg waded _g_gg faked gg_gg faxed gg_gg fazed ggggg ]
+gated
+Fail: 7 guesses
+[scald __y_g pared _g_gg mated _gggg bated _gggg dated _gggg fated _gggg gated ggggg ]
+hated
+Fail: 8 guesses
+[scald __y_g pared _g_gg mated _gggg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[scald __y_g pared _g_gg mated _g_gg waded _g_gg faked _g_gg gazed _gggg hazed ggggg ]
+hived
+Fail: 7 guesses
+[scald ____g pried __ygg dined _g_gg miked _g_gg gibed _g_gg fixed _g_gg hived ggggg ]
+hover
+Fail: 7 guesses
+[scald _____ trine _y__y ropey yg_g_ mower _g_gg boxer _g_gg gofer _g_gg hover ggggg ]
+jerry
+Fail: 7 guesses
+[scald _____ trine _y__y ropey y__yg emery y__gg berry _gggg ferry _gggg jerry ggggg ]
+joked
+Fail: 7 guesses
+[scald ____g pried ___gg noted _g_gg mowed _g_gg doxed _g_gg booed _g_gg joked ggggg ]
+joker
+Fail: 8 guesses
+[scald _____ trine _y__y ropey yg_g_ mower _g_gg boxer _g_gg gofer _g_gg hover _g_gg joker ggggg ]
+lolly
+Fail: 7 guesses
+[scald ___g_ butle ___g_ filly __ggg golly _gggg holly _gggg jolly _gggg lolly ggggg ]
+molly
+Fail: 8 guesses
+[scald ___g_ butle ___g_ filly __ggg golly _gggg holly _gggg jolly _gggg lolly _gggg molly ggggg ]
+naked
+Fail: 7 guesses
+[scald __y_g pared _g_gg mated _g_gg waded _g_gg faked _gggg baked _gggg naked ggggg ]
+oared
+Fail: 7 guesses
+[scald __y_g pared _gggg bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+oozed
+Fail: 7 guesses
+[scald ____g pried ___gg noted _g_gg mowed _g_gg doxed _g_gg booed _gygg oozed ggggg ]
+patch
+Fail: 7 guesses
+[scald _yy__ caron yg___ watch _gggg batch _gggg hatch _gggg match _gggg patch ggggg ]
+pudge
+Fail: 7 guesses
+[scald ____y doner y__y_ etude __yyg budge _gggg fudge _gggg judge _gggg pudge ggggg ]
+razed
+Fail: 7 guesses
+[scald __y_g pared _gygg raged gg_gg raked gg_gg rated gg_gg raved gg_gg razed ggggg ]
+vaunt
+Fail: 7 guesses
+[scald __y__ tabor yg___ patte _gy__ gamut _g_yg haunt _gggg jaunt _gggg vaunt ggggg ]
+waned
+Fail: 7 guesses
+[scald __y_g pared _g_gg mated _g_gg waded gg_gg waged gg_gg waked gg_gg waned ggggg ]
+waved
+Fail: 8 guesses
+[scald __y_g pared _g_gg mated _g_gg waded gg_gg waged gg_gg waked gg_gg waned gg_gg waved ggggg ]
+waxed
+Fail: 9 guesses
+[scald __y_g pared _g_gg mated _g_gg waded gg_gg waged gg_gg waked gg_gg waned gg_gg waved gg_gg waxed ggggg ]
+wiled
+Fail: 7 guesses
+[scald ___yg piled _gggg filed _gggg oiled _gggg riled _gggg tiled _gggg wiled ggggg ]
+wined
+Fail: 7 guesses
+[scald ____g pried __ygg dined _gggg fined _gggg mined _gggg vined _gggg wined ggggg ]
+wired
+Fail: 7 guesses
+[scald ____g pried _yygg fired _gggg hired _gggg mired _gggg tired _gggg wired ggggg ]
+wowed
+Fail: 7 guesses
+[scald ____g pried ___gg noted _g_gg mowed _gggg bowed _gggg vowed _gggg wowed ggggg ]
+yoked
+Fail: 8 guesses
+[scald ____g pried ___gg noted _g_gg mowed _g_gg doxed _g_gg booed _g_gg joked _gggg yoked ggggg ]
