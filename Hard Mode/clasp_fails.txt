@@ -1,0 +1,45 @@
+bayed
+Fail: 7 guesses
+[clasp __y__ raned _g_gg mated _g_gg waded _g_gg fazed _g_gg baked gg_gg bayed ggggg ]
+boxed
+Fail: 7 guesses
+[clasp _____ roted _g_gg mowed _g_gg dozed _g_gg boned gg_gg booed gg_gg boxed ggggg ]
+faxed
+Fail: 7 guesses
+[clasp __y__ raned _g_gg mated _g_gg waded _g_gg fazed gg_gg faked gg_gg faxed ggggg ]
+gated
+Fail: 7 guesses
+[clasp __y__ raned _g_gg mated _gggg bated _gggg dated _gggg fated _gggg gated ggggg ]
+hated
+Fail: 8 guesses
+[clasp __y__ raned _g_gg mated _gggg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[clasp __y__ raned _g_gg mated _g_gg waded _g_gg fazed _gggg gazed _gggg hazed ggggg ]
+joker
+Fail: 7 guesses
+[clasp _____ roted yg_g_ mower _g_gg boner _g_gg foyer _g_gg hover _g_gg joker ggggg ]
+molly
+Fail: 7 guesses
+[clasp _y___ dolie _gg__ lolog ygg__ folly _gggg holly _gggg jolly _gggg molly ggggg ]
+oared
+Fail: 7 guesses
+[clasp __y__ raned yg_gg bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+razed
+Fail: 7 guesses
+[clasp __y__ raned gg_gg raged gg_gg raked gg_gg rated gg_gg raved gg_gg razed ggggg ]
+vaunt
+Fail: 7 guesses
+[clasp __y__ raned _gy__ tabun yg_yy gaunt _gggg haunt _gggg jaunt _gggg vaunt ggggg ]
+waved
+Fail: 7 guesses
+[clasp __y__ raned _g_gg mated _g_gg waded gg_gg waged gg_gg waked gg_gg waved ggggg ]
+waxed
+Fail: 8 guesses
+[clasp __y__ raned _g_gg mated _g_gg waded gg_gg waged gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+wined
+Fail: 7 guesses
+[clasp _____ roted ___gg dined _gggg fined _gggg mined _gggg vined _gggg wined ggggg ]
+yoked
+Fail: 7 guesses
+[clasp _____ roted _g_gg mowed _g_gg dozed _g_gg boned _g_gg joked _gggg yoked ggggg ]
