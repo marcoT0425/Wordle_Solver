@@ -351,6 +351,7 @@ With using this method, it is easy to guarantee every puzzle within 6 guesses as
 * `tarse`: 3.565 Avg.
 * `trace`: 3.582 Avg.
 * `slate`: 3.588 Avg.
+* `stare`: 3.607 Avg.
 
 # Wordle (Extended Word List) (NYT 2025, 3180 Words) Standard Mode
 * `tarse`: 3.712 Avg.
