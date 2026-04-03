@@ -356,6 +356,7 @@ With using this method, it is easy to guarantee every puzzle within 6 guesses as
 
 # Wordle (Extended Word List) (NYT 2025, 3180 Words) Standard Mode
 * `tarse`: 3.712 Avg.
+* `clasp`: 3.737 Avg.
 
 # Examples of traps and hard Wordle puzzles
 
