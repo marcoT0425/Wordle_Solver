@@ -1,0 +1,75 @@
+bayed
+Fail: 7 guesses
+[place __y_y tared _g_gg sawed _g_gg famed _g_gg dazed _g_gg baked gg_gg bayed ggggg ]
+caved
+Fail: 7 guesses
+[place __yyy cared gg_gg caged gg_gg caked gg_gg caned gg_gg cased gg_gg caved ggggg ]
+cawed
+Fail: 8 guesses
+[place __yyy cared gg_gg caged gg_gg caked gg_gg caned gg_gg cased gg_gg caved gg_gg cawed ggggg ]
+coxed
+Fail: 7 guesses
+[place ___yy cored gg_gg coded gg_gg coned gg_gg cooed gg_gg cowed gg_gg coxed ggggg ]
+faxed
+Fail: 7 guesses
+[place __y_y tared _g_gg sawed _g_gg famed gg_gg faded gg_gg faked gg_gg faxed ggggg ]
+fazed
+Fail: 8 guesses
+[place __y_y tared _g_gg sawed _g_gg famed gg_gg faded gg_gg faked gg_gg faxed gg_gg fazed ggggg ]
+gofer
+Fail: 7 guesses
+[place ____y treen _y_g_ rowed yg_g_ homer _g_gg boxer _g_gg foyer yg_gg gofer ggggg ]
+hated
+Fail: 7 guesses
+[place __y_y tared yg_gg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[place __y_y tared _g_gg sawed _g_gg famed _g_gg dazed _gggg gazed _gggg hazed ggggg ]
+joker
+Fail: 7 guesses
+[place ____y treen _y_g_ rowed yg_g_ homer _g_gg boxer _g_gg foyer _g_gg joker ggggg ]
+lolly
+Fail: 7 guesses
+[place _y___ dills __gg_ folly _gggg golly _gggg holly _gggg jolly _gggg lolly ggggg ]
+mated
+Fail: 8 guesses
+[place __y_y tared yg_gg bated _gggg dated _gggg fated _gggg gated _gggg hated _gggg mated ggggg ]
+molly
+Fail: 8 guesses
+[place _y___ dills __gg_ folly _gggg golly _gggg holly _gggg jolly _gggg lolly _gggg molly ggggg ]
+musty
+Fail: 7 guesses
+[place _____ roust __yyy busty _gggg dusty _gggg fusty _gggg gusty _gggg musty ggggg ]
+naked
+Fail: 7 guesses
+[place __y_y tared _g_gg sawed _g_gg famed _g_gg dazed _g_gg baked _gggg naked ggggg ]
+oared
+Fail: 7 guesses
+[place __y_y tared _gggg bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+sated
+Fail: 9 guesses
+[place __y_y tared yg_gg bated _gggg dated _gggg fated _gggg gated _gggg hated _gggg mated _gggg sated ggggg ]
+saver
+Fail: 7 guesses
+[place __y_y tared _gyg_ gamer _g_gg safer gg_gg saber gg_gg saner gg_gg saver ggggg ]
+vaunt
+Fail: 7 guesses
+[place __y__ tabor yg___ haunt _gggg daunt _gggg gaunt _gggg jaunt _gggg vaunt ggggg ]
+vined
+Fail: 7 guesses
+[place ____y treen ___gy wined _gggg dined _gggg fined _gggg mined _gggg vined ggggg ]
+waned
+Fail: 7 guesses
+[place __y_y tared _g_gg sawed _gygg waded gg_gg waged gg_gg waked gg_gg waned ggggg ]
+waved
+Fail: 8 guesses
+[place __y_y tared _g_gg sawed _gygg waded gg_gg waged gg_gg waked gg_gg waned gg_gg waved ggggg ]
+waxed
+Fail: 9 guesses
+[place __y_y tared _g_gg sawed _gygg waded gg_gg waged gg_gg waked gg_gg waned gg_gg waved gg_gg waxed ggggg ]
+witty
+Fail: 7 guesses
+[place _____ roust ____y nifty _g_gg bitty _gggg ditty _gggg kitty _gggg witty ggggg ]
+yoked
+Fail: 7 guesses
+[place ____y treen ___g_ modes _gyg_ wooed _g_gg doxed _g_gg joked _gggg yoked ggggg ]
