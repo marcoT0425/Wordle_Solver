@@ -1,0 +1,69 @@
+bayed
+Fail: 7 guesses
+[clast __y__ raned _g_gg gaped _g_gg waded _g_gg faked _g_gg hamed _g_gg bayed ggggg ]
+boxer
+Fail: 7 guesses
+[clast _____ diner ___gg power _g_gg gomer _g_gg hover _g_gg yoker _g_gg boxer ggggg ]
+cawed
+Fail: 7 guesses
+[clast g_y__ carne gg__y caged gg_gg caked gg_gg caped gg_gg caved gg_gg cawed ggggg ]
+cowed
+Fail: 7 guesses
+[clast g____ cored gg_gg coded gg_gg coned gg_gg cooed gg_gg coped gg_gg cowed ggggg ]
+coxed
+Fail: 8 guesses
+[clast g____ cored gg_gg coded gg_gg coned gg_gg cooed gg_gg coped gg_gg cowed gg_gg coxed ggggg ]
+faxed
+Fail: 7 guesses
+[clast __y__ raned _g_gg gaped _g_gg waded _g_gg faked gg_gg famed gg_gg faxed ggggg ]
+fazed
+Fail: 8 guesses
+[clast __y__ raned _g_gg gaped _g_gg waded _g_gg faked gg_gg famed gg_gg faxed gg_gg fazed ggggg ]
+foyer
+Fail: 7 guesses
+[clast _____ diner ___gg power _g_gg gomer _g_gg hover _g_gg yoker yg_gg foyer ggggg ]
+gated
+Fail: 7 guesses
+[clast __y_y tater _ggg_ mated _gggg bated _gggg dated _gggg fated _gggg gated ggggg ]
+hated
+Fail: 8 guesses
+[clast __y_y tater _ggg_ mated _gggg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[clast __y__ raned _g_gg gaped _g_gg waded _g_gg faked _g_gg hamed gg_gg hazed ggggg ]
+joker
+Fail: 7 guesses
+[clast _____ diner ___gg power _g_gg gomer _g_gg hover _g_gg yoker _gggg joker ggggg ]
+maxed
+Fail: 7 guesses
+[clast __y__ raned _g_gg gaped _g_gg waded _g_gg faked _g_gg hamed _gygg maxed ggggg ]
+molly
+Fail: 7 guesses
+[clast _y___ dolie _gg__ lolog ygg__ folly _gggg holly _gggg jolly _gggg molly ggggg ]
+musty
+Fail: 7 guesses
+[clast ___yy sture yyy__ busty _gggg dusty _gggg fusty _gggg gusty _gggg musty ggggg ]
+oared
+Fail: 7 guesses
+[clast __y__ raned yg_gg bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+pared
+Fail: 8 guesses
+[clast __y__ raned yg_gg bared _gggg dared _gggg eared _gggg fared _gggg oared _gggg pared ggggg ]
+punky
+Fail: 7 guesses
+[clast _____ diner __g__ funky _gggg gunky _gggg hunky _gggg junky _gggg punky ggggg ]
+watch
+Fail: 7 guesses
+[clast y_y_y acton yyg__ batch _gggg hatch _gggg match _gggg patch _gggg watch ggggg ]
+water
+Fail: 7 guesses
+[clast __y_y tater _gggg dater _gggg eater _gggg hater _gggg rater _gggg water ggggg ]
+waxed
+Fail: 7 guesses
+[clast __y__ raned _g_gg gaped _g_gg waded gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+wined
+Fail: 7 guesses
+[clast _____ diner yggg_ fined _gggg mined _gggg pined _gggg vined _gggg wined ggggg ]
+yoked
+Fail: 7 guesses
+[clast _____ diner y__g_ moped _g_gg wooed _g_gg boded _g_gg joked _gggg yoked ggggg ]

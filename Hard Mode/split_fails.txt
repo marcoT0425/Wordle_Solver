@@ -1,0 +1,54 @@
+cawed
+Fail: 7 guesses
+[split _____ cadre ggy_y caged gg_gg caked gg_gg caned gg_gg caved gg_gg cawed ggggg ]
+fazed
+Fail: 7 guesses
+[split _____ cadre _gy_y dawen yg_g_ famed gg_gg faked gg_gg faxed gg_gg fazed ggggg ]
+gated
+Fail: 7 guesses
+[split ____y tarte yg__y mated _gggg bated _gggg dated _gggg fated _gggg gated ggggg ]
+hated
+Fail: 8 guesses
+[split ____y tarte yg__y mated _gggg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[split _____ cadre _gy_y dawen yg_g_ famed _g_gg baked _g_gg gazed _gggg hazed ggggg ]
+joker
+Fail: 7 guesses
+[split _____ cadre ___yy rowen yg_g_ homer _g_gg foyer _g_gg boxer _g_gg joker ggggg ]
+lolly
+Fail: 7 guesses
+[split __g__ dalle __gg_ folly _gggg golly _gggg holly _gggg jolly _gggg lolly ggggg ]
+molly
+Fail: 8 guesses
+[split __g__ dalle __gg_ folly _gggg golly _gggg holly _gggg jolly _gggg lolly _gggg molly ggggg ]
+oared
+Fail: 7 guesses
+[split _____ cadre _gyyy bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+payer
+Fail: 7 guesses
+[split _y___ porae g_yyy pacer gg_gg pager gg_gg paper gg_gg paver gg_gg payer ggggg ]
+razed
+Fail: 7 guesses
+[split _____ cadre _gyyy bared _gygg raged gg_gg raked gg_gg raved gg_gg razed ggggg ]
+rider
+Fail: 7 guesses
+[split ___y_ diner yg_gg aider _gggg cider _gggg eider _gggg hider _gggg rider ggggg ]
+water
+Fail: 7 guesses
+[split ____y tarte ygy_y rated yggg_ cater _gggg eater _gggg hater _gggg water ggggg ]
+waxed
+Fail: 7 guesses
+[split _____ cadre _gy_y dawen ygyg_ waged gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+wider
+Fail: 8 guesses
+[split ___y_ diner yg_gg aider _gggg cider _gggg eider _gggg hider _gggg rider _gggg wider ggggg ]
+wired
+Fail: 7 guesses
+[split ___y_ diner yg_gy aired _gggg fired _gggg hired _gggg mired _gggg wired ggggg ]
+wowed
+Fail: 7 guesses
+[split _____ cadre __y_y nowed _gggg bowed _gggg mowed _gggg vowed _gggg wowed ggggg ]
+yoked
+Fail: 7 guesses
+[split _____ cadre __y_y nowed _g_gg mooed _g_gg doxed _g_gg joked _gggg yoked ggggg ]

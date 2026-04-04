@@ -1,0 +1,99 @@
+bayed
+Fail: 7 guesses
+[trape __y_y laden _gyg_ cawed _g_gg famed _g_gg based gg_gg baked gg_gg bayed ggggg ]
+caved
+Fail: 7 guesses
+[trape __y_y laden _gyg_ cawed gg_gg caged gg_gg caked gg_gg cased gg_gg caved ggggg ]
+coxed
+Fail: 7 guesses
+[trape ____y lined ___gg dosed _g_gg wooed _g_gg mobed _g_gg joked _g_gg coxed ggggg ]
+dazed
+Fail: 7 guesses
+[trape __y_y laden _gyg_ cawed _g_gg famed _g_gg based _g_gg haded _gygg dazed ggggg ]
+fazed
+Fail: 7 guesses
+[trape __y_y laden _gyg_ cawed _g_gg famed gg_gg faked gg_gg faxed gg_gg fazed ggggg ]
+gazed
+Fail: 7 guesses
+[trape __y_y laden _gyg_ cawed _g_gg famed _g_gg based _g_gg haded _g_gg gazed ggggg ]
+gofer
+Fail: 7 guesses
+[trape _y__y rider ___gg sower _g_gg hover _g_gg boner _g_gg foyer yg_gg gofer ggggg ]
+hated
+Fail: 7 guesses
+[trape y_y_y cleat __yyy dates yggg_ bated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[trape __y_y laden _gyg_ cawed _g_gg famed _g_gg based _g_gg haded gg_gg hazed ggggg ]
+holly
+Fail: 7 guesses
+[trape _____ coils _g_g_ lowly yg_gg dolly _gggg folly _gggg golly _gggg holly ggggg ]
+joker
+Fail: 7 guesses
+[trape _y__y rider ___gg sower _g_gg hover _g_gg boner _g_gg foyer _g_gg joker ggggg ]
+jolly
+Fail: 8 guesses
+[trape _____ coils _g_g_ lowly yg_gg dolly _gggg folly _gggg golly _gggg holly _gggg jolly ggggg ]
+latch
+Fail: 7 guesses
+[trape y_y__ satin _gg__ match _gggg batch _gggg catch _gggg hatch _gggg latch ggggg ]
+loner
+Fail: 7 guesses
+[trape _y__y rider ___gg sower _g_gg hover _g_gg boner _gggg goner _gggg loner ggggg ]
+mated
+Fail: 8 guesses
+[trape y_y_y cleat __yyy dates yggg_ bated _gggg fated _gggg gated _gggg hated _gggg mated ggggg ]
+molly
+Fail: 9 guesses
+[trape _____ coils _g_g_ lowly yg_gg dolly _gggg folly _gggg golly _gggg holly _gggg jolly _gggg molly ggggg ]
+mooed
+Fail: 7 guesses
+[trape ____y lined ___gg dosed _g_gg wooed _gggg booed _gggg cooed _gggg mooed ggggg ]
+mover
+Fail: 7 guesses
+[trape _y__y rider ___gg sower _g_gg hover _gggg cover _gggg lover _gggg mover ggggg ]
+mowed
+Fail: 7 guesses
+[trape ____y lined ___gg dosed _g_gg wooed yg_gg bowed _gggg cowed _gggg mowed ggggg ]
+mower
+Fail: 7 guesses
+[trape _y__y rider ___gg sower _gggg bower _gggg cower _gggg lower _gggg mower ggggg ]
+musty
+Fail: 7 guesses
+[trape y____ noust __yyy gluts __ygy busty _gggg dusty _gggg fusty _gggg musty ggggg ]
+oared
+Fail: 7 guesses
+[trape _yy_y barer _ggg_ cared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+payer
+Fail: 7 guesses
+[trape _yyyy caper _gygg pager gg_gg paler gg_gg parer gg_gg paver gg_gg payer ggggg ]
+razed
+Fail: 7 guesses
+[trape _yy_y barer _gyg_ raved gg_gg raced gg_gg raged gg_gg raked gg_gg razed ggggg ]
+vaunt
+Fail: 7 guesses
+[trape y_y__ satin _gy_y daunt _gggg gaunt _gggg haunt _gggg jaunt _gggg vaunt ggggg ]
+vowed
+Fail: 8 guesses
+[trape ____y lined ___gg dosed _g_gg wooed yg_gg bowed _gggg cowed _gggg mowed _gggg vowed ggggg ]
+watch
+Fail: 8 guesses
+[trape y_y__ satin _gg__ match _gggg batch _gggg catch _gggg hatch _gggg latch _gggg watch ggggg ]
+water
+Fail: 7 guesses
+[trape yyy_y ratel yggg_ cater _gggg dater _gggg eater _gggg hater _gggg water ggggg ]
+waxed
+Fail: 7 guesses
+[trape __y_y laden _gyg_ cawed _gygg waged gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+wined
+Fail: 7 guesses
+[trape ____y lined _gggg dined _gggg fined _gggg mined _gggg vined _gggg wined ggggg ]
+wired
+Fail: 7 guesses
+[trape _y__y rider ygyg_ fired _gggg hired _gggg mired _gggg sired _gggg wired ggggg ]
+wiser
+Fail: 7 guesses
+[trape _y__y rider _g_gg filer _g_gg miner _g_gg biker _g_gg giver _g_gg wiser ggggg ]
+yoked
+Fail: 7 guesses
+[trape ____y lined ___gg dosed _g_gg wooed _g_gg mobed _g_gg joked _gggg yoked ggggg ]
