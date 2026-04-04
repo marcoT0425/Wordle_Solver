@@ -1,0 +1,93 @@
+bayed
+Fail: 7 guesses
+[slate __y_y cared _g_gg gaped _g_gg waded _g_gg famed _g_gg baked gg_gg bayed ggggg ]
+boxer
+Fail: 7 guesses
+[slate ____y diner ___gg roper _g_gg mower _g_gg cover _g_gg foyer _g_gg boxer ggggg ]
+caved
+Fail: 7 guesses
+[slate __y_y cared gg_gg caged gg_gg caked gg_gg caned gg_gg caped gg_gg caved ggggg ]
+cawed
+Fail: 8 guesses
+[slate __y_y cared gg_gg caged gg_gg caked gg_gg caned gg_gg caped gg_gg caved gg_gg cawed ggggg ]
+coxed
+Fail: 7 guesses
+[slate ____y diner y__g_ moped _g_gg wooed _g_gg boded _g_gg joked _g_gg coxed ggggg ]
+faxed
+Fail: 7 guesses
+[slate __y_y cared _g_gg gaped _g_gg waded _g_gg famed gg_gg faked gg_gg faxed ggggg ]
+fazed
+Fail: 8 guesses
+[slate __y_y cared _g_gg gaped _g_gg waded _g_gg famed gg_gg faked gg_gg faxed gg_gg fazed ggggg ]
+gofer
+Fail: 7 guesses
+[slate ____y diner ___gg roper _g_gg mower _g_gg cover _g_gg foyer yg_gg gofer ggggg ]
+grown
+Fail: 7 guesses
+[slate _____ prion _g_yg brown _gggg crown _gggg drown _gggg frown _gggg grown ggggg ]
+hated
+Fail: 7 guesses
+[slate __yyy tared yg_gg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[slate __y_y cared _g_gg gaped _g_gg waded _g_gg famed _g_gg baked _g_gg hazed ggggg ]
+jaunt
+Fail: 7 guesses
+[slate __yy_ tabor yg___ caput _g_yg daunt _gggg gaunt _gggg haunt _gggg jaunt ggggg ]
+joker
+Fail: 8 guesses
+[slate ____y diner ___gg roper _g_gg mower _g_gg cover _g_gg foyer _g_gg boxer _g_gg joker ggggg ]
+lolly
+Fail: 7 guesses
+[slate _y___ dilly __ggg folly _gggg golly _gggg holly _gggg jolly _gggg lolly ggggg ]
+mated
+Fail: 8 guesses
+[slate __yyy tared yg_gg bated _gggg dated _gggg fated _gggg gated _gggg hated _gggg mated ggggg ]
+molly
+Fail: 8 guesses
+[slate _y___ dilly __ggg folly _gggg golly _gggg holly _gggg jolly _gggg lolly _gggg molly ggggg ]
+naked
+Fail: 7 guesses
+[slate __y_y cared _g_gg gaped _g_gg waded _g_gg famed _g_gg baked _gggg naked ggggg ]
+oared
+Fail: 7 guesses
+[slate __y_y cared _gggg bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+pared
+Fail: 8 guesses
+[slate __y_y cared _gggg bared _gggg dared _gggg eared _gggg fared _gggg oared _gggg pared ggggg ]
+shave
+Fail: 7 guesses
+[slate g_g_g scape g_g_g shake ggg_g shade ggg_g shame ggg_g share ggg_g shave ggggg ]
+vaunt
+Fail: 8 guesses
+[slate __yy_ tabor yg___ caput _g_yg daunt _gggg gaunt _gggg haunt _gggg jaunt _gggg vaunt ggggg ]
+vowed
+Fail: 7 guesses
+[slate ____y diner y__g_ moped _g_gg wooed yg_gg bowed _gggg cowed _gggg vowed ggggg ]
+waste
+Fail: 7 guesses
+[slate y_ygg baste _gggg caste _gggg haste _gggg paste _gggg taste _gggg waste ggggg ]
+water
+Fail: 7 guesses
+[slate __yyy tared ygyg_ cater _gggg eater _gggg hater _gggg rater _gggg water ggggg ]
+waved
+Fail: 7 guesses
+[slate __y_y cared _g_gg gaped _g_gg waded gg_gg waked gg_gg waned gg_gg waved ggggg ]
+waxed
+Fail: 8 guesses
+[slate __y_y cared _g_gg gaped _g_gg waded gg_gg waked gg_gg waned gg_gg waved gg_gg waxed ggggg ]
+wider
+Fail: 7 guesses
+[slate ____y diner yg_gg cider _gggg eider _gggg hider _gggg rider _gggg wider ggggg ]
+wight
+Fail: 7 guesses
+[slate ___y_ biont _g__g fight _gggg might _gggg right _gggg tight _gggg wight ggggg ]
+wined
+Fail: 7 guesses
+[slate ____y diner yggg_ fined _gggg mined _gggg pined _gggg vined _gggg wined ggggg ]
+wound
+Fail: 7 guesses
+[slate _____ prion ___yy bunco _yy_y found _gggg hound _gggg mound _gggg wound ggggg ]
+yoked
+Fail: 7 guesses
+[slate ____y diner y__g_ moped _g_gg wooed _g_gg boded _g_gg joked _gggg yoked ggggg ]

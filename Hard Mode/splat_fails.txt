@@ -1,0 +1,36 @@
+faxed
+Fail: 7 guesses
+[splat ___y_ carne _g__y wadge _gy_y fazed gg_gg faked gg_gg famed gg_gg faxed ggggg ]
+gated
+Fail: 7 guesses
+[splat ___yy tarte yg__y mated _gggg bated _gggg dated _gggg fated _gggg gated ggggg ]
+hated
+Fail: 8 guesses
+[splat ___yy tarte yg__y mated _gggg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+joker
+Fail: 7 guesses
+[splat _____ diner ___gg rower _g_gg hover _g_gg foyer _g_gg boxer _g_gg joker ggggg ]
+molly
+Fail: 7 guesses
+[splat __g__ dolie _gg__ lolog ygg__ folly _gggg holly _gggg jolly _gggg molly ggggg ]
+oared
+Fail: 7 guesses
+[splat ___y_ carne _gg_y bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+taunt
+Fail: 7 guesses
+[splat ___yg craft __y_g daunt _gggg gaunt _gggg haunt _gggg jaunt _gggg taunt ggggg ]
+vaunt
+Fail: 8 guesses
+[splat ___yg craft __y_g daunt _gggg gaunt _gggg haunt _gggg jaunt _gggg taunt _gggg vaunt ggggg ]
+water
+Fail: 7 guesses
+[splat ___yy tarte ygy_y rated yggg_ cater _gggg eater _gggg hater _gggg water ggggg ]
+wider
+Fail: 7 guesses
+[splat _____ diner yg_gg cider _gggg eider _gggg hider _gggg rider _gggg wider ggggg ]
+wowed
+Fail: 7 guesses
+[splat _____ diner y__g_ mowed _gggg bowed _gggg cowed _gggg vowed _gggg wowed ggggg ]
+yoked
+Fail: 7 guesses
+[splat _____ diner y__g_ mowed _g_gg booed _g_gg coded _g_gg joked _gggg yoked ggggg ]

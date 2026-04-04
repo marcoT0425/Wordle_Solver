@@ -1,0 +1,93 @@
+bayed
+Fail: 7 guesses
+[crane __y_y tepal _y_y_ wades _gyg_ famed _g_gg dazed _g_gg baked gg_gg bayed ggggg ]
+cawed
+Fail: 7 guesses
+[crane g_y_y caged gg_gg caked gg_gg caped gg_gg cased gg_gg caved gg_gg cawed ggggg ]
+coxed
+Fail: 7 guesses
+[crane g___y coled gg_gg coded gg_gg cooed gg_gg coped gg_gg cowed gg_gg coxed ggggg ]
+fazed
+Fail: 7 guesses
+[crane __y_y tepal _y_y_ wades _gyg_ famed gg_gg faked gg_gg faxed gg_gg fazed ggggg ]
+gofer
+Fail: 7 guesses
+[crane _y__y roted yg_g_ mower _g_gg loser _g_gg yoker _g_gg boxer _g_gg gofer ggggg ]
+hated
+Fail: 7 guesses
+[crane __y_y tepal yy_y_ dates yggg_ bated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[crane __y_y tepal _y_y_ wades _gyg_ famed _g_gg dazed _gggg gazed _gggg hazed ggggg ]
+hirer
+Fail: 7 guesses
+[crane _y__y roted y__g_ lifer _g_gg piker _g_gg miser _g_gg giver _g_gg hirer ggggg ]
+hover
+Fail: 8 guesses
+[crane _y__y roted yg_g_ mower _g_gg loser _g_gg yoker _g_gg boxer _g_gg gofer _g_gg hover ggggg ]
+lolly
+Fail: 7 guesses
+[crane _____ moust _g___ goold _g_g_ folly _gggg holly _gggg jolly _gggg lolly ggggg ]
+mated
+Fail: 8 guesses
+[crane __y_y tepal yy_y_ dates yggg_ bated _gggg fated _gggg gated _gggg hated _gggg mated ggggg ]
+oared
+Fail: 7 guesses
+[crane _yy_y rater yg_g_ bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+pared
+Fail: 8 guesses
+[crane _yy_y rater yg_g_ bared _gggg dared _gggg eared _gggg fared _gggg oared _gggg pared ggggg ]
+patch
+Fail: 7 guesses
+[crane y_y__ tacho ygyy_ batch _gggg hatch _gggg latch _gggg match _gggg patch ggggg ]
+poker
+Fail: 7 guesses
+[crane _y__y roted yg_g_ mower _g_gg loser _g_gg yoker _gggg joker _gggg poker ggggg ]
+pound
+Fail: 7 guesses
+[crane ___g_ slung __gg_ found _gggg bound _gggg hound _gggg mound _gggg pound ggggg ]
+shave
+Fail: 7 guesses
+[crane __g_g slate g_g_g shade ggg_g shake ggg_g shame ggg_g shape ggg_g shave ggggg ]
+sower
+Fail: 7 guesses
+[crane _y__y roted yg_g_ mower _gggg bower _gggg lower _gggg power _gggg sower ggggg ]
+tater
+Fail: 7 guesses
+[crane _yy_y rater _gggg dater _gggg eater _gggg hater _gggg later _gggg tater ggggg ]
+vaunt
+Fail: 7 guesses
+[crane __yg_ gaunt _gggg daunt _gggg haunt _gggg jaunt _gggg taunt _gggg vaunt ggggg ]
+vined
+Fail: 7 guesses
+[crane ___yy lined _gggg dined _gggg fined _gggg mined _gggg pined _gggg vined ggggg ]
+wader
+Fail: 7 guesses
+[crane _yy_y rater _g_gg lager _g_gg faker _g_gg vaper _g_gg saber _g_gg wader ggggg ]
+watch
+Fail: 8 guesses
+[crane y_y__ tacho ygyy_ batch _gggg hatch _gggg latch _gggg match _gggg patch _gggg watch ggggg ]
+water
+Fail: 8 guesses
+[crane _yy_y rater _gggg dater _gggg eater _gggg hater _gggg later _gggg tater _gggg water ggggg ]
+waver
+Fail: 7 guesses
+[crane _yy_y rater _g_gg lager _g_gg faker _g_gg vaper yg_gg saver _gggg waver ggggg ]
+waxed
+Fail: 7 guesses
+[crane __y_y tepal _y_y_ wades ggyg_ waged gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+willy
+Fail: 7 guesses
+[crane _____ moust _____ duply ___gg billy _gggg filly _gggg hilly _gggg willy ggggg ]
+wined
+Fail: 8 guesses
+[crane ___yy lined _gggg dined _gggg fined _gggg mined _gggg pined _gggg vined _gggg wined ggggg ]
+wired
+Fail: 7 guesses
+[crane _y__y roted y__gg hired _gggg fired _gggg mired _gggg sired _gggg wired ggggg ]
+wound
+Fail: 8 guesses
+[crane ___g_ slung __gg_ found _gggg bound _gggg hound _gggg mound _gggg pound _gggg wound ggggg ]
+yoked
+Fail: 7 guesses
+[crane ____y sleet ___g_ moped _g_gg wooed _g_gg doxed _g_gg joked _gggg yoked ggggg ]
