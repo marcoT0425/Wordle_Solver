@@ -1,0 +1,42 @@
+boxed
+Fail: 7 guesses
+[cramp _____ sient __y__ bogle gg__y boded gg_gg booed gg_gg bowed gg_gg boxed ggggg ]
+cawed
+Fail: 7 guesses
+[cramp g_y__ caned gg_gg caged gg_gg caked gg_gg cased gg_gg caved gg_gg cawed ggggg ]
+hated
+Fail: 7 guesses
+[cramp __y__ salet _g_gy bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+joker
+Fail: 7 guesses
+[cramp _y___ tores _gyg_ rowed yg_g_ boner _g_gg foyer _g_gg hover _g_gg joker ggggg ]
+lolly
+Fail: 7 guesses
+[cramp _____ sient _____ dogly _g_gg jolly _gggg folly _gggg holly _gggg lolly ggggg ]
+lover
+Fail: 7 guesses
+[cramp _y___ tores _gyg_ rowed yg_g_ boner _g_gg foyer _g_gg hover _gggg lover ggggg ]
+oared
+Fail: 7 guesses
+[cramp _yy__ taler _g_gy bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+razed
+Fail: 7 guesses
+[cramp _yy__ taler _g_gy bared _gygg raged gg_gg raked gg_gg raved gg_gg razed ggggg ]
+saver
+Fail: 7 guesses
+[cramp _yy__ taler _g_gg rager _g_gg safer gg_gg saber gg_gg saner gg_gg saver ggggg ]
+water
+Fail: 7 guesses
+[cramp _yy__ taler yg_gg dater _gggg eater _gggg hater _gggg rater _gggg water ggggg ]
+waxed
+Fail: 7 guesses
+[cramp __y__ salet _g_g_ waken gg_g_ waded gg_gg waged gg_gg waved gg_gg waxed ggggg ]
+wider
+Fail: 7 guesses
+[cramp _y___ tores __yg_ filer _g_gg hider _gggg eider _gggg rider _gggg wider ggggg ]
+willy
+Fail: 7 guesses
+[cramp _____ sient _g___ viold _g_g_ billy _gggg filly _gggg hilly _gggg willy ggggg ]
+yoked
+Fail: 7 guesses
+[cramp _____ sient __y__ bogle _g__y wooed _g_gg doxed _g_gg joked _gggg yoked ggggg ]

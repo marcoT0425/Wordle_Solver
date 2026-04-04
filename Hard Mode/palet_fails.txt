@@ -1,0 +1,72 @@
+coxed
+Fail: 7 guesses
+[palet ___g_ diner y__g_ mosed _g_gg wooed _g_gg boded _g_gg joked _g_gg coxed ggggg ]
+fared
+Fail: 7 guesses
+[palet _g_g_ namer _g_gy varec _ggg_ bared _gggg dared _gggg eared _gggg fared ggggg ]
+gazed
+Fail: 7 guesses
+[palet _g_g_ namer _g_g_ wades _gyg_ caked _g_gg fazed _gggg dazed _gggg gazed ggggg ]
+hazed
+Fail: 8 guesses
+[palet _g_g_ namer _g_g_ wades _gyg_ caked _g_gg fazed _gggg dazed _gggg gazed _gggg hazed ggggg ]
+lolly
+Fail: 7 guesses
+[palet __g__ hills __gg_ dolly _gggg folly _gggg golly _gggg jolly _gggg lolly ggggg ]
+mated
+Fail: 7 guesses
+[palet _g_gy dater yggg_ bated _gggg fated _gggg gated _gggg hated _gggg mated ggggg ]
+merry
+Fail: 7 guesses
+[palet ___y_ reuse yg___ derny _gg_g jerry _gggg berry _gggg ferry _gggg merry ggggg ]
+molly
+Fail: 8 guesses
+[palet __g__ hills __gg_ dolly _gggg folly _gggg golly _gggg jolly _gggg lolly _gggg molly ggggg ]
+musty
+Fail: 7 guesses
+[palet ____y north ___g_ fusty _gggg busty _gggg dusty _gggg gusty _gggg musty ggggg ]
+oared
+Fail: 8 guesses
+[palet _g_g_ namer _g_gy varec _ggg_ bared _gggg dared _gggg eared _gggg fared _gggg oared ggggg ]
+roger
+Fail: 7 guesses
+[palet ___g_ diner ___gg fewer ___gg cuber ___gg hover _g_gg joker _g_gg roger ggggg ]
+rover
+Fail: 7 guesses
+[palet ___g_ diner ___gg fewer ___gg cuber ___gg hover _gggg mover _gggg rover ggggg ]
+rower
+Fail: 7 guesses
+[palet ___g_ diner ___gg fewer __ggg bower _gggg cower _gggg mower _gggg rower ggggg ]
+sated
+Fail: 8 guesses
+[palet _g_gy dater yggg_ bated _gggg fated _gggg gated _gggg hated _gggg mated _gggg sated ggggg ]
+sower
+Fail: 8 guesses
+[palet ___g_ diner ___gg fewer __ggg bower _gggg cower _gggg mower _gggg rower _gggg sower ggggg ]
+tater
+Fail: 7 guesses
+[palet _g_gy dater _gggg cater _gggg eater _gggg hater _gggg rater _gggg tater ggggg ]
+vaunt
+Fail: 7 guesses
+[palet _g__g taint _g_gg daunt _gggg gaunt _gggg haunt _gggg jaunt _gggg vaunt ggggg ]
+vowed
+Fail: 7 guesses
+[palet ___g_ diner y__g_ mosed _g_gg wooed yg_gg bowed _gggg cowed _gggg vowed ggggg ]
+water
+Fail: 8 guesses
+[palet _g_gy dater _gggg cater _gggg eater _gggg hater _gggg rater _gggg tater _gggg water ggggg ]
+waxed
+Fail: 7 guesses
+[palet _g_g_ namer _g_g_ wades ggyg_ waged gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+wider
+Fail: 7 guesses
+[palet ___g_ diner yg_gg cider _gggg eider _gggg hider _gggg rider _gggg wider ggggg ]
+wired
+Fail: 7 guesses
+[palet ___g_ diner yg_gy fired _gggg hired _gggg mired _gggg sired _gggg wired ggggg ]
+wound
+Fail: 7 guesses
+[palet _____ cions __yg_ brond __ygg found _gggg hound _gggg mound _gggg wound ggggg ]
+yoked
+Fail: 7 guesses
+[palet ___g_ diner y__g_ mosed _g_gg wooed _g_gg boded _g_gg joked _gggg yoked ggggg ]

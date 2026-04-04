@@ -1,0 +1,39 @@
+gated
+Fail: 7 guesses
+[plant __y_y tarse yg__y mathe _gg_y bated _gggg dated _gggg fated _gggg gated ggggg ]
+grown
+Fail: 7 guesses
+[plant ___y_ rinse y_y__ boron _yy_g crown _gggg drown _gggg frown _gggg grown ggggg ]
+hazed
+Fail: 7 guesses
+[plant __y__ macer _g_g_ wades _gyg_ fazed _gggg dazed _gggg gazed _gggg hazed ggggg ]
+molly
+Fail: 7 guesses
+[plant _y___ loled ygg__ folly _gggg golly _gggg holly _gggg jolly _gggg molly ggggg ]
+mound
+Fail: 7 guesses
+[plant ___g_ drony y_yg_ downs yg_g_ bound _gggg found _gggg hound _gggg mound ggggg ]
+oared
+Fail: 7 guesses
+[plant __y__ macer _g_gy karee _ggg_ bared _gggg dared _gggg fared _gggg oared ggggg ]
+vaunt
+Fail: 7 guesses
+[plant __ygg taint _g_gg daunt _gggg gaunt _gggg haunt _gggg jaunt _gggg vaunt ggggg ]
+watch
+Fail: 7 guesses
+[plant __y_y tarse yg___ cacti yg_y_ batch _gggg hatch _gggg match _gggg watch ggggg ]
+water
+Fail: 7 guesses
+[plant __y_y tarse ygy_y rated yggg_ cater _gggg eater _gggg hater _gggg water ggggg ]
+waxed
+Fail: 7 guesses
+[plant __y__ macer _g_g_ wades ggyg_ waged gg_gg waked gg_gg waved gg_gg waxed ggggg ]
+wider
+Fail: 7 guesses
+[plant _____ dorse y_y_y redif yygy_ cider _gggg eider _gggg hider _gggg wider ggggg ]
+wowed
+Fail: 7 guesses
+[plant _____ dorse yg__y mowed _gggg bowed _gggg cowed _gggg vowed _gggg wowed ggggg ]
+yoked
+Fail: 7 guesses
+[plant _____ dorse yg__y mowed _g_gg booed _g_gg coded _g_gg joked _gggg yoked ggggg ]

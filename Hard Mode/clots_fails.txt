@@ -1,0 +1,57 @@
+bayed
+Fail: 7 guesses
+[clots _____ raned _g_gg gaped _g_gg waded _g_gg faked _g_gg hamed _g_gg bayed ggggg ]
+cawed
+Fail: 7 guesses
+[clots g____ carne gg__y caged gg_gg caked gg_gg caped gg_gg caved gg_gg cawed ggggg ]
+coxed
+Fail: 7 guesses
+[clots g_y__ coned gg_gg coded gg_gg coped gg_gg cored gg_gg cowed gg_gg coxed ggggg ]
+faxed
+Fail: 7 guesses
+[clots _____ raned _g_gg gaped _g_gg waded _g_gg faked gg_gg famed gg_gg faxed ggggg ]
+fazed
+Fail: 8 guesses
+[clots _____ raned _g_gg gaped _g_gg waded _g_gg faked gg_gg famed gg_gg faxed gg_gg fazed ggggg ]
+hated
+Fail: 7 guesses
+[clots ___y_ tared yg_gg bated _gggg dated _gggg fated _gggg gated _gggg hated ggggg ]
+hazed
+Fail: 7 guesses
+[clots _____ raned _g_gg gaped _g_gg waded _g_gg faked _g_gg hamed gg_gg hazed ggggg ]
+junky
+Fail: 7 guesses
+[clots _____ raned __g__ pinky __ggg funky _gggg gunky _gggg hunky _gggg junky ggggg ]
+lolly
+Fail: 7 guesses
+[clots _yy__ doley _gg_g folky _gg_g golly _gggg holly _gggg jolly _gggg lolly ggggg ]
+mated
+Fail: 8 guesses
+[clots ___y_ tared yg_gg bated _gggg dated _gggg fated _gggg gated _gggg hated _gggg mated ggggg ]
+maxed
+Fail: 7 guesses
+[clots _____ raned _g_gg gaped _g_gg waded _g_gg faked _g_gg hamed _gygg maxed ggggg ]
+molly
+Fail: 8 guesses
+[clots _yy__ doley _gg_g folky _gg_g golly _gggg holly _gggg jolly _gggg lolly _gggg molly ggggg ]
+musty
+Fail: 7 guesses
+[clots ___gy paste __gg_ busty _gggg dusty _gggg fusty _gggg gusty _gggg musty ggggg ]
+pared
+Fail: 7 guesses
+[clots _____ raned yg_gg bared _gggg dared _gggg eared _gggg fared _gggg pared ggggg ]
+rusty
+Fail: 8 guesses
+[clots ___gy paste __gg_ busty _gggg dusty _gggg fusty _gggg gusty _gggg musty _gggg rusty ggggg ]
+vaunt
+Fail: 7 guesses
+[clots ___y_ tared yg___ paint _g_gg gaunt _gggg haunt _gggg jaunt _gggg vaunt ggggg ]
+vined
+Fail: 7 guesses
+[clots _____ raned __ggg pwned __ggg dined _gggg fined _gggg mined _gggg vined ggggg ]
+watch
+Fail: 7 guesses
+[clots y__y_ react __ygy batch _gggg hatch _gggg match _gggg patch _gggg watch ggggg ]
+waxed
+Fail: 7 guesses
+[clots _____ raned _g_gg gaped _g_gg waded gg_gg waked gg_gg waved gg_gg waxed ggggg ]
