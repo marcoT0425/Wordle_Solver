@@ -523,9 +523,14 @@ For the board, type a code like `0101010100010011001000101`, 0 = white, 1 = blac
 
 https://github.com/marcoT0425/Wordle_Solver/blob/main/Spotle%20Bot.sb3 
 
+# Best two-word sets in Wordle
+
+For two-word sets, the sets are based on Alex Selby, here are the ranks:
+
+`parse,clint`: 3.596 Avg.
+
 I'll be making:
 
-1. `parse + clint` / `other + nails` etc
 2. `stead,flung,chirp,womby` / `brick,glent,jumpy,vozhd,waqfs` / `brick,flame,shunt,podgy`
 
 Should you have any problems, please contact me by email: mankotoa@gmail.com or to open an issue.
