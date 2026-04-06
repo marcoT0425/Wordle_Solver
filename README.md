@@ -527,7 +527,9 @@ https://github.com/marcoT0425/Wordle_Solver/blob/main/Spotle%20Bot.sb3
 
 For two-word sets, the sets are based on Alex Selby, here are the ranks:
 
-`parse,clint`: 3.596 Avg.
+1. `parse,clint`: 3.596 Avg.
+2. `crane,spilt`: 3.602 Avg.
+3. `crine,spalt`: 3.603 Avg.
 
 I'll be making:
 
