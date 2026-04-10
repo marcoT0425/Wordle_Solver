@@ -304,8 +304,14 @@ SALET meaning: A salet (or sallet) is a type of light steel combat helmet that g
 2. `slate`: 3.529 Avg.
 3. `trace`: 3.532 Avg.
 4. `reast`: 3.532 Avg.
-5. `least`: 3.533 Avg.
-6. `crate`: 3.538 Avg.
+5. `leant`: 3.532 Avg.
+6. `clast`: 3.535 Avg.
+7. `least`: 3.533 Avg.
+8. `slane`: 3.537 Avg.
+9. `train`: 3.537 Avg.
+10. `crate`: 3.538 Avg.
+11. `slant`: 3.538 Avg.
+12. `crane`: 3.539 Avg.
 
 # The hall of shame (not fully tested, but I've been working with other best openers):
 * `qajaq`: 4.114 Avg.
