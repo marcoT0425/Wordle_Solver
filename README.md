@@ -300,24 +300,30 @@ SALET meaning: A salet (or sallet) is a type of light steel combat helmet that g
 
 # Wordle Hard mode:
 
-1. `salet`: 3.521 Avg.
-2. `slate`: 3.529 Avg.
-3. `trape`: 3.531 Avg.
-4. `trace`: 3.532 Avg.
-5. `prate`: 3.532 Avg.
-6. `reast`: 3.532 Avg.
-7. `leant`: 3.532 Avg.
-8. `clast`: 3.535 Avg.
-9. `least`: 3.533 Avg.
-10. `slane`: 3.537 Avg.
-11. `train`: 3.537 Avg.
-12. `crate`: 3.538 Avg.
-13. `slant`: 3.538 Avg.
-14. `crane`: 3.539 Avg.
-15. `torse`: 3.544 Avg.
-16. `react`: 3.545 Avg.
-17. `teals`: 3.549 Avg.
-18. `plane`: 3.550 Avg.
+1.  `salet`: 3.521 Avg.
+2.  `slate`: 3.529 Avg.
+3.  `trape`: 3.531 Avg.
+4.  `trace`: 3.532 Avg.
+5.  `prate`: 3.532 Avg.
+6.  `reast`: 3.532 Avg.
+7.  `leant`: 3.532 Avg.
+9.  `least`: 3.533 Avg.
+10. `clast`: 3.535 Avg.
+11. `slane`: 3.537 Avg.
+12. `train`: 3.537 Avg.
+13. `crate`: 3.538 Avg.
+14. `slant`: 3.538 Avg.
+15. `crane`: 3.539 Avg.
+16. `torse`: 3.544 Avg.
+17. `trice`: 3.544 Avg.
+18. `react`: 3.545 Avg.
+19. `caret`: 3.545 Avg.
+20. `carse`: 3.546 Avg.
+21. `carle`: 3.548 Avg.
+22. `teals`: 3.549 Avg.
+23. `plane`: 3.550 Avg.
+24. `prase`: 3.553 Avg.
+25. `spalt`: 3.557 Avg.
 
 # The hall of shame (not fully tested, but I've been working with other best openers):
 * `qajaq`: 4.114 Avg.
