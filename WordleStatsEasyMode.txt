@@ -1,0 +1,30 @@
+Wordle Stats (My Wordle solver)
+
+Starting word=SALET; Mode: Easy
+[0,79,1215,977,42,2,0] (7933)
+average: 3.4267818574514039
+
+Starting word=SLATE; Mode: Easy
+[1,69,1251,923,67,4,0] (7943)
+average: 3.4311015118790498
+
+Starting word=REAST; Mode: Easy
+[0,68,1256,919,68,4,0] (7944)
+average: 3.4315334773218145
+
+Starting word=CRANE; Mode: Easy
+[1,73,1243,923,72,2,1] (7947)
+average: 3.4328293736501080
+
+Starting word=TRACE; Mode: Easy
+[1,76,1250,898,86,4,0] (7949)
+average: 3.4336933045356370
+
+Starting word=CRATE; Mode: Easy
+[1,84,1235,903,88,4,0] (7950)
+average: 3.4341252699784017
+
+Starting word=CARLE; Mode: Easy
+[0,74,1229,947,61,4,0] (7952)
+average: 3.43498920086
+
