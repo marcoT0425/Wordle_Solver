@@ -26,5 +26,24 @@ average: 3.4341252699784017
 
 Starting word=CARLE; Mode: Easy
 [0,74,1229,947,61,4,0] (7952)
-average: 3.43498920086
+average: 3.4349892008639309
 
+Starting word=SLANE; Mode: Easy
+[0,67,1252,916,73,7,0] (7961)
+average: 3.4388768898488120
+
+Starting word=SLANT; Mode: Easy
+[1,71,1223,950,68,2,0] (7964)
+average: 3.4401727861771056
+
+Starting word=TORSE; Mode: Easy
+[0,64,1243,930,76,2,0] (7969)
+average: 3.4423326133909287
+
+Starting word=CARTE; Mode: Easy
+[0,82,1214,935,80,4,0] (7970)
+average: 3.4427645788336934
+
+Starting word=PRATE; Mode: Easy
+[0,74,1220,941,74,6,0] (7978)
+average: 3.4462203023758100
